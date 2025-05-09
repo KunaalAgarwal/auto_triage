@@ -1,0 +1,1001 @@
+age,gender,ethnicity,insurance_status,pain_level,symptom_duration_hrs,symptom_description,chronic_disease,current_medications,heart_rate,systolic_bp,diastolic_bp,respiratory_rate,temperature_c,oxygen_saturation,arrival_mode,time_of_day,known_allergies,language_proficiency,height_cm,weight_kg,bmi,severity
+69,Male,White,Medicaid,10,9.1,Abdominal pain and vomiting,Hypertension,"Metformin, Insulin",132,176,70,22,37.3,92,Ambulance,Morning,NSAIDs,Spanish,152,71,30.7,1
+70,Male,White,Private,1,7.7,Confusion and slurred speech,Hypertension,"Atorvastatin, Warfarin",113,149,80,12,38.0,96,Ambulance,Afternoon,NSAIDs,Spanish,171,98,33.5,2
+76,Male,Asian,Medicaid,9,0.3,Chest pain and trouble breathing,Chronic Kidney Disease,Warfarin,111,151,62,16,35.8,91,Ambulance,Night,Peanuts,Spanish,167,53,19.0,1
+77,Male,Black,Medicaid,1,2.9,Pounding headache with neck stiffness,None,None,51,173,87,26,37.4,96,Walk-in,Morning,Peanuts,Spanish,156,93,38.2,2
+25,Female,White,Uninsured,2,14.4,Cut on hand with mild bleeding,None,None,53,91,65,21,36.5,86,Walk-in,Morning,NSAIDs,Spanish,175,93,30.4,0
+51,Female,Other,Medicare,9,13.5,Severe headache with vision changes,None,None,97,104,67,25,37.1,91,Referral,Afternoon,Peanuts,English,189,102,28.6,2
+41,Male,White,Uninsured,9,20.2,Sharp abdominal cramps,Asthma,Insulin,90,118,74,24,36.3,92,Walk-in,Afternoon,Peanuts,Spanish,160,57,22.3,1
+52,Male,Hispanic,Private,2,8.9,Mild rash on arms,Heart Disease,Metformin,90,117,66,20,37.6,92,Referral,Afternoon,Penicillin,Spanish,161,83,32.0,0
+50,Female,Hispanic,Medicare,6,2.2,Moderate shortness of breath when walking,Chronic Kidney Disease,Warfarin,93,175,86,14,36.0,98,Ambulance,Afternoon,None,Spanish,152,50,21.6,1
+22,Female,Hispanic,Private,9,1.6,Confusion and slurred speech,COPD,Insulin,58,168,74,21,36.9,96,Walk-in,Afternoon,Latex,Spanish,162,100,38.1,2
+80,Female,Black,Medicaid,6,3.9,Severe allergic reaction with hives,Hypertension,"Insulin, Atorvastatin",72,104,88,15,37.1,87,Referral,Evening,NSAIDs,Spanish,171,77,26.3,2
+83,Female,Hispanic,Medicare,9,9.9,Severe allergic reaction with hives,COPD,"Albuterol, Aspirin",77,117,79,22,37.6,100,Ambulance,Morning,Penicillin,Other,177,111,35.4,2
+18,Male,Asian,Private,8,6.3,Persistent diarrhea and dehydration,Asthma,Atorvastatin,52,159,67,20,38.9,94,Walk-in,Evening,NSAIDs,English,193,73,19.6,2
+76,Male,Other,Medicaid,5,1.5,Sore throat and cough,Diabetes,"Aspirin, Lisinopril",111,147,71,18,36.8,86,Walk-in,Afternoon,Latex,English,152,105,45.4,0
+76,Female,Other,Medicare,0,22.5,Intermittent palpitations,None,None,136,90,78,13,34.5,90,Referral,Evening,NSAIDs,Other,181,117,35.7,1
+72,Male,Black,Medicaid,10,2.8,Repeated episodes of chest tightness,COPD,"Warfarin, Atorvastatin",73,158,93,17,38.5,90,Ambulance,Evening,Latex,English,160,65,25.4,2
+76,Male,Hispanic,Medicaid,5,7.1,Abdominal pain and vomiting,None,None,108,125,78,14,36.5,91,Ambulance,Morning,None,Other,190,82,22.7,1
+57,Female,White,Medicare,6,16.6,Severe allergic reaction with hives,Heart Disease,"Albuterol, Atorvastatin",106,178,82,21,38.1,87,Ambulance,Evening,NSAIDs,Other,156,65,26.7,2
+77,Female,Black,Medicare,0,1.7,High fever and body aches,Asthma,"Insulin, Warfarin",118,126,91,20,38.0,100,Walk-in,Night,NSAIDs,Spanish,152,69,29.9,1
+41,Male,Black,Medicare,5,9.1,Severe headache with vision changes,Diabetes,Aspirin,121,125,97,19,35.9,88,Referral,Afternoon,NSAIDs,English,184,74,21.9,2
+35,Male,White,Private,1,4.0,Abdominal pain and vomiting,None,None,110,130,95,12,37.0,100,Ambulance,Evening,None,Other,169,57,20.0,1
+24,Male,Hispanic,Uninsured,2,6.4,Confusion and slurred speech,COPD,"Metformin, Insulin",108,175,81,25,36.6,98,Referral,Night,Penicillin,Spanish,187,100,28.6,2
+71,Female,Black,Private,7,6.0,Pounding headache with neck stiffness,Heart Disease,"Albuterol, Lisinopril",77,153,92,16,37.0,88,Walk-in,Night,Latex,Other,184,113,33.4,2
+66,Male,White,Private,0,31.3,Persistent diarrhea and dehydration,Heart Disease,"Lisinopril, Aspirin",55,126,83,28,35.4,98,Ambulance,Afternoon,Penicillin,Other,180,109,33.6,1
+80,Female,Black,Uninsured,4,1.3,Repeated episodes of chest tightness,Diabetes,Albuterol,67,114,90,14,36.1,100,Ambulance,Morning,Latex,Other,196,72,18.7,2
+83,Male,White,Private,10,2.1,Severe headache with vision changes,Chronic Kidney Disease,"Warfarin, Metformin",82,98,98,21,37.2,91,Ambulance,Night,Latex,Spanish,175,99,32.3,2
+42,Male,Asian,Private,7,14.7,Repeated episodes of chest tightness,Asthma,Aspirin,85,134,79,12,36.8,98,Walk-in,Evening,Latex,Spanish,161,64,24.7,2
+83,Female,Other,Uninsured,6,6.7,Severe allergic reaction with hives,Hypertension,"Lisinopril, Metformin",112,151,81,28,36.3,88,Ambulance,Morning,Peanuts,English,191,119,32.6,2
+32,Male,Other,Uninsured,5,4.6,Intermittent palpitations,Chronic Kidney Disease,"Atorvastatin, Metformin",102,149,64,18,39.4,91,Ambulance,Morning,Penicillin,English,189,101,28.3,1
+33,Male,Black,Uninsured,1,4.4,Pounding headache with neck stiffness,COPD,Metformin,112,108,87,16,38.8,94,Referral,Morning,NSAIDs,English,172,58,19.6,2
+29,Female,Other,Medicaid,4,0.4,Sharp abdominal cramps,Hypertension,Insulin,83,137,84,19,37.2,97,Referral,Evening,Penicillin,Spanish,188,113,32.0,1
+80,Female,Black,Medicaid,4,5.7,Nausea and lightheadedness,Diabetes,"Warfarin, Aspirin",75,105,96,25,37.6,96,Ambulance,Night,NSAIDs,Other,154,96,40.5,1
+79,Male,White,Medicare,3,1.2,Intermittent palpitations,Diabetes,"Metformin, Lisinopril",97,174,98,15,36.7,91,Ambulance,Afternoon,Peanuts,Spanish,159,118,46.7,2
+51,Male,Asian,Medicaid,3,2.8,Mild rash on arms,Chronic Kidney Disease,"Insulin, Atorvastatin",50,158,63,27,35.8,92,Ambulance,Evening,None,English,165,51,18.7,0
+49,Female,White,Private,10,9.7,Cut on hand with mild bleeding,Hypertension,Lisinopril,82,122,96,23,37.4,94,Walk-in,Afternoon,Peanuts,English,192,93,25.2,0
+46,Female,Other,Uninsured,1,0.2,Sharp abdominal cramps,Chronic Kidney Disease,Aspirin,130,179,67,21,36.9,94,Ambulance,Night,Peanuts,English,183,56,16.7,1
+85,Male,Hispanic,Medicare,9,7.2,Sore throat and cough,Diabetes,Metformin,85,178,80,15,37.6,100,Referral,Night,NSAIDs,Other,184,98,28.9,0
+53,Female,Other,Private,1,1.7,Pounding headache with neck stiffness,None,None,72,151,91,16,36.3,96,Referral,Afternoon,NSAIDs,English,198,104,26.5,2
+30,Female,Other,Medicare,6,8.4,Back pain after lifting heavy object,Hypertension,Aspirin,111,173,84,24,36.8,96,Walk-in,Evening,None,Spanish,190,68,18.8,1
+26,Male,Black,Private,6,18.9,Chronic cough worsening over weeks,Chronic Kidney Disease,"Atorvastatin, Albuterol",132,105,64,14,37.9,96,Referral,Afternoon,Penicillin,English,174,101,33.4,1
+70,Male,Asian,Private,6,9.1,Repeated episodes of chest tightness,Heart Disease,Lisinopril,91,147,98,25,34.9,91,Walk-in,Afternoon,Peanuts,English,178,67,21.1,2
+26,Male,Asian,Private,9,10.9,"Multiple falls, leg pain",Hypertension,"Metformin, Albuterol",56,135,72,19,38.8,94,Walk-in,Evening,Penicillin,English,158,99,39.7,1
+44,Male,Black,Uninsured,9,1.0,Moderate shortness of breath when walking,Diabetes,"Warfarin, Aspirin",132,97,60,28,36.3,99,Walk-in,Evening,NSAIDs,Spanish,168,110,39.0,1
+71,Female,White,Private,6,3.3,Sharp abdominal cramps,Hypertension,Atorvastatin,116,134,72,29,38.4,96,Walk-in,Morning,None,Other,169,110,38.5,1
+56,Female,Hispanic,Medicaid,0,6.9,Back pain after lifting heavy object,COPD,Atorvastatin,112,114,92,17,38.4,97,Ambulance,Night,NSAIDs,English,181,94,28.7,1
+78,Female,White,Uninsured,4,0.3,Chest pain and trouble breathing,COPD,"Warfarin, Atorvastatin",85,108,79,29,36.7,99,Referral,Afternoon,Peanuts,Spanish,190,98,27.1,2
+31,Male,Hispanic,Medicaid,0,5.9,Pounding headache with neck stiffness,Heart Disease,"Lisinopril, Atorvastatin",136,146,70,23,36.1,89,Walk-in,Night,Peanuts,Spanish,157,85,34.5,2
+25,Female,Other,Medicare,9,1.6,Confusion and slurred speech,Asthma,Insulin,90,153,86,28,36.8,93,Walk-in,Afternoon,NSAIDs,Other,182,78,23.5,2
+30,Female,Asian,Private,2,10.4,High fever and body aches,Diabetes,"Metformin, Albuterol",118,136,84,13,35.8,92,Referral,Evening,Latex,Spanish,182,114,34.4,1
+35,Female,Black,Uninsured,0,2.8,Repeated episodes of chest tightness,Heart Disease,Aspirin,135,148,86,28,37.2,97,Walk-in,Evening,None,English,182,50,15.1,2
+38,Female,Black,Medicare,6,12.0,Severe allergic reaction with hives,None,None,54,92,82,16,37.9,87,Ambulance,Afternoon,Latex,Other,166,50,18.1,2
+68,Male,Asian,Uninsured,3,1.6,Sore throat and cough,COPD,"Metformin, Insulin",83,161,98,13,37.8,90,Referral,Night,Latex,Spanish,152,99,42.8,0
+29,Male,Black,Private,0,4.8,Pounding headache with neck stiffness,Chronic Kidney Disease,"Albuterol, Metformin",106,106,82,26,37.6,95,Ambulance,Night,None,Other,200,87,21.8,2
+81,Male,White,Uninsured,1,2.6,Severe allergic reaction with hives,Chronic Kidney Disease,"Albuterol, Insulin",128,180,93,17,38.2,85,Referral,Evening,Latex,Other,173,79,26.4,2
+68,Female,Other,Uninsured,0,17.9,Repeated episodes of chest tightness,Heart Disease,"Warfarin, Albuterol",66,163,76,16,37.0,97,Walk-in,Evening,Penicillin,Other,192,92,25.0,2
+40,Female,Other,Uninsured,6,5.3,Sore throat and cough,Hypertension,"Lisinopril, Albuterol",57,93,99,15,37.4,92,Ambulance,Evening,Penicillin,Spanish,174,116,38.3,0
+84,Female,Hispanic,Private,10,6.6,Severe allergic reaction with hives,Hypertension,"Metformin, Albuterol",100,108,80,16,35.7,90,Referral,Afternoon,Penicillin,English,170,119,41.2,2
+18,Female,Asian,Medicaid,4,3.7,Cut on hand with mild bleeding,Asthma,"Albuterol, Aspirin",98,167,85,24,35.7,95,Ambulance,Night,Latex,Other,158,75,30.0,0
+64,Male,Other,Uninsured,8,7.0,"Multiple falls, leg pain",None,None,112,137,76,15,37.6,97,Walk-in,Evening,Latex,Spanish,164,96,35.7,1
+73,Male,Asian,Medicare,5,1.6,Sharp abdominal cramps,Asthma,"Albuterol, Aspirin",137,91,85,25,37.8,95,Walk-in,Evening,Latex,Other,200,56,14.0,1
+20,Male,Asian,Medicare,6,4.3,Mild rash on arms,COPD,Aspirin,67,127,94,30,36.2,89,Walk-in,Morning,None,Other,177,88,28.1,0
+74,Female,Black,Uninsured,0,1.4,Repeated episodes of chest tightness,None,None,93,114,76,24,36.1,88,Walk-in,Night,Peanuts,English,174,117,38.6,2
+27,Female,Hispanic,Medicaid,2,6.3,Persistent diarrhea and dehydration,Diabetes,"Warfarin, Albuterol",135,123,67,19,36.0,93,Walk-in,Morning,Latex,English,186,55,15.9,1
+69,Male,Hispanic,Medicare,9,5.6,Sore throat and cough,None,None,108,159,96,12,36.8,89,Referral,Morning,None,English,171,70,23.9,0
+87,Male,White,Medicare,5,1.7,Abdominal pain and vomiting,Hypertension,Albuterol,111,151,89,20,37.0,92,Referral,Morning,NSAIDs,English,186,85,24.6,1
+41,Female,Hispanic,Medicaid,5,3.0,Repeated episodes of chest tightness,COPD,"Atorvastatin, Insulin",128,95,89,17,36.2,87,Referral,Morning,Penicillin,Spanish,151,57,25.0,1
+43,Male,Other,Private,2,10.9,High fever and body aches,COPD,"Insulin, Albuterol",117,108,79,12,37.2,85,Walk-in,Afternoon,None,Other,175,63,20.6,1
+81,Male,White,Medicaid,5,5.2,Mild rash on arms,Chronic Kidney Disease,"Aspirin, Atorvastatin",126,92,92,17,38.7,86,Ambulance,Evening,NSAIDs,Spanish,159,54,21.4,0
+40,Female,White,Medicaid,9,27.6,Chest pain and trouble breathing,Chronic Kidney Disease,"Albuterol, Warfarin",133,154,96,20,37.5,92,Ambulance,Night,Peanuts,Other,187,84,24.0,2
+66,Female,Black,Uninsured,4,10.7,Repeated episodes of chest tightness,Heart Disease,"Atorvastatin, Insulin",124,98,93,23,38.4,87,Walk-in,Night,Latex,Spanish,184,50,14.8,1
+57,Female,Hispanic,Medicare,5,0.3,Severe headache with vision changes,Diabetes,Albuterol,63,149,89,14,37.4,95,Ambulance,Night,NSAIDs,Other,163,75,28.2,2
+79,Female,Hispanic,Private,3,2.3,"Multiple falls, leg pain",Chronic Kidney Disease,"Lisinopril, Metformin",89,161,98,19,36.6,98,Walk-in,Afternoon,Peanuts,Spanish,181,100,30.5,1
+55,Female,Hispanic,Medicaid,0,8.3,Cut on hand with mild bleeding,None,None,74,106,92,26,37.8,92,Referral,Afternoon,None,English,189,100,28.0,0
+56,Female,Asian,Medicare,2,3.4,"Multiple falls, leg pain",Heart Disease,Insulin,121,131,74,26,34.8,97,Walk-in,Night,None,English,182,76,22.9,1
+53,Female,Black,Uninsured,5,8.4,Abdominal pain and vomiting,Diabetes,Insulin,104,122,63,13,37.5,85,Referral,Evening,Latex,Other,187,62,17.7,1
+48,Female,Asian,Medicaid,3,3.7,Chronic cough worsening over weeks,Heart Disease,Albuterol,78,97,64,26,37.3,88,Walk-in,Evening,Peanuts,English,161,94,36.3,1
+19,Male,Black,Medicaid,10,6.1,Pounding headache with neck stiffness,Heart Disease,"Atorvastatin, Insulin",75,132,86,16,35.8,91,Ambulance,Afternoon,Penicillin,Other,196,95,24.7,2
+29,Female,Hispanic,Medicaid,9,5.3,Pounding headache with neck stiffness,Chronic Kidney Disease,Metformin,109,132,71,23,36.3,88,Walk-in,Afternoon,Peanuts,English,197,117,30.1,2
+22,Female,White,Medicare,7,0.1,Sharp abdominal cramps,None,None,80,98,88,25,36.0,89,Ambulance,Evening,Penicillin,Other,175,85,27.8,1
+71,Female,White,Private,6,15.2,"Twisted ankle, slight swelling",Diabetes,Albuterol,89,104,80,26,36.9,93,Walk-in,Night,Peanuts,English,158,101,40.5,0
+74,Male,Hispanic,Uninsured,4,5.6,Pounding headache with neck stiffness,Chronic Kidney Disease,"Aspirin, Albuterol",74,179,70,17,35.7,86,Walk-in,Morning,NSAIDs,Other,176,66,21.3,2
+60,Male,Black,Medicare,10,3.6,"Twisted ankle, slight swelling",Diabetes,"Aspirin, Metformin",74,160,65,12,35.7,85,Ambulance,Night,NSAIDs,Other,178,112,35.3,0
+39,Male,Other,Uninsured,9,0.1,Nausea and lightheadedness,Asthma,Lisinopril,130,173,100,28,38.1,99,Referral,Night,Peanuts,Other,189,98,27.4,1
+88,Male,Other,Private,0,2.2,Confusion and slurred speech,Heart Disease,Metformin,105,172,91,28,37.2,97,Walk-in,Morning,Penicillin,English,178,79,24.9,2
+33,Male,Other,Private,7,5.3,Repeated episodes of chest tightness,None,None,96,155,87,28,38.2,99,Walk-in,Night,NSAIDs,Spanish,153,50,21.4,2
+25,Female,White,Medicare,6,17.5,High fever and body aches,Heart Disease,"Lisinopril, Insulin",132,123,92,29,34.9,91,Walk-in,Morning,Penicillin,Spanish,178,57,18.0,1
+82,Male,Asian,Private,8,1.5,Cut on hand with mild bleeding,Hypertension,Insulin,121,143,96,14,37.1,92,Ambulance,Evening,Penicillin,English,183,84,25.1,0
+49,Male,Black,Medicaid,7,9.9,Mild rash on arms,Heart Disease,"Warfarin, Atorvastatin",86,143,80,25,38.0,99,Walk-in,Night,None,Spanish,197,56,14.4,0
+24,Female,Asian,Medicaid,0,1.4,Intermittent palpitations,COPD,Albuterol,68,125,88,29,35.8,86,Walk-in,Morning,NSAIDs,English,152,61,26.4,2
+37,Female,Hispanic,Medicaid,4,2.5,Chest pain and trouble breathing,None,None,58,142,94,23,36.2,92,Ambulance,Morning,Peanuts,Other,166,79,28.7,2
+76,Male,Black,Uninsured,6,9.7,Intermittent palpitations,Heart Disease,Albuterol,130,103,68,19,36.2,93,Walk-in,Afternoon,NSAIDs,Spanish,171,53,18.1,1
+43,Female,White,Uninsured,9,13.8,Chronic cough worsening over weeks,Asthma,Lisinopril,124,159,77,21,38.6,88,Walk-in,Morning,Penicillin,Spanish,190,87,24.1,1
+51,Female,Asian,Medicaid,0,3.1,Persistent diarrhea and dehydration,Chronic Kidney Disease,"Warfarin, Atorvastatin",136,175,80,17,36.1,97,Ambulance,Night,None,Spanish,156,59,24.2,1
+62,Female,Hispanic,Private,0,3.3,Persistent diarrhea and dehydration,Chronic Kidney Disease,"Atorvastatin, Aspirin",95,153,61,22,37.8,85,Referral,Night,Latex,English,200,102,25.5,1
+53,Male,Other,Medicaid,2,1.7,Mild rash on arms,Chronic Kidney Disease,"Albuterol, Insulin",60,125,98,19,36.1,99,Walk-in,Morning,Penicillin,Spanish,173,71,23.7,0
+86,Male,Hispanic,Uninsured,7,1.5,"Multiple falls, leg pain",None,None,69,172,94,22,39.6,85,Ambulance,Afternoon,Penicillin,Spanish,194,75,19.9,2
+83,Male,Other,Uninsured,4,2.5,Severe headache with vision changes,Hypertension,Warfarin,138,150,99,21,36.2,86,Ambulance,Night,None,Other,186,93,26.9,2
+68,Male,Asian,Medicaid,5,5.4,Intermittent palpitations,Heart Disease,"Lisinopril, Albuterol",108,138,76,21,36.9,93,Walk-in,Night,Penicillin,Spanish,198,96,24.5,1
+29,Male,Asian,Medicare,7,8.5,Mild rash on arms,COPD,Insulin,136,169,65,19,36.9,99,Ambulance,Morning,Peanuts,Spanish,175,75,24.5,0
+64,Female,Other,Medicaid,9,5.3,Chest pain and trouble breathing,Diabetes,"Insulin, Lisinopril",134,175,66,25,35.3,99,Referral,Night,Penicillin,Spanish,156,58,23.8,1
+65,Female,Hispanic,Medicaid,7,21.3,Cut on hand with mild bleeding,Chronic Kidney Disease,"Atorvastatin, Albuterol",88,107,98,28,35.7,96,Walk-in,Evening,Penicillin,Other,194,52,13.8,0
+54,Male,Other,Uninsured,10,2.5,Abdominal pain and vomiting,Chronic Kidney Disease,"Warfarin, Albuterol",88,104,63,24,38.4,86,Ambulance,Evening,Latex,Other,182,65,19.6,1
+59,Female,Asian,Medicare,1,0.1,"Multiple falls, leg pain",None,None,79,102,72,29,36.5,89,Ambulance,Evening,None,Spanish,193,106,28.5,1
+33,Male,Other,Uninsured,7,1.9,Chest pain and trouble breathing,Heart Disease,"Metformin, Albuterol",74,173,64,12,38.4,98,Referral,Afternoon,None,Spanish,198,52,13.3,2
+62,Female,Hispanic,Uninsured,7,2.0,Sore throat and cough,None,None,111,126,84,27,35.1,92,Walk-in,Night,Peanuts,Other,153,61,26.1,0
+76,Female,Other,Private,9,9.6,Mild rash on arms,None,None,119,128,83,22,35.8,98,Ambulance,Evening,Penicillin,Other,162,74,28.2,0
+88,Male,Asian,Private,3,0.4,Sore throat and cough,Heart Disease,Warfarin,112,143,69,22,36.5,85,Ambulance,Night,Penicillin,Other,152,55,23.8,0
+22,Female,White,Private,4,6.0,Moderate shortness of breath when walking,Chronic Kidney Disease,Aspirin,69,150,94,29,36.4,86,Walk-in,Evening,Peanuts,Spanish,166,52,18.9,1
+49,Male,Black,Uninsured,2,1.5,"Twisted ankle, slight swelling",Heart Disease,Warfarin,138,162,63,25,36.9,92,Ambulance,Afternoon,Penicillin,English,152,78,33.8,0
+26,Female,Other,Medicare,2,18.7,"Multiple falls, leg pain",COPD,Metformin,128,129,84,16,38.1,95,Ambulance,Night,Peanuts,Spanish,183,87,26.0,1
+89,Female,White,Uninsured,10,7.7,High fever and body aches,Heart Disease,"Atorvastatin, Metformin",86,149,72,16,37.0,87,Ambulance,Night,Peanuts,Other,152,105,45.4,1
+57,Female,Asian,Medicaid,1,4.7,Nausea and lightheadedness,Chronic Kidney Disease,Lisinopril,55,177,78,27,38.0,92,Ambulance,Night,Latex,English,177,108,34.5,1
+76,Male,Asian,Medicaid,8,2.4,"Twisted ankle, slight swelling",Diabetes,Insulin,91,152,86,17,37.2,97,Walk-in,Morning,Latex,Spanish,200,80,20.0,0
+40,Male,Other,Private,9,0.8,Mild rash on arms,Heart Disease,"Albuterol, Lisinopril",88,120,77,15,36.8,86,Ambulance,Evening,Penicillin,Other,163,61,23.0,0
+56,Male,Other,Medicaid,1,2.0,Severe allergic reaction with hives,Heart Disease,Aspirin,66,149,83,24,36.7,98,Referral,Morning,Peanuts,Spanish,156,112,46.0,2
+45,Male,Other,Medicaid,4,0.6,Severe allergic reaction with hives,None,None,117,180,76,23,37.2,90,Walk-in,Evening,Latex,English,166,59,21.4,2
+82,Male,Black,Medicaid,5,5.8,Intermittent palpitations,COPD,"Lisinopril, Metformin",63,153,88,23,36.4,97,Walk-in,Night,Peanuts,Other,161,56,21.6,2
+46,Female,White,Uninsured,10,10.3,Severe headache with vision changes,Hypertension,"Warfarin, Metformin",100,164,82,13,37.4,98,Referral,Night,NSAIDs,Spanish,183,78,23.3,2
+21,Male,Asian,Private,0,0.6,Sharp abdominal cramps,COPD,Aspirin,78,118,70,13,36.3,95,Walk-in,Evening,Peanuts,Other,176,116,37.4,1
+73,Female,Hispanic,Private,4,14.4,Abdominal pain and vomiting,Asthma,"Aspirin, Atorvastatin",55,108,64,14,37.7,95,Referral,Evening,NSAIDs,English,150,107,47.6,1
+55,Male,Asian,Medicaid,1,1.4,Sore throat and cough,Asthma,Aspirin,73,101,77,26,39.5,96,Ambulance,Morning,None,Spanish,195,66,17.4,1
+70,Female,White,Private,7,8.8,Abdominal pain and vomiting,COPD,"Metformin, Albuterol",120,92,88,23,35.3,89,Walk-in,Evening,NSAIDs,Spanish,173,109,36.4,1
+20,Male,Asian,Private,3,9.6,"Multiple falls, leg pain",COPD,"Albuterol, Lisinopril",120,106,79,15,35.5,96,Ambulance,Evening,Penicillin,Spanish,171,51,17.4,1
+89,Female,Black,Medicaid,10,24.9,Pounding headache with neck stiffness,Heart Disease,Lisinopril,67,153,77,25,37.3,99,Referral,Evening,None,Spanish,180,87,26.9,2
+49,Female,Black,Private,10,7.1,Nausea and lightheadedness,None,None,90,97,70,30,36.7,93,Referral,Afternoon,NSAIDs,English,195,81,21.3,1
+71,Male,Hispanic,Medicare,5,1.4,Severe allergic reaction with hives,Chronic Kidney Disease,"Atorvastatin, Metformin",81,91,92,12,36.6,93,Ambulance,Afternoon,NSAIDs,English,162,79,30.1,2
+50,Male,Hispanic,Medicare,3,2.7,Mild rash on arms,None,None,87,179,74,13,37.1,92,Walk-in,Afternoon,Penicillin,Other,160,110,43.0,0
+84,Female,Black,Private,10,0.2,Chest pain and trouble breathing,Hypertension,Aspirin,81,130,71,19,36.7,92,Walk-in,Afternoon,NSAIDs,Spanish,199,111,28.0,2
+79,Male,Black,Medicaid,10,4.0,Sudden weakness on one side of body,Hypertension,"Insulin, Albuterol",53,95,81,14,38.7,96,Referral,Morning,None,Spanish,172,61,20.6,2
+30,Female,Hispanic,Private,8,12.3,Nausea and lightheadedness,COPD,Metformin,94,97,88,30,36.5,96,Referral,Morning,NSAIDs,Spanish,167,119,42.7,1
+35,Female,White,Private,2,1.6,"Multiple falls, leg pain",Chronic Kidney Disease,Albuterol,108,92,87,21,35.6,90,Walk-in,Morning,Latex,Other,164,56,20.8,0
+66,Female,White,Private,4,7.8,Moderate shortness of breath when walking,COPD,"Metformin, Aspirin",86,93,87,23,36.5,98,Ambulance,Evening,NSAIDs,Other,169,109,38.2,1
+41,Female,Asian,Medicaid,1,12.1,Nausea and lightheadedness,COPD,"Atorvastatin, Albuterol",115,168,93,15,35.4,87,Ambulance,Morning,NSAIDs,Other,161,52,20.1,1
+35,Male,Asian,Uninsured,7,10.8,Abdominal pain and vomiting,Asthma,"Lisinopril, Albuterol",57,176,73,25,36.4,86,Walk-in,Night,None,Spanish,186,118,34.1,1
+55,Female,Hispanic,Medicaid,8,1.7,Chronic cough worsening over weeks,Hypertension,Insulin,63,178,79,13,37.3,93,Walk-in,Morning,None,English,177,115,36.7,1
+52,Male,Asian,Private,4,0.1,Chronic cough worsening over weeks,Chronic Kidney Disease,"Metformin, Atorvastatin",105,125,82,26,36.3,99,Ambulance,Evening,None,Spanish,160,59,23.0,1
+84,Female,Asian,Private,5,1.1,High fever and body aches,COPD,"Lisinopril, Warfarin",125,90,64,19,38.5,100,Ambulance,Afternoon,Penicillin,Other,169,77,27.0,1
+54,Female,Black,Private,4,4.6,Chronic cough worsening over weeks,Chronic Kidney Disease,"Atorvastatin, Lisinopril",93,145,87,26,37.9,99,Ambulance,Evening,NSAIDs,English,155,110,45.8,1
+37,Female,Other,Private,1,25.9,Mild rash on arms,Heart Disease,Warfarin,69,115,88,12,36.9,89,Referral,Evening,None,English,154,82,34.6,0
+68,Female,Hispanic,Medicaid,9,3.0,Chronic cough worsening over weeks,None,None,92,178,88,18,36.0,99,Ambulance,Afternoon,NSAIDs,Other,196,92,23.9,1
+67,Female,White,Medicare,6,6.6,Sore throat and cough,None,None,94,141,75,29,37.6,86,Ambulance,Afternoon,Latex,Spanish,170,50,17.3,0
+25,Female,Hispanic,Medicare,5,12.2,Chronic cough worsening over weeks,Diabetes,"Insulin, Lisinopril",114,144,85,22,35.9,94,Referral,Morning,None,English,179,66,20.6,1
+43,Male,Other,Private,7,12.0,Severe headache with vision changes,Diabetes,Albuterol,121,178,63,12,37.6,98,Referral,Night,Latex,Other,197,118,30.4,2
+79,Female,Asian,Medicaid,1,44.7,Confusion and slurred speech,Chronic Kidney Disease,Atorvastatin,82,130,84,27,37.1,97,Ambulance,Evening,Latex,English,158,80,32.0,2
+85,Female,Other,Uninsured,1,3.1,Intermittent palpitations,Heart Disease,"Lisinopril, Aspirin",68,159,93,29,36.6,97,Ambulance,Night,NSAIDs,English,160,50,19.5,1
+71,Male,Black,Medicaid,6,0.0,Confusion and slurred speech,Chronic Kidney Disease,"Metformin, Lisinopril",120,104,80,30,37.8,96,Walk-in,Evening,None,English,178,82,25.9,2
+66,Female,Asian,Medicare,0,3.5,Severe allergic reaction with hives,Asthma,Atorvastatin,121,167,69,13,34.8,94,Referral,Afternoon,NSAIDs,Other,157,97,39.4,2
+83,Female,White,Uninsured,5,14.7,Sudden weakness on one side of body,Asthma,Aspirin,61,94,93,27,36.3,89,Walk-in,Morning,Peanuts,Other,164,93,34.6,2
+32,Female,Other,Uninsured,10,8.7,Sore throat and cough,Asthma,"Lisinopril, Aspirin",92,110,82,22,36.7,95,Walk-in,Morning,Peanuts,English,200,64,16.0,0
+85,Female,Hispanic,Private,4,3.9,Back pain after lifting heavy object,Chronic Kidney Disease,"Aspirin, Metformin",117,141,86,26,37.4,96,Walk-in,Night,NSAIDs,English,184,57,16.8,1
+33,Female,Hispanic,Medicaid,9,5.7,Abdominal pain and vomiting,Diabetes,Warfarin,126,93,85,22,36.5,99,Ambulance,Morning,NSAIDs,Other,198,91,23.2,1
+78,Male,Other,Medicare,9,15.0,Chronic cough worsening over weeks,Diabetes,"Insulin, Warfarin",56,143,60,23,37.5,92,Ambulance,Afternoon,None,English,194,96,25.5,1
+30,Female,Black,Medicare,6,6.1,Mild rash on arms,Hypertension,"Warfarin, Insulin",58,115,68,26,35.6,97,Ambulance,Afternoon,Latex,Spanish,191,73,20.0,0
+66,Female,Other,Medicaid,9,1.8,Sore throat and cough,Diabetes,"Metformin, Albuterol",68,149,98,21,38.7,93,Ambulance,Night,Latex,Other,167,68,24.4,0
+53,Female,Hispanic,Private,9,3.6,Chronic cough worsening over weeks,COPD,Aspirin,98,122,80,28,36.5,87,Walk-in,Night,Latex,English,177,120,38.3,1
+49,Male,Hispanic,Medicaid,10,1.6,Severe headache with vision changes,Heart Disease,Warfarin,106,114,61,14,36.1,91,Ambulance,Night,Latex,Other,170,67,23.2,2
+84,Male,Asian,Medicare,9,3.4,Moderate shortness of breath when walking,COPD,Albuterol,124,113,78,15,37.6,91,Referral,Afternoon,None,Spanish,194,85,22.6,1
+53,Male,Hispanic,Private,2,3.1,Intermittent palpitations,Heart Disease,"Metformin, Aspirin",90,157,72,28,38.6,96,Ambulance,Night,Latex,Other,151,109,47.8,1
+22,Male,Hispanic,Medicaid,10,6.1,High fever and body aches,Asthma,"Albuterol, Lisinopril",99,156,62,17,36.9,90,Referral,Morning,Peanuts,English,166,84,30.5,1
+47,Female,White,Uninsured,3,0.4,High fever and body aches,Diabetes,"Insulin, Warfarin",118,166,88,26,36.5,93,Referral,Afternoon,Peanuts,English,165,111,40.8,1
+47,Male,Hispanic,Medicaid,8,10.3,Sore throat and cough,Heart Disease,"Insulin, Albuterol",61,97,79,14,35.9,89,Ambulance,Morning,Peanuts,Other,169,114,39.9,1
+47,Female,Hispanic,Medicare,4,0.6,Intermittent palpitations,None,None,121,121,92,27,36.7,96,Referral,Night,NSAIDs,Spanish,187,63,18.0,1
+53,Male,Hispanic,Medicaid,0,1.5,Repeated episodes of chest tightness,Hypertension,Lisinopril,134,91,86,20,38.3,98,Walk-in,Afternoon,Penicillin,English,172,75,25.4,2
+85,Male,White,Medicaid,1,4.4,Pounding headache with neck stiffness,COPD,Warfarin,64,175,96,21,37.0,96,Referral,Morning,Peanuts,Other,196,98,25.5,2
+59,Male,Other,Uninsured,5,10.2,Severe allergic reaction with hives,Hypertension,"Metformin, Insulin",79,167,65,14,36.3,93,Referral,Afternoon,Latex,English,164,70,26.0,2
+52,Female,Hispanic,Medicare,1,1.0,Nausea and lightheadedness,COPD,"Lisinopril, Insulin",69,171,69,13,38.0,93,Walk-in,Afternoon,NSAIDs,English,182,85,25.7,1
+31,Female,Asian,Medicare,0,5.6,Chronic cough worsening over weeks,Heart Disease,Atorvastatin,101,92,94,20,37.5,86,Walk-in,Night,Peanuts,Spanish,157,70,28.4,1
+85,Female,Black,Medicare,8,1.6,Mild rash on arms,Hypertension,"Warfarin, Lisinopril",81,102,90,25,38.0,88,Ambulance,Night,Peanuts,Other,167,109,39.1,0
+80,Male,Other,Private,5,0.0,High fever and body aches,None,None,51,149,82,30,38.1,86,Ambulance,Evening,Latex,Other,159,51,20.2,2
+28,Male,Asian,Private,1,0.4,Abdominal pain and vomiting,Chronic Kidney Disease,Albuterol,136,172,68,14,35.0,89,Walk-in,Morning,Latex,English,158,77,30.8,1
+79,Female,Other,Medicaid,2,1.2,Abdominal pain and vomiting,Asthma,Aspirin,53,93,98,19,37.4,88,Walk-in,Afternoon,None,Spanish,178,101,31.9,1
+53,Male,Hispanic,Medicare,5,3.3,Severe allergic reaction with hives,None,None,112,151,94,18,38.2,95,Walk-in,Night,Penicillin,Other,177,63,20.1,2
+88,Female,Asian,Private,4,2.9,Severe headache with vision changes,None,None,104,91,86,17,37.9,94,Walk-in,Afternoon,Penicillin,Other,188,54,15.3,1
+82,Female,White,Medicaid,4,10.8,Abdominal pain and vomiting,Diabetes,Aspirin,131,134,91,15,36.2,85,Ambulance,Afternoon,Latex,Other,184,109,32.2,1
+28,Female,White,Private,4,11.2,"Multiple falls, leg pain",COPD,"Atorvastatin, Aspirin",117,123,77,19,37.4,97,Referral,Afternoon,Penicillin,Spanish,187,91,26.0,1
+38,Female,White,Medicaid,9,13.4,Abdominal pain and vomiting,COPD,Albuterol,58,130,60,13,38.2,96,Ambulance,Morning,NSAIDs,Spanish,197,78,20.1,0
+27,Male,Other,Private,1,0.2,Persistent diarrhea and dehydration,Chronic Kidney Disease,Albuterol,77,164,93,19,37.3,99,Ambulance,Night,Peanuts,Spanish,166,109,39.6,1
+62,Male,Hispanic,Private,2,0.7,Chronic cough worsening over weeks,Hypertension,Insulin,57,166,67,22,37.8,85,Referral,Morning,NSAIDs,Other,194,100,26.6,0
+41,Female,Black,Private,2,0.1,Chronic cough worsening over weeks,COPD,Lisinopril,107,120,95,22,36.4,94,Referral,Afternoon,Latex,Other,154,54,22.8,0
+25,Female,Black,Medicare,9,0.1,Severe headache with vision changes,Heart Disease,"Warfarin, Albuterol",130,97,99,20,38.2,86,Ambulance,Evening,Penicillin,English,164,99,36.8,2
+84,Male,White,Medicaid,0,1.8,High fever and body aches,COPD,Albuterol,90,178,69,15,38.5,99,Referral,Night,Peanuts,English,165,81,29.8,1
+49,Male,Hispanic,Medicaid,1,0.8,Sudden weakness on one side of body,Chronic Kidney Disease,"Insulin, Lisinopril",67,144,68,19,38.8,95,Walk-in,Morning,Peanuts,Spanish,163,71,26.7,2
+47,Female,Asian,Uninsured,3,0.8,Moderate shortness of breath when walking,Hypertension,"Albuterol, Insulin",70,121,89,18,37.8,89,Walk-in,Evening,NSAIDs,Spanish,157,95,38.5,1
+24,Male,Asian,Private,6,6.4,Back pain after lifting heavy object,COPD,"Warfarin, Metformin",71,178,81,24,36.2,86,Referral,Evening,Peanuts,English,151,78,34.2,1
+69,Male,Hispanic,Medicaid,10,20.1,High fever and body aches,Asthma,Atorvastatin,137,133,72,22,37.8,87,Referral,Night,Penicillin,Other,168,72,25.5,1
+46,Female,Hispanic,Uninsured,6,5.2,Sudden weakness on one side of body,Heart Disease,Warfarin,57,147,75,19,37.9,85,Walk-in,Night,Peanuts,Other,193,54,14.5,2
+20,Male,White,Uninsured,0,2.0,Chronic cough worsening over weeks,COPD,"Warfarin, Insulin",138,99,80,25,35.8,93,Referral,Afternoon,None,English,197,62,16.0,1
+26,Female,White,Medicare,3,4.5,Severe headache with vision changes,Hypertension,"Warfarin, Insulin",103,101,76,25,37.4,98,Walk-in,Evening,Latex,Other,183,102,30.5,2
+37,Male,Other,Medicare,10,8.5,Nausea and lightheadedness,Diabetes,"Lisinopril, Albuterol",105,172,96,15,38.6,94,Ambulance,Afternoon,NSAIDs,Spanish,173,75,25.1,1
+54,Female,Hispanic,Medicaid,5,3.2,Abdominal pain and vomiting,None,None,70,163,97,25,35.7,88,Ambulance,Afternoon,Latex,Other,194,69,18.3,1
+34,Female,Other,Private,6,12.4,Sharp abdominal cramps,Chronic Kidney Disease,Lisinopril,137,169,63,13,38.6,96,Referral,Night,Penicillin,Other,168,98,34.7,1
+80,Female,Asian,Medicare,2,0.4,Pounding headache with neck stiffness,Hypertension,"Warfarin, Aspirin",107,120,95,30,38.6,100,Walk-in,Afternoon,Latex,English,194,104,27.6,2
+72,Female,Hispanic,Private,0,0.6,Cut on hand with mild bleeding,COPD,Lisinopril,96,164,92,28,36.9,99,Walk-in,Afternoon,Penicillin,Spanish,176,64,20.7,0
+87,Male,White,Medicare,10,8.1,Severe allergic reaction with hives,Hypertension,Warfarin,110,99,62,24,39.3,95,Walk-in,Morning,Peanuts,Other,198,119,30.4,1
+68,Female,Asian,Medicare,4,0.3,Mild rash on arms,None,None,75,158,88,16,34.3,100,Ambulance,Evening,Latex,Other,154,119,50.2,0
+21,Female,Other,Uninsured,6,14.1,Back pain after lifting heavy object,Chronic Kidney Disease,"Atorvastatin, Aspirin",106,159,100,25,36.2,96,Ambulance,Evening,None,Spanish,193,109,29.3,1
+74,Female,Other,Medicaid,3,6.4,Severe allergic reaction with hives,Chronic Kidney Disease,"Warfarin, Atorvastatin",73,119,81,18,37.4,92,Referral,Afternoon,Penicillin,Spanish,159,65,25.7,1
+71,Male,White,Medicare,9,11.2,High fever and body aches,Hypertension,Metformin,94,145,79,29,36.8,94,Walk-in,Afternoon,Peanuts,Other,192,106,28.8,1
+38,Female,White,Medicaid,3,2.3,Confusion and slurred speech,Heart Disease,"Atorvastatin, Lisinopril",64,171,91,22,37.1,91,Ambulance,Evening,NSAIDs,Other,170,91,31.5,2
+43,Male,Other,Medicare,7,1.8,"Twisted ankle, slight swelling",COPD,"Metformin, Warfarin",70,171,64,14,37.5,91,Referral,Evening,NSAIDs,English,175,86,28.1,0
+66,Male,White,Private,2,2.2,Sore throat and cough,Chronic Kidney Disease,"Atorvastatin, Lisinopril",110,130,92,29,36.4,93,Referral,Afternoon,NSAIDs,Spanish,156,82,33.7,0
+41,Male,Asian,Medicaid,1,3.1,Sore throat and cough,Diabetes,Albuterol,135,138,76,13,38.6,90,Ambulance,Night,Peanuts,Spanish,195,119,31.3,0
+82,Male,White,Medicare,9,1.1,Nausea and lightheadedness,Asthma,"Albuterol, Warfarin",106,155,69,13,36.9,91,Ambulance,Evening,NSAIDs,English,171,89,30.4,1
+55,Female,Hispanic,Medicaid,10,3.7,Persistent diarrhea and dehydration,Hypertension,Warfarin,98,153,91,18,38.1,89,Walk-in,Morning,Peanuts,English,169,75,26.3,1
+85,Female,White,Medicaid,3,4.4,Nausea and lightheadedness,Hypertension,Metformin,128,175,87,25,36.7,94,Ambulance,Morning,Peanuts,Spanish,177,75,23.9,1
+80,Female,Black,Medicare,1,0.4,Moderate shortness of breath when walking,COPD,"Insulin, Lisinopril",93,131,94,17,35.4,91,Ambulance,Afternoon,Latex,Other,172,99,33.5,1
+60,Female,Asian,Medicaid,2,3.5,"Multiple falls, leg pain",None,None,61,163,67,20,38.9,91,Ambulance,Night,NSAIDs,Spanish,158,96,38.5,1
+32,Male,Black,Medicaid,7,4.4,Sudden weakness on one side of body,None,None,119,101,61,18,38.1,100,Walk-in,Night,NSAIDs,Other,152,52,22.5,2
+44,Female,Hispanic,Private,1,1.1,Pounding headache with neck stiffness,Asthma,"Metformin, Lisinopril",50,97,96,27,36.8,90,Referral,Evening,Latex,Spanish,195,68,17.9,2
+49,Male,Asian,Private,8,9.8,"Twisted ankle, slight swelling",COPD,"Metformin, Lisinopril",50,152,80,24,35.8,86,Referral,Evening,None,Spanish,153,77,32.9,0
+76,Female,Other,Medicaid,6,0.8,Mild rash on arms,Heart Disease,Atorvastatin,117,114,79,13,36.5,87,Ambulance,Afternoon,None,Spanish,177,58,18.5,0
+67,Female,Hispanic,Medicaid,5,7.4,Severe allergic reaction with hives,Hypertension,Atorvastatin,115,136,68,13,35.7,90,Referral,Night,NSAIDs,English,152,79,34.2,2
+38,Male,White,Medicare,7,0.5,Moderate shortness of breath when walking,Chronic Kidney Disease,Albuterol,101,123,100,30,38.6,93,Referral,Night,Penicillin,Other,172,97,32.8,1
+39,Male,Hispanic,Medicaid,0,11.1,Repeated episodes of chest tightness,Asthma,Atorvastatin,84,122,79,27,36.7,86,Referral,Evening,NSAIDs,Spanish,151,89,39.0,2
+45,Female,Other,Medicaid,6,1.1,"Multiple falls, leg pain",Chronic Kidney Disease,Aspirin,121,176,62,15,36.7,99,Walk-in,Evening,None,Spanish,170,106,36.7,1
+70,Female,White,Uninsured,3,16.7,Sharp abdominal cramps,Heart Disease,Warfarin,58,166,74,29,37.4,87,Referral,Afternoon,None,Other,182,55,16.6,1
+40,Female,Black,Uninsured,10,0.7,Severe allergic reaction with hives,Chronic Kidney Disease,"Insulin, Metformin",63,161,94,30,36.5,92,Ambulance,Morning,Penicillin,English,163,75,28.2,2
+39,Female,Hispanic,Uninsured,8,2.1,Severe allergic reaction with hives,Asthma,"Insulin, Metformin",68,162,87,24,36.9,91,Walk-in,Night,None,Other,163,112,42.2,2
+36,Male,Other,Medicare,3,0.7,Cut on hand with mild bleeding,Diabetes,Insulin,85,129,76,20,37.0,93,Walk-in,Night,Peanuts,English,163,102,38.4,0
+76,Female,Other,Medicaid,8,0.3,Cut on hand with mild bleeding,Diabetes,"Insulin, Warfarin",51,175,100,27,36.7,97,Referral,Evening,NSAIDs,Spanish,198,97,24.7,0
+47,Male,Black,Medicaid,2,1.9,Cut on hand with mild bleeding,Diabetes,Metformin,70,158,79,16,36.1,97,Walk-in,Evening,Penicillin,Other,158,110,44.1,0
+26,Female,Hispanic,Uninsured,3,12.2,Chronic cough worsening over weeks,COPD,"Warfarin, Insulin",114,97,82,26,37.2,92,Walk-in,Evening,None,Other,161,103,39.7,1
+63,Female,Asian,Medicaid,8,2.5,Severe allergic reaction with hives,Diabetes,"Aspirin, Lisinopril",70,140,97,30,37.1,96,Referral,Morning,Peanuts,Spanish,153,71,30.3,2
+62,Female,Asian,Medicare,2,6.3,Confusion and slurred speech,Chronic Kidney Disease,"Atorvastatin, Lisinopril",104,90,67,17,35.4,90,Referral,Evening,Penicillin,English,171,74,25.3,1
+34,Male,Black,Private,5,0.3,Intermittent palpitations,Hypertension,"Insulin, Metformin",114,146,88,24,35.6,87,Ambulance,Morning,Latex,Spanish,197,105,27.1,1
+66,Female,White,Medicare,5,11.6,Chest pain and trouble breathing,COPD,"Metformin, Albuterol",92,109,92,18,36.9,89,Referral,Night,Latex,Other,198,113,28.8,2
+79,Male,Hispanic,Medicaid,9,2.1,High fever and body aches,Heart Disease,Aspirin,137,126,100,28,36.7,91,Ambulance,Afternoon,NSAIDs,Other,190,88,24.4,1
+30,Male,Black,Uninsured,10,0.3,Repeated episodes of chest tightness,None,None,95,134,60,19,36.2,96,Walk-in,Night,Penicillin,Other,168,110,39.0,2
+29,Female,White,Private,0,10.4,High fever and body aches,COPD,"Atorvastatin, Aspirin",118,97,84,25,37.1,86,Walk-in,Evening,Latex,Other,167,115,41.2,0
+85,Female,Black,Uninsured,0,3.7,Sharp abdominal cramps,Hypertension,Warfarin,77,129,79,28,36.4,85,Ambulance,Evening,Penicillin,Other,161,64,24.7,1
+58,Female,Hispanic,Medicare,6,3.2,Chest pain and trouble breathing,Heart Disease,"Lisinopril, Warfarin",115,140,70,24,37.2,96,Referral,Afternoon,Penicillin,Other,152,119,51.5,2
+44,Female,Asian,Medicaid,4,14.0,Severe headache with vision changes,Asthma,"Insulin, Aspirin",89,91,76,20,37.8,98,Ambulance,Afternoon,Latex,Spanish,161,84,32.4,2
+82,Male,White,Medicaid,6,5.2,Persistent diarrhea and dehydration,Hypertension,Albuterol,111,138,90,17,37.5,86,Walk-in,Evening,Peanuts,Other,185,94,27.5,2
+70,Male,Hispanic,Medicaid,5,9.3,Abdominal pain and vomiting,None,None,81,156,62,23,37.8,99,Referral,Morning,Latex,Spanish,190,112,31.0,1
+40,Male,Asian,Medicaid,7,13.2,Pounding headache with neck stiffness,Heart Disease,Lisinopril,106,122,83,18,35.7,91,Walk-in,Afternoon,Penicillin,English,153,86,36.7,2
+73,Female,Black,Uninsured,0,2.5,Mild rash on arms,Diabetes,Albuterol,123,149,77,14,37.0,95,Referral,Night,NSAIDs,Other,196,60,15.6,0
+66,Male,Black,Private,0,6.8,Intermittent palpitations,Asthma,"Atorvastatin, Insulin",97,145,71,17,38.9,97,Walk-in,Morning,NSAIDs,English,199,118,29.8,1
+47,Male,Other,Medicare,7,22.8,"Twisted ankle, slight swelling",COPD,Metformin,53,115,86,25,36.5,90,Ambulance,Evening,NSAIDs,Spanish,192,113,30.7,0
+68,Male,Black,Uninsured,1,2.3,Severe headache with vision changes,COPD,Albuterol,79,131,96,16,36.9,91,Ambulance,Night,Penicillin,Other,155,117,48.7,2
+35,Female,Asian,Private,8,24.8,Cut on hand with mild bleeding,Asthma,Insulin,66,111,63,16,37.2,89,Walk-in,Morning,Latex,Spanish,190,98,27.1,0
+30,Male,Black,Private,1,1.1,Sudden weakness on one side of body,Asthma,Lisinopril,100,92,93,24,35.7,96,Referral,Morning,NSAIDs,English,160,117,45.7,2
+18,Male,Asian,Private,7,49.0,High fever and body aches,Asthma,"Metformin, Warfarin",60,140,76,14,36.1,96,Referral,Night,Peanuts,Spanish,167,73,26.2,1
+36,Female,Asian,Uninsured,4,7.9,Severe headache with vision changes,Heart Disease,Insulin,66,125,78,13,37.3,96,Referral,Afternoon,Peanuts,English,170,60,20.8,2
+22,Male,Other,Uninsured,0,6.9,Intermittent palpitations,Hypertension,"Insulin, Metformin",61,159,76,30,38.8,87,Ambulance,Morning,Peanuts,Spanish,175,97,31.7,1
+69,Female,Other,Uninsured,5,5.3,Abdominal pain and vomiting,Hypertension,"Albuterol, Lisinopril",124,122,83,26,37.7,87,Ambulance,Evening,Penicillin,Other,199,100,25.3,1
+70,Male,White,Uninsured,10,3.1,Mild rash on arms,Chronic Kidney Disease,Aspirin,53,96,94,27,37.2,99,Ambulance,Afternoon,None,English,158,94,37.7,0
+89,Male,Asian,Private,2,2.2,Abdominal pain and vomiting,Heart Disease,Aspirin,62,136,90,27,39.2,89,Walk-in,Night,Penicillin,Other,165,115,42.2,1
+58,Male,White,Medicare,7,7.9,Intermittent palpitations,Diabetes,"Metformin, Insulin",96,124,78,29,37.5,92,Referral,Evening,NSAIDs,Other,175,120,39.2,1
+47,Female,Black,Medicaid,6,0.3,Severe allergic reaction with hives,Heart Disease,Atorvastatin,50,104,96,24,37.8,100,Ambulance,Night,Peanuts,Spanish,158,50,20.0,2
+53,Male,Other,Medicare,2,5.7,Sore throat and cough,Heart Disease,Albuterol,83,135,73,15,37.8,98,Referral,Night,None,Spanish,180,52,16.0,0
+31,Female,Other,Medicaid,1,0.0,Back pain after lifting heavy object,Asthma,"Metformin, Lisinopril",65,155,99,28,38.5,100,Walk-in,Afternoon,NSAIDs,Spanish,187,109,31.2,1
+83,Male,Black,Medicaid,1,7.4,Severe allergic reaction with hives,Chronic Kidney Disease,Albuterol,83,128,62,19,37.0,91,Ambulance,Night,Latex,Other,163,104,39.1,2
+44,Male,Asian,Medicare,5,2.3,Sharp abdominal cramps,Hypertension,Lisinopril,66,119,72,30,38.4,90,Referral,Morning,Latex,Spanish,180,104,32.1,1
+40,Male,Other,Medicare,9,5.3,Sudden weakness on one side of body,Diabetes,"Albuterol, Insulin",69,121,73,29,35.7,96,Referral,Morning,None,English,195,102,26.8,2
+41,Male,Asian,Medicare,5,5.0,Moderate shortness of breath when walking,Diabetes,Aspirin,136,97,77,23,35.2,86,Ambulance,Afternoon,None,Other,183,98,29.3,1
+74,Female,Black,Medicare,0,4.3,Persistent diarrhea and dehydration,Hypertension,"Atorvastatin, Lisinopril",135,127,76,29,37.0,92,Walk-in,Night,Latex,Other,190,55,15.2,2
+86,Female,Hispanic,Medicaid,8,0.5,Chronic cough worsening over weeks,COPD,Albuterol,114,108,68,13,38.0,99,Walk-in,Morning,Latex,Spanish,200,62,15.5,1
+66,Male,Hispanic,Medicaid,5,2.8,Back pain after lifting heavy object,None,None,86,106,82,12,36.3,96,Referral,Afternoon,Penicillin,English,176,104,33.6,0
+27,Female,Other,Uninsured,6,1.8,High fever and body aches,Hypertension,Metformin,82,113,70,28,37.4,93,Walk-in,Afternoon,Latex,Other,170,61,21.1,1
+54,Male,Asian,Medicaid,9,0.7,Sharp abdominal cramps,Chronic Kidney Disease,Warfarin,77,130,94,26,37.2,100,Walk-in,Night,Latex,English,167,120,43.0,1
+30,Female,Black,Medicare,1,4.8,Cut on hand with mild bleeding,Asthma,"Metformin, Atorvastatin",65,98,68,17,38.0,85,Referral,Morning,NSAIDs,English,185,94,27.5,0
+51,Male,White,Private,8,0.9,Back pain after lifting heavy object,Hypertension,"Warfarin, Insulin",52,117,65,23,36.9,96,Ambulance,Morning,Penicillin,English,170,77,26.6,1
+71,Male,Other,Uninsured,5,5.2,Chronic cough worsening over weeks,None,None,62,146,69,23,37.3,97,Referral,Night,Latex,English,186,73,21.1,1
+19,Male,Other,Uninsured,5,7.4,Chest pain and trouble breathing,None,None,84,114,62,26,36.4,90,Referral,Evening,NSAIDs,Spanish,166,61,22.1,2
+71,Male,Other,Uninsured,3,0.1,Repeated episodes of chest tightness,None,None,109,179,97,12,38.1,99,Ambulance,Afternoon,Penicillin,English,166,107,38.8,2
+44,Female,Hispanic,Medicaid,5,0.1,Persistent diarrhea and dehydration,None,None,83,126,65,18,36.3,100,Walk-in,Night,Latex,Other,181,74,22.6,1
+50,Male,Black,Medicaid,6,4.4,Severe headache with vision changes,Heart Disease,"Warfarin, Insulin",61,105,75,22,37.6,88,Ambulance,Morning,Latex,Spanish,196,100,26.0,2
+49,Female,Other,Uninsured,10,10.6,Sudden weakness on one side of body,Heart Disease,"Aspirin, Insulin",121,134,81,15,39.0,92,Ambulance,Morning,Latex,Spanish,152,78,33.8,2
+46,Female,Other,Private,1,5.5,Intermittent palpitations,None,None,136,133,85,15,37.5,96,Ambulance,Afternoon,NSAIDs,Spanish,171,66,22.6,1
+76,Female,White,Private,9,1.3,Sharp abdominal cramps,COPD,"Atorvastatin, Insulin",74,99,78,22,37.1,97,Ambulance,Afternoon,Peanuts,English,157,117,47.5,1
+45,Male,Other,Medicare,10,1.8,Persistent diarrhea and dehydration,None,None,101,177,90,20,38.1,86,Walk-in,Afternoon,NSAIDs,English,154,101,42.6,1
+71,Female,Other,Medicaid,0,19.0,Persistent diarrhea and dehydration,Chronic Kidney Disease,Insulin,110,110,64,17,38.1,90,Ambulance,Morning,NSAIDs,Other,171,111,38.0,1
+63,Female,White,Private,2,1.1,Back pain after lifting heavy object,Hypertension,"Warfarin, Aspirin",82,170,70,24,34.6,96,Walk-in,Night,Peanuts,English,155,90,37.5,1
+33,Female,Asian,Uninsured,3,18.1,Abdominal pain and vomiting,Diabetes,"Atorvastatin, Albuterol",108,179,71,22,37.6,89,Walk-in,Afternoon,NSAIDs,Other,174,67,22.1,0
+36,Female,White,Medicaid,6,0.5,Abdominal pain and vomiting,Heart Disease,"Aspirin, Warfarin",55,93,88,13,36.2,100,Walk-in,Afternoon,Latex,Other,151,83,36.4,1
+25,Male,Asian,Medicaid,9,3.9,Chronic cough worsening over weeks,None,None,114,132,98,28,38.6,95,Ambulance,Morning,Peanuts,Spanish,169,93,32.6,1
+26,Female,Hispanic,Private,4,0.1,Severe allergic reaction with hives,None,None,77,131,80,21,37.9,92,Ambulance,Night,Latex,Other,197,71,18.3,2
+44,Female,White,Private,8,3.1,Severe headache with vision changes,Diabetes,Atorvastatin,59,98,86,13,36.5,87,Ambulance,Evening,Latex,English,150,81,36.0,2
+88,Female,Asian,Uninsured,0,6.1,Severe headache with vision changes,Heart Disease,"Atorvastatin, Metformin",84,180,85,25,38.2,86,Referral,Afternoon,Latex,English,153,114,48.7,2
+18,Male,Hispanic,Medicaid,9,12.6,Sharp abdominal cramps,Asthma,Metformin,59,148,70,20,35.1,93,Ambulance,Afternoon,Latex,Spanish,154,114,48.1,0
+34,Female,Hispanic,Uninsured,5,12.1,Severe headache with vision changes,Diabetes,Lisinopril,117,158,70,30,35.2,87,Ambulance,Night,NSAIDs,Other,168,109,38.6,2
+88,Male,Asian,Private,6,17.6,Severe allergic reaction with hives,Diabetes,Aspirin,127,93,82,21,36.2,88,Walk-in,Evening,NSAIDs,Spanish,164,57,21.2,2
+58,Female,Asian,Medicaid,2,5.4,Back pain after lifting heavy object,Chronic Kidney Disease,"Warfarin, Insulin",117,104,94,16,36.1,95,Referral,Afternoon,Peanuts,Spanish,189,112,31.4,2
+78,Male,Asian,Medicaid,3,7.1,Repeated episodes of chest tightness,Asthma,"Lisinopril, Warfarin",53,156,93,28,36.9,91,Referral,Night,NSAIDs,English,172,118,39.9,2
+70,Female,Asian,Medicaid,8,0.0,Persistent diarrhea and dehydration,Diabetes,"Aspirin, Atorvastatin",119,146,69,19,36.3,97,Ambulance,Afternoon,NSAIDs,English,169,52,18.2,1
+68,Female,Black,Uninsured,5,7.8,High fever and body aches,Chronic Kidney Disease,"Insulin, Aspirin",85,130,64,24,36.0,91,Walk-in,Night,Penicillin,Other,199,79,19.9,0
+79,Female,Black,Medicaid,4,7.5,Severe allergic reaction with hives,Heart Disease,"Albuterol, Warfarin",106,136,95,18,37.7,90,Ambulance,Night,NSAIDs,Spanish,170,65,22.5,2
+76,Female,Other,Uninsured,6,4.7,Cut on hand with mild bleeding,None,None,108,123,68,28,36.2,95,Walk-in,Morning,None,English,181,59,18.0,0
+34,Female,Black,Private,3,17.9,"Twisted ankle, slight swelling",Heart Disease,Insulin,70,154,84,30,37.6,92,Referral,Night,Peanuts,Spanish,151,64,28.1,0
+56,Male,White,Private,10,9.8,Sharp abdominal cramps,Hypertension,"Atorvastatin, Insulin",88,146,76,13,36.8,95,Referral,Afternoon,Latex,Spanish,190,62,17.2,1
+87,Female,Asian,Medicare,5,6.6,Chronic cough worsening over weeks,None,None,130,152,71,27,37.6,85,Walk-in,Morning,Peanuts,Spanish,166,116,42.1,1
+32,Male,White,Medicare,3,9.3,Chronic cough worsening over weeks,Diabetes,"Lisinopril, Albuterol",132,132,94,19,37.1,98,Ambulance,Night,Peanuts,Spanish,182,63,19.0,1
+51,Male,Asian,Uninsured,6,1.6,Moderate shortness of breath when walking,None,None,132,95,92,28,34.7,89,Walk-in,Morning,None,English,176,55,17.8,1
+30,Female,White,Medicare,2,18.3,Abdominal pain and vomiting,COPD,Metformin,123,178,79,15,38.3,96,Referral,Afternoon,Peanuts,Other,172,51,17.2,1
+39,Female,Asian,Medicare,2,4.2,Persistent diarrhea and dehydration,Heart Disease,"Metformin, Warfarin",105,156,75,30,35.7,92,Referral,Night,Latex,English,182,61,18.4,1
+70,Male,Asian,Uninsured,10,1.3,Persistent diarrhea and dehydration,None,None,55,94,87,25,37.7,89,Referral,Afternoon,Penicillin,Spanish,182,111,33.5,1
+67,Male,Other,Private,8,6.9,Cut on hand with mild bleeding,Hypertension,"Lisinopril, Warfarin",96,128,63,12,38.4,99,Ambulance,Night,None,Spanish,172,63,21.3,0
+36,Female,Other,Medicaid,5,5.5,Mild rash on arms,Asthma,"Atorvastatin, Albuterol",131,152,69,20,38.1,93,Referral,Morning,Peanuts,Spanish,157,111,45.0,0
+46,Female,Other,Medicare,9,1.2,High fever and body aches,COPD,Atorvastatin,77,151,100,16,37.3,85,Ambulance,Afternoon,Peanuts,English,176,98,31.6,0
+88,Male,Hispanic,Private,10,5.6,Repeated episodes of chest tightness,Diabetes,Insulin,129,91,83,21,35.7,90,Ambulance,Night,Latex,Other,171,75,25.6,2
+60,Male,Other,Uninsured,6,0.5,Back pain after lifting heavy object,Hypertension,"Albuterol, Insulin",69,180,100,23,36.1,86,Referral,Afternoon,NSAIDs,English,179,102,31.8,1
+51,Female,Hispanic,Medicare,5,20.1,Repeated episodes of chest tightness,Diabetes,"Warfarin, Albuterol",122,137,65,20,36.9,95,Referral,Morning,Peanuts,English,185,108,31.6,2
+19,Female,Black,Medicare,3,17.6,Persistent diarrhea and dehydration,COPD,"Atorvastatin, Insulin",102,168,81,30,36.8,90,Walk-in,Night,Latex,Spanish,185,79,23.1,1
+42,Female,Asian,Medicare,0,0.1,Severe headache with vision changes,COPD,Aspirin,58,125,78,12,37.3,94,Ambulance,Evening,None,Spanish,185,95,27.8,2
+49,Male,Other,Medicaid,5,22.6,Repeated episodes of chest tightness,Chronic Kidney Disease,"Albuterol, Atorvastatin",76,143,94,26,36.6,93,Referral,Night,NSAIDs,Other,176,75,24.2,2
+36,Male,Other,Private,7,1.6,Sharp abdominal cramps,Chronic Kidney Disease,Atorvastatin,91,139,79,24,35.4,92,Walk-in,Morning,Latex,Other,188,72,20.4,1
+69,Male,Asian,Private,0,1.4,Sore throat and cough,Chronic Kidney Disease,"Metformin, Lisinopril",83,129,70,29,37.7,95,Ambulance,Night,Peanuts,Spanish,165,97,35.6,0
+27,Male,Asian,Private,1,9.8,Abdominal pain and vomiting,Hypertension,Warfarin,112,166,62,21,38.5,90,Referral,Evening,NSAIDs,Other,150,57,25.3,1
+68,Female,Black,Medicare,9,3.3,Confusion and slurred speech,Chronic Kidney Disease,Metformin,138,128,87,12,37.3,92,Ambulance,Evening,NSAIDs,Spanish,170,51,17.6,2
+78,Male,Hispanic,Medicaid,9,1.7,High fever and body aches,COPD,"Lisinopril, Atorvastatin",89,125,96,26,37.7,96,Referral,Morning,Penicillin,Spanish,167,112,40.2,1
+39,Male,Hispanic,Medicare,10,5.5,Severe allergic reaction with hives,Hypertension,"Metformin, Insulin",56,150,83,15,36.3,87,Walk-in,Afternoon,Latex,Spanish,163,87,32.7,2
+18,Male,Other,Medicaid,5,1.0,Sore throat and cough,Asthma,Albuterol,123,110,66,14,36.1,97,Walk-in,Morning,None,Spanish,196,84,21.9,0
+85,Female,Hispanic,Uninsured,4,0.0,"Multiple falls, leg pain",Diabetes,Atorvastatin,105,112,84,24,37.5,100,Ambulance,Morning,Latex,Other,154,85,35.8,1
+66,Female,White,Uninsured,9,1.9,Confusion and slurred speech,Asthma,Warfarin,134,150,68,17,36.7,87,Ambulance,Night,Peanuts,Spanish,194,84,22.3,2
+56,Female,Hispanic,Medicare,5,4.4,"Twisted ankle, slight swelling",Chronic Kidney Disease,Albuterol,130,165,82,27,36.6,90,Walk-in,Morning,None,English,158,78,31.2,0
+54,Female,White,Private,6,1.2,Repeated episodes of chest tightness,Asthma,Albuterol,72,134,76,19,38.6,89,Ambulance,Night,Penicillin,Other,151,55,24.1,2
+35,Male,Hispanic,Medicare,5,4.7,Sharp abdominal cramps,None,None,81,131,73,21,38.1,86,Referral,Evening,Peanuts,English,158,77,30.8,1
+28,Female,Black,Private,6,0.4,Persistent diarrhea and dehydration,Heart Disease,Lisinopril,64,117,83,19,38.8,95,Referral,Afternoon,Latex,Other,158,96,38.5,1
+50,Male,White,Private,0,4.7,Confusion and slurred speech,Asthma,Aspirin,114,118,93,30,39.2,97,Ambulance,Afternoon,NSAIDs,Other,197,97,25.0,2
+66,Female,White,Private,4,0.7,Moderate shortness of breath when walking,Chronic Kidney Disease,"Aspirin, Albuterol",137,115,76,18,38.4,97,Referral,Afternoon,Latex,English,154,75,31.6,1
+66,Male,Asian,Private,2,1.4,Pounding headache with neck stiffness,None,None,102,154,76,22,37.0,99,Walk-in,Evening,Peanuts,English,178,81,25.6,2
+43,Female,Black,Medicare,8,7.9,Severe headache with vision changes,COPD,"Atorvastatin, Aspirin",114,175,75,20,36.2,87,Referral,Afternoon,Latex,Spanish,193,100,26.8,2
+88,Male,Black,Uninsured,2,10.3,Mild rash on arms,Heart Disease,Albuterol,52,100,89,19,35.7,92,Ambulance,Morning,None,English,185,106,31.0,0
+66,Male,Other,Uninsured,1,2.8,Chronic cough worsening over weeks,Asthma,Lisinopril,69,153,88,21,36.9,97,Ambulance,Afternoon,Peanuts,Other,152,52,22.5,1
+71,Male,Black,Medicaid,7,0.4,Chest pain and trouble breathing,Chronic Kidney Disease,Warfarin,109,164,90,22,36.8,86,Referral,Evening,Penicillin,Other,198,58,14.8,2
+48,Male,Asian,Medicaid,1,8.9,Sore throat and cough,None,None,74,125,67,20,37.7,94,Ambulance,Night,Latex,English,186,94,27.2,0
+79,Male,Asian,Private,6,6.8,Intermittent palpitations,None,None,132,153,88,18,35.8,90,Walk-in,Evening,Penicillin,Spanish,178,107,33.8,1
+34,Female,Hispanic,Medicare,6,5.6,"Multiple falls, leg pain",Chronic Kidney Disease,"Aspirin, Warfarin",85,175,71,21,38.3,97,Referral,Morning,None,Spanish,162,60,22.9,1
+71,Male,White,Private,7,5.3,Persistent diarrhea and dehydration,COPD,Lisinopril,108,91,89,23,37.9,100,Referral,Night,Latex,Other,166,51,18.5,1
+67,Female,White,Medicare,2,10.4,Sharp abdominal cramps,None,None,111,127,62,17,37.9,87,Walk-in,Morning,NSAIDs,English,179,110,34.3,1
+18,Male,Other,Medicaid,4,7.1,Persistent diarrhea and dehydration,COPD,"Insulin, Warfarin",56,111,69,18,37.6,100,Referral,Morning,Peanuts,Other,172,119,40.2,1
+50,Female,Black,Private,7,0.2,Abdominal pain and vomiting,None,None,119,110,91,14,37.5,99,Walk-in,Morning,Latex,Other,154,109,46.0,1
+63,Male,Hispanic,Medicare,1,9.2,Pounding headache with neck stiffness,None,None,108,118,66,19,36.3,92,Referral,Afternoon,None,English,160,103,40.2,2
+55,Female,Hispanic,Medicaid,10,40.8,Repeated episodes of chest tightness,Diabetes,Metformin,110,163,62,24,37.3,95,Referral,Evening,None,English,184,64,18.9,2
+33,Female,Asian,Medicaid,0,19.5,Intermittent palpitations,None,None,70,143,70,27,36.0,91,Walk-in,Morning,Latex,Spanish,164,107,39.8,1
+20,Female,White,Uninsured,4,12.0,"Twisted ankle, slight swelling",Hypertension,Lisinopril,117,150,88,30,38.1,95,Ambulance,Evening,None,Other,151,110,48.2,0
+60,Male,Black,Private,8,1.6,Sudden weakness on one side of body,Chronic Kidney Disease,"Warfarin, Aspirin",60,144,87,16,36.5,89,Ambulance,Morning,Latex,Spanish,161,99,38.2,2
+21,Female,Black,Medicare,5,9.8,Sudden weakness on one side of body,COPD,Warfarin,63,164,91,22,39.2,97,Referral,Night,Penicillin,Spanish,167,76,27.3,2
+72,Male,Asian,Medicaid,5,2.8,Sharp abdominal cramps,Chronic Kidney Disease,Aspirin,93,94,82,20,37.2,90,Referral,Evening,None,Other,159,71,28.1,1
+82,Male,Black,Medicare,6,5.5,Intermittent palpitations,None,None,125,111,81,29,37.1,99,Walk-in,Morning,Latex,Spanish,166,95,34.5,1
+31,Female,Hispanic,Private,1,0.1,Cut on hand with mild bleeding,Asthma,Aspirin,108,132,74,23,38.9,90,Walk-in,Afternoon,Peanuts,Other,152,77,33.3,0
+73,Female,Other,Medicare,9,3.1,Nausea and lightheadedness,Diabetes,Atorvastatin,98,155,95,22,36.5,92,Walk-in,Afternoon,NSAIDs,English,193,89,23.9,1
+60,Male,White,Uninsured,5,7.3,Chest pain and trouble breathing,Hypertension,"Atorvastatin, Lisinopril",79,170,79,27,37.8,100,Referral,Morning,Peanuts,English,194,108,28.7,2
+73,Female,Hispanic,Private,10,8.0,Confusion and slurred speech,COPD,Metformin,122,124,79,16,38.6,94,Walk-in,Night,None,English,166,106,38.5,2
+25,Female,White,Private,4,0.4,Abdominal pain and vomiting,Chronic Kidney Disease,Atorvastatin,102,101,76,21,36.3,96,Walk-in,Evening,Latex,Other,183,69,20.6,1
+67,Male,Other,Private,5,17.1,Intermittent palpitations,Hypertension,Insulin,133,92,96,19,36.8,92,Walk-in,Morning,NSAIDs,Other,189,105,29.4,1
+40,Male,Asian,Medicare,7,1.4,Abdominal pain and vomiting,Diabetes,Lisinopril,105,149,69,18,35.6,97,Walk-in,Night,Peanuts,Spanish,181,85,25.9,1
+43,Female,Hispanic,Medicare,5,13.7,Severe headache with vision changes,Hypertension,"Metformin, Atorvastatin",137,176,81,13,35.7,99,Ambulance,Afternoon,None,English,160,95,37.1,2
+79,Female,Asian,Medicaid,4,3.9,Back pain after lifting heavy object,None,None,73,133,82,28,37.3,94,Referral,Evening,Penicillin,Spanish,191,102,28.0,1
+73,Female,Asian,Medicaid,1,3.7,Pounding headache with neck stiffness,None,None,97,107,71,19,37.0,85,Ambulance,Evening,NSAIDs,English,164,64,23.8,2
+80,Male,Hispanic,Medicare,6,11.0,Severe headache with vision changes,Heart Disease,Metformin,89,109,85,29,39.1,96,Walk-in,Night,NSAIDs,English,193,87,23.4,1
+77,Female,Hispanic,Medicare,6,0.7,Chest pain and trouble breathing,Asthma,"Warfarin, Albuterol",104,128,63,19,36.6,97,Referral,Afternoon,None,Spanish,194,55,14.6,2
+77,Male,Black,Private,9,12.2,Chest pain and trouble breathing,None,None,88,161,84,24,36.1,90,Ambulance,Afternoon,Penicillin,Spanish,177,102,32.6,2
+84,Female,White,Medicaid,2,1.2,Severe headache with vision changes,None,None,71,127,67,19,37.4,98,Ambulance,Afternoon,Latex,English,155,81,33.7,2
+27,Male,Hispanic,Private,2,13.5,Sudden weakness on one side of body,Asthma,Aspirin,80,158,84,20,37.1,88,Ambulance,Night,Latex,Spanish,188,71,20.1,2
+21,Male,Asian,Uninsured,9,9.4,Repeated episodes of chest tightness,Diabetes,Metformin,130,143,95,12,35.3,85,Ambulance,Evening,Peanuts,Spanish,164,66,24.5,2
+41,Male,White,Medicare,9,1.6,Sore throat and cough,Diabetes,Albuterol,95,161,67,26,36.9,85,Walk-in,Night,None,English,177,110,35.1,0
+33,Female,Asian,Medicare,6,4.0,Back pain after lifting heavy object,Hypertension,Insulin,79,102,91,29,37.9,97,Referral,Afternoon,NSAIDs,English,195,62,16.3,1
+60,Female,Hispanic,Uninsured,4,8.6,Cut on hand with mild bleeding,Chronic Kidney Disease,Albuterol,89,172,74,20,38.5,89,Walk-in,Evening,Latex,Spanish,172,101,34.1,1
+47,Male,White,Medicaid,0,11.5,Mild rash on arms,Hypertension,Aspirin,50,133,94,22,36.8,86,Walk-in,Morning,Latex,Other,165,58,21.3,0
+49,Female,Other,Medicare,0,8.9,Repeated episodes of chest tightness,None,None,57,161,86,23,38.2,98,Ambulance,Afternoon,Peanuts,Other,200,60,15.0,2
+60,Male,Black,Uninsured,0,1.4,Chronic cough worsening over weeks,Chronic Kidney Disease,Warfarin,134,129,82,17,36.5,90,Ambulance,Afternoon,Penicillin,Other,199,86,21.7,1
+81,Female,Hispanic,Private,2,4.5,Chronic cough worsening over weeks,COPD,Atorvastatin,60,177,80,30,38.2,90,Ambulance,Afternoon,Latex,Other,168,105,37.2,1
+45,Female,Black,Uninsured,1,5.8,Sudden weakness on one side of body,None,None,117,175,85,28,38.7,95,Ambulance,Afternoon,NSAIDs,English,185,107,31.3,2
+30,Male,Other,Uninsured,3,6.8,Chest pain and trouble breathing,Diabetes,"Atorvastatin, Metformin",109,172,94,25,36.9,85,Ambulance,Evening,Penicillin,Spanish,191,97,26.6,2
+57,Male,White,Medicare,0,16.4,"Twisted ankle, slight swelling",Heart Disease,"Metformin, Aspirin",53,127,86,20,36.2,99,Referral,Evening,None,Spanish,165,105,38.6,0
+48,Female,Other,Private,7,2.5,Moderate shortness of breath when walking,Diabetes,Lisinopril,83,156,83,21,37.3,92,Ambulance,Afternoon,Latex,Other,159,116,45.9,1
+41,Female,Hispanic,Medicare,4,0.7,Cut on hand with mild bleeding,Heart Disease,Atorvastatin,64,124,71,20,37.7,89,Walk-in,Afternoon,NSAIDs,English,193,75,20.1,0
+64,Female,Hispanic,Medicaid,1,11.6,Severe allergic reaction with hives,Hypertension,"Insulin, Aspirin",136,93,82,27,35.9,93,Referral,Night,NSAIDs,English,151,79,34.6,2
+20,Male,Other,Medicaid,9,5.6,Mild rash on arms,Hypertension,"Insulin, Atorvastatin",135,174,92,17,37.9,97,Ambulance,Night,Penicillin,Spanish,164,101,37.6,0
+63,Male,Black,Medicaid,8,1.1,Moderate shortness of breath when walking,Hypertension,Insulin,119,136,82,15,36.1,87,Ambulance,Evening,Latex,English,171,72,24.6,1
+81,Female,Black,Medicare,2,3.2,Severe headache with vision changes,Diabetes,"Lisinopril, Aspirin",121,164,64,24,37.2,89,Referral,Morning,None,Spanish,186,105,30.4,2
+76,Female,Asian,Medicare,5,1.5,Back pain after lifting heavy object,Asthma,"Albuterol, Lisinopril",51,154,99,30,37.4,96,Referral,Night,None,Spanish,188,112,31.7,1
+81,Male,Black,Uninsured,5,3.3,Severe headache with vision changes,Chronic Kidney Disease,Warfarin,107,174,93,23,39.1,85,Ambulance,Evening,None,Spanish,171,89,30.4,2
+18,Female,White,Private,0,0.9,Moderate shortness of breath when walking,Hypertension,"Albuterol, Metformin",70,168,76,17,37.1,98,Referral,Morning,NSAIDs,English,196,66,17.2,1
+34,Female,Other,Uninsured,5,1.4,Chest pain and trouble breathing,Asthma,Insulin,127,134,65,14,37.2,98,Ambulance,Night,Penicillin,English,163,110,41.4,2
+32,Male,Hispanic,Medicare,5,8.6,Confusion and slurred speech,Asthma,Insulin,84,149,65,16,37.2,93,Referral,Evening,Peanuts,Spanish,183,75,22.4,2
+64,Male,White,Private,4,2.2,Persistent diarrhea and dehydration,COPD,Atorvastatin,113,107,63,28,37.4,93,Walk-in,Afternoon,None,Spanish,163,62,23.3,1
+24,Male,Asian,Private,6,4.3,High fever and body aches,Chronic Kidney Disease,Insulin,84,170,94,30,37.7,94,Referral,Night,Penicillin,English,197,93,24.0,1
+41,Male,Black,Medicare,0,13.8,Sore throat and cough,Diabetes,Aspirin,81,125,72,17,35.9,94,Walk-in,Morning,Peanuts,Spanish,163,86,32.4,0
+85,Female,Asian,Medicaid,7,1.0,Severe headache with vision changes,Heart Disease,"Atorvastatin, Albuterol",53,134,85,24,36.5,92,Ambulance,Evening,Latex,Spanish,173,64,21.4,2
+60,Male,Asian,Private,8,2.3,Sharp abdominal cramps,Asthma,Albuterol,106,169,94,21,37.3,90,Walk-in,Afternoon,Peanuts,Other,167,118,42.3,1
+56,Male,Black,Private,1,10.4,Severe headache with vision changes,Heart Disease,Lisinopril,55,145,63,17,37.7,92,Referral,Night,NSAIDs,English,181,55,16.8,2
+80,Male,Asian,Uninsured,2,10.6,Cut on hand with mild bleeding,Heart Disease,"Warfarin, Albuterol",53,152,63,28,36.5,93,Referral,Afternoon,Latex,Spanish,168,54,19.1,0
+49,Male,Asian,Private,5,10.3,Intermittent palpitations,COPD,Atorvastatin,133,111,70,24,38.6,85,Referral,Afternoon,None,Spanish,167,72,25.8,1
+64,Male,Black,Medicare,4,2.2,Confusion and slurred speech,Hypertension,"Aspirin, Albuterol",74,117,93,24,38.1,92,Ambulance,Night,Penicillin,Other,197,74,19.1,2
+75,Male,Other,Medicaid,6,9.8,Moderate shortness of breath when walking,Heart Disease,Warfarin,97,99,94,22,37.5,96,Ambulance,Morning,Latex,Other,191,103,28.2,1
+33,Female,Other,Medicaid,0,0.1,Sharp abdominal cramps,COPD,Albuterol,139,105,65,23,36.6,95,Ambulance,Night,None,Spanish,196,97,25.2,1
+59,Male,Black,Private,3,21.9,Pounding headache with neck stiffness,COPD,Warfarin,76,116,74,19,36.8,98,Ambulance,Evening,NSAIDs,Spanish,189,61,17.1,2
+30,Female,Hispanic,Uninsured,10,9.8,Sore throat and cough,Asthma,"Atorvastatin, Warfarin",85,174,67,16,37.8,94,Walk-in,Morning,Penicillin,Spanish,165,85,31.2,0
+45,Female,Black,Uninsured,5,2.5,Sudden weakness on one side of body,Asthma,"Lisinopril, Insulin",72,105,73,21,37.8,97,Ambulance,Morning,Latex,Spanish,186,78,22.5,2
+84,Female,White,Medicaid,3,7.1,High fever and body aches,Diabetes,Lisinopril,70,153,96,17,37.4,99,Walk-in,Morning,Penicillin,English,185,51,14.9,1
+39,Female,Asian,Medicaid,1,0.4,Sharp abdominal cramps,Heart Disease,Albuterol,68,176,93,24,35.7,99,Referral,Morning,Penicillin,Spanish,185,68,19.9,2
+55,Male,Asian,Uninsured,5,12.5,Intermittent palpitations,Chronic Kidney Disease,"Lisinopril, Aspirin",58,121,63,29,35.8,86,Referral,Afternoon,None,Spanish,154,69,29.1,1
+54,Female,Black,Private,5,6.7,Repeated episodes of chest tightness,Hypertension,"Warfarin, Metformin",126,131,68,21,36.0,94,Ambulance,Afternoon,None,Spanish,179,80,25.0,2
+52,Male,Hispanic,Medicare,8,4.2,Sharp abdominal cramps,Diabetes,Warfarin,102,121,61,21,37.0,86,Walk-in,Night,None,Other,151,109,47.8,1
+34,Male,Black,Medicaid,6,16.3,"Multiple falls, leg pain",COPD,Albuterol,60,174,63,18,37.7,86,Ambulance,Night,NSAIDs,Other,191,73,20.0,1
+21,Female,Hispanic,Medicare,2,0.8,Sharp abdominal cramps,Heart Disease,Warfarin,124,156,71,14,36.3,94,Referral,Morning,Peanuts,English,176,103,33.3,0
+83,Female,White,Medicare,0,6.9,"Twisted ankle, slight swelling",Chronic Kidney Disease,"Metformin, Warfarin",133,127,87,21,35.9,97,Referral,Afternoon,Penicillin,Spanish,190,91,25.2,0
+64,Female,Other,Private,4,6.3,Chest pain and trouble breathing,Asthma,Metformin,133,116,100,27,37.8,86,Referral,Afternoon,NSAIDs,English,181,115,35.1,2
+29,Male,Hispanic,Medicaid,7,0.8,Sore throat and cough,Diabetes,"Albuterol, Warfarin",97,109,98,13,38.4,92,Walk-in,Night,Peanuts,English,176,51,16.5,1
+48,Female,Hispanic,Uninsured,8,20.2,"Twisted ankle, slight swelling",None,None,61,117,79,18,34.8,92,Ambulance,Evening,NSAIDs,Other,170,59,20.4,0
+35,Female,Hispanic,Private,7,2.5,"Multiple falls, leg pain",None,None,125,111,65,15,35.4,97,Walk-in,Evening,Peanuts,Spanish,185,69,20.2,1
+35,Female,Hispanic,Medicare,5,2.1,Severe allergic reaction with hives,COPD,Warfarin,65,148,64,15,37.9,89,Ambulance,Morning,NSAIDs,Spanish,189,119,33.3,2
+29,Female,Black,Private,0,6.6,Sore throat and cough,Asthma,Lisinopril,95,121,74,23,36.9,96,Walk-in,Night,Latex,Spanish,183,54,16.1,0
+44,Male,Other,Medicare,3,6.2,Moderate shortness of breath when walking,Heart Disease,"Insulin, Metformin",128,132,92,14,37.8,85,Referral,Night,Peanuts,Other,177,103,32.9,1
+79,Female,Black,Medicare,6,10.1,High fever and body aches,None,None,133,124,64,20,38.3,99,Walk-in,Afternoon,Peanuts,Other,171,115,39.3,1
+62,Male,Hispanic,Private,4,3.0,Abdominal pain and vomiting,Diabetes,Metformin,50,173,82,22,37.2,91,Referral,Evening,Latex,Spanish,196,103,26.8,1
+46,Female,Hispanic,Medicaid,5,12.4,Nausea and lightheadedness,Chronic Kidney Disease,"Aspirin, Albuterol",116,154,60,28,38.1,92,Ambulance,Morning,Latex,English,178,100,31.6,0
+50,Male,Asian,Medicaid,2,8.0,Back pain after lifting heavy object,None,None,125,173,79,20,37.0,91,Ambulance,Afternoon,Penicillin,Spanish,153,68,29.0,1
+62,Female,Other,Uninsured,10,1.2,Severe allergic reaction with hives,Diabetes,"Warfarin, Insulin",101,142,81,22,36.7,94,Ambulance,Morning,Latex,Spanish,175,75,24.5,2
+40,Male,Hispanic,Private,10,2.0,Chest pain and trouble breathing,Asthma,"Lisinopril, Metformin",132,128,71,26,36.8,99,Ambulance,Afternoon,Latex,English,163,60,22.6,2
+43,Male,Other,Uninsured,9,10.3,Sore throat and cough,Asthma,Albuterol,68,153,65,25,38.7,96,Walk-in,Night,Latex,English,150,108,48.0,1
+69,Male,Other,Medicare,5,13.4,Chronic cough worsening over weeks,None,None,110,157,84,23,38.1,94,Walk-in,Afternoon,None,Other,187,61,17.4,1
+60,Male,Black,Medicare,2,14.5,Chronic cough worsening over weeks,Diabetes,"Metformin, Aspirin",129,102,84,15,38.4,98,Walk-in,Evening,Penicillin,English,160,103,40.2,2
+62,Male,Hispanic,Medicaid,6,2.3,Nausea and lightheadedness,Heart Disease,Atorvastatin,75,114,88,30,36.4,85,Referral,Evening,Latex,Other,185,63,18.4,1
+52,Male,Hispanic,Uninsured,0,0.7,Chronic cough worsening over weeks,Chronic Kidney Disease,"Metformin, Warfarin",94,168,84,30,36.2,94,Walk-in,Morning,Penicillin,English,187,113,32.3,1
+24,Male,Black,Private,5,0.9,"Twisted ankle, slight swelling",COPD,"Metformin, Aspirin",59,146,66,27,39.2,97,Walk-in,Morning,Latex,Other,199,101,25.5,0
+50,Female,Other,Private,0,1.1,Mild rash on arms,None,None,53,106,63,22,36.0,91,Referral,Morning,None,English,179,99,30.9,0
+78,Male,Asian,Uninsured,2,0.7,Persistent diarrhea and dehydration,None,None,85,139,86,25,37.7,93,Referral,Evening,Latex,Other,167,77,27.6,1
+46,Male,Black,Private,2,1.0,High fever and body aches,Asthma,"Insulin, Aspirin",86,106,98,27,36.7,93,Referral,Evening,NSAIDs,Other,153,79,33.7,1
+47,Male,Asian,Private,5,3.9,Intermittent palpitations,Heart Disease,"Atorvastatin, Aspirin",85,107,85,18,35.0,97,Walk-in,Morning,None,Spanish,150,107,47.6,1
+23,Male,Other,Medicare,5,5.5,Sharp abdominal cramps,Chronic Kidney Disease,Atorvastatin,67,119,92,21,36.3,99,Ambulance,Evening,Latex,Spanish,151,101,44.3,1
+61,Male,White,Uninsured,5,0.8,Confusion and slurred speech,Heart Disease,"Albuterol, Lisinopril",87,126,92,23,36.6,95,Ambulance,Morning,None,Other,180,60,18.5,2
+85,Male,White,Uninsured,10,5.3,Severe allergic reaction with hives,None,None,137,111,61,23,36.9,91,Referral,Morning,None,Spanish,170,104,36.0,2
+33,Male,Asian,Medicaid,6,5.6,Sharp abdominal cramps,Asthma,Aspirin,98,98,81,16,37.7,91,Ambulance,Afternoon,None,Spanish,154,91,38.4,1
+70,Female,Hispanic,Uninsured,10,1.5,Pounding headache with neck stiffness,None,None,64,160,88,26,37.4,97,Ambulance,Morning,Penicillin,Other,164,84,31.2,2
+23,Male,Hispanic,Medicaid,5,4.3,Nausea and lightheadedness,COPD,"Lisinopril, Insulin",57,173,63,30,36.4,89,Ambulance,Evening,Peanuts,English,152,94,40.7,1
+25,Male,Asian,Uninsured,6,4.4,Nausea and lightheadedness,Diabetes,Warfarin,109,167,72,18,37.2,89,Walk-in,Night,Latex,Other,193,50,13.4,0
+27,Male,White,Medicare,10,5.3,Sudden weakness on one side of body,Chronic Kidney Disease,Metformin,138,139,71,28,35.7,96,Ambulance,Night,NSAIDs,Spanish,175,90,29.4,2
+53,Female,Black,Uninsured,8,0.4,Chronic cough worsening over weeks,COPD,Aspirin,92,114,77,24,36.7,95,Referral,Afternoon,Latex,Spanish,177,100,31.9,1
+73,Male,Asian,Uninsured,10,8.7,Sudden weakness on one side of body,None,None,133,157,93,27,36.5,87,Walk-in,Evening,None,Other,175,57,18.6,2
+23,Male,Hispanic,Private,7,2.3,Back pain after lifting heavy object,Heart Disease,Insulin,118,114,79,29,37.6,91,Ambulance,Night,Peanuts,Other,194,96,25.5,1
+80,Female,Black,Private,1,5.9,Chest pain and trouble breathing,Heart Disease,Metformin,84,142,85,25,38.0,98,Referral,Night,Latex,English,194,93,24.7,2
+82,Male,Asian,Medicaid,2,8.1,Abdominal pain and vomiting,Diabetes,"Lisinopril, Aspirin",68,171,71,12,37.4,97,Referral,Afternoon,NSAIDs,Other,198,86,21.9,1
+43,Female,Asian,Medicare,2,0.9,Severe headache with vision changes,Asthma,"Albuterol, Atorvastatin",87,166,82,27,37.5,96,Walk-in,Morning,Latex,Spanish,197,84,21.6,2
+77,Female,White,Uninsured,7,1.0,Sore throat and cough,None,None,134,115,99,20,36.4,100,Ambulance,Night,Latex,English,172,92,31.1,0
+40,Male,White,Medicaid,10,2.6,Intermittent palpitations,COPD,Metformin,106,112,86,24,35.8,96,Referral,Night,Peanuts,Spanish,167,96,34.4,1
+57,Male,Black,Uninsured,2,2.6,Moderate shortness of breath when walking,COPD,"Warfarin, Atorvastatin",55,180,68,24,35.7,92,Referral,Night,Peanuts,Other,197,94,24.2,1
+66,Female,White,Private,6,2.3,Abdominal pain and vomiting,None,None,66,117,100,13,36.6,93,Walk-in,Evening,Peanuts,Other,199,90,22.7,1
+23,Female,White,Private,10,2.0,Repeated episodes of chest tightness,Asthma,Metformin,124,103,61,19,37.2,85,Referral,Night,None,Spanish,173,68,22.7,2
+35,Male,Black,Private,0,2.7,Persistent diarrhea and dehydration,Hypertension,Albuterol,111,90,95,24,36.0,85,Ambulance,Evening,None,Spanish,192,65,17.6,1
+36,Male,Other,Private,6,3.4,Nausea and lightheadedness,Asthma,Insulin,122,90,78,12,36.2,91,Referral,Afternoon,Latex,English,167,83,29.8,1
+62,Male,Other,Uninsured,5,5.3,"Twisted ankle, slight swelling",Asthma,Atorvastatin,97,128,90,21,36.4,94,Ambulance,Afternoon,Penicillin,English,179,67,20.9,0
+77,Female,Other,Medicaid,7,3.1,Intermittent palpitations,Asthma,Albuterol,53,152,99,20,35.9,85,Referral,Afternoon,Peanuts,Spanish,165,64,23.5,1
+69,Female,Hispanic,Uninsured,4,3.7,Severe allergic reaction with hives,Hypertension,"Albuterol, Atorvastatin",51,102,63,21,36.0,97,Referral,Evening,NSAIDs,Spanish,159,110,43.5,2
+25,Male,Black,Medicare,2,0.3,Mild rash on arms,Heart Disease,Lisinopril,60,131,72,15,39.0,94,Referral,Evening,Penicillin,Other,158,101,40.5,0
+88,Male,Other,Medicaid,1,6.8,Pounding headache with neck stiffness,Chronic Kidney Disease,Lisinopril,89,153,98,25,37.0,94,Referral,Night,NSAIDs,Other,200,118,29.5,2
+48,Female,Other,Medicaid,1,2.4,Back pain after lifting heavy object,Chronic Kidney Disease,Aspirin,51,114,72,18,38.4,87,Referral,Morning,None,Spanish,184,113,33.4,1
+86,Male,White,Private,2,3.0,Confusion and slurred speech,Diabetes,"Warfarin, Metformin",111,105,83,20,37.8,88,Walk-in,Evening,Penicillin,English,164,104,38.7,2
+52,Female,Black,Private,6,0.9,Chronic cough worsening over weeks,Chronic Kidney Disease,"Albuterol, Aspirin",56,119,78,28,37.0,92,Referral,Afternoon,NSAIDs,Spanish,200,91,22.8,1
+34,Male,Other,Medicaid,6,11.7,Sudden weakness on one side of body,Asthma,Albuterol,55,113,77,17,36.3,97,Walk-in,Evening,NSAIDs,English,174,104,34.4,2
+63,Male,Hispanic,Medicare,7,1.6,Mild rash on arms,Chronic Kidney Disease,"Warfarin, Albuterol",77,92,70,17,37.0,100,Ambulance,Evening,NSAIDs,Other,170,103,35.6,0
+73,Male,Black,Medicaid,6,8.4,Nausea and lightheadedness,Hypertension,"Insulin, Aspirin",135,148,66,20,36.9,97,Ambulance,Afternoon,NSAIDs,English,150,78,34.7,1
+80,Female,White,Uninsured,7,6.8,Sharp abdominal cramps,COPD,Lisinopril,52,96,86,12,38.2,96,Ambulance,Afternoon,NSAIDs,Spanish,172,90,30.4,1
+59,Male,Hispanic,Uninsured,4,6.1,Severe allergic reaction with hives,None,None,86,148,76,14,36.9,100,Ambulance,Evening,NSAIDs,English,154,97,40.9,2
+20,Female,Asian,Medicaid,3,16.3,Severe headache with vision changes,Chronic Kidney Disease,"Insulin, Lisinopril",112,150,90,28,36.2,86,Referral,Afternoon,Penicillin,Other,199,119,30.0,2
+44,Male,Other,Medicare,1,6.0,Back pain after lifting heavy object,COPD,Atorvastatin,111,136,72,20,36.6,86,Walk-in,Morning,Peanuts,English,173,110,36.8,1
+49,Male,Hispanic,Medicaid,3,4.7,Chronic cough worsening over weeks,Diabetes,"Metformin, Atorvastatin",128,167,88,13,36.9,91,Referral,Night,NSAIDs,Other,180,113,34.9,0
+42,Male,White,Medicaid,5,0.4,Nausea and lightheadedness,Hypertension,"Insulin, Atorvastatin",130,167,84,14,35.7,89,Referral,Afternoon,None,Other,165,99,36.4,1
+60,Female,Asian,Private,0,1.9,Persistent diarrhea and dehydration,Diabetes,"Atorvastatin, Insulin",134,128,93,17,37.9,89,Walk-in,Morning,NSAIDs,Spanish,169,113,39.6,2
+33,Female,Asian,Private,2,0.3,High fever and body aches,Heart Disease,Metformin,91,146,61,20,36.5,95,Walk-in,Morning,None,English,185,113,33.0,1
+39,Male,White,Medicare,1,1.1,Sore throat and cough,Chronic Kidney Disease,"Metformin, Insulin",67,160,60,12,36.0,97,Walk-in,Morning,Penicillin,Other,167,76,27.3,0
+60,Female,White,Medicare,10,5.8,Chest pain and trouble breathing,Asthma,Insulin,104,149,65,27,38.1,86,Walk-in,Morning,None,English,172,105,35.5,2
+30,Male,Black,Medicaid,7,9.7,Cut on hand with mild bleeding,None,None,92,128,76,26,37.7,98,Referral,Afternoon,Peanuts,Spanish,183,107,32.0,0
+85,Female,Asian,Uninsured,2,9.9,Back pain after lifting heavy object,Diabetes,Aspirin,89,159,81,12,38.1,88,Walk-in,Morning,NSAIDs,English,195,98,25.8,1
+69,Male,Other,Private,1,0.6,Severe headache with vision changes,Diabetes,"Atorvastatin, Aspirin",58,136,71,21,37.7,100,Walk-in,Evening,NSAIDs,English,169,76,26.6,2
+55,Female,Asian,Uninsured,7,2.2,Persistent diarrhea and dehydration,Chronic Kidney Disease,"Insulin, Aspirin",96,160,78,14,36.4,98,Walk-in,Afternoon,NSAIDs,English,179,71,22.2,1
+46,Male,Asian,Medicaid,2,2.4,Sore throat and cough,Hypertension,Lisinopril,79,107,76,17,36.1,98,Referral,Evening,None,Other,171,116,39.7,0
+73,Male,White,Private,6,0.8,Chest pain and trouble breathing,COPD,Atorvastatin,50,141,80,17,36.5,89,Walk-in,Morning,Peanuts,English,150,100,44.4,2
+18,Female,Black,Uninsured,10,8.0,Sore throat and cough,Chronic Kidney Disease,Atorvastatin,110,143,99,27,36.7,95,Ambulance,Afternoon,Penicillin,English,172,56,18.9,0
+61,Female,Black,Private,4,2.0,Repeated episodes of chest tightness,Heart Disease,"Warfarin, Atorvastatin",117,167,73,27,37.0,91,Ambulance,Night,NSAIDs,English,181,68,20.8,2
+19,Female,White,Medicaid,9,1.3,Pounding headache with neck stiffness,Hypertension,"Insulin, Atorvastatin",119,111,91,20,36.0,89,Walk-in,Evening,Peanuts,English,155,67,27.9,2
+23,Male,White,Medicaid,0,0.2,Mild rash on arms,None,None,56,168,86,12,37.4,99,Ambulance,Evening,Latex,Spanish,185,104,30.4,0
+81,Female,Other,Medicaid,10,17.7,"Twisted ankle, slight swelling",Hypertension,Atorvastatin,129,176,97,27,36.3,99,Referral,Evening,Peanuts,Spanish,152,78,33.8,0
+51,Male,White,Medicaid,0,16.7,Abdominal pain and vomiting,Chronic Kidney Disease,Metformin,107,121,90,29,38.2,95,Referral,Night,Peanuts,Spanish,156,50,20.5,1
+78,Male,Hispanic,Uninsured,3,6.1,Nausea and lightheadedness,Asthma,Lisinopril,139,119,95,28,37.5,99,Walk-in,Night,NSAIDs,English,191,100,27.4,1
+81,Male,Other,Private,7,5.3,Sharp abdominal cramps,Chronic Kidney Disease,"Warfarin, Metformin",76,117,76,25,36.9,95,Referral,Afternoon,Peanuts,Other,199,107,27.0,1
+19,Male,White,Private,3,4.4,Intermittent palpitations,Heart Disease,Aspirin,136,149,81,12,37.5,100,Referral,Night,NSAIDs,English,192,87,23.6,1
+58,Male,Other,Medicaid,7,1.0,Cut on hand with mild bleeding,COPD,Albuterol,137,146,61,20,37.7,88,Referral,Afternoon,Peanuts,Spanish,166,66,24.0,0
+67,Male,Other,Medicaid,7,7.5,Severe allergic reaction with hives,Asthma,"Atorvastatin, Warfarin",104,118,83,21,35.6,100,Ambulance,Night,Peanuts,Other,169,94,32.9,2
+34,Male,Black,Medicare,8,13.3,Intermittent palpitations,Hypertension,"Albuterol, Metformin",131,109,68,24,37.2,99,Ambulance,Afternoon,Latex,Spanish,176,64,20.7,1
+36,Male,Black,Uninsured,9,15.1,Abdominal pain and vomiting,None,None,75,135,87,28,36.4,86,Walk-in,Evening,Penicillin,English,182,91,27.5,1
+36,Male,Other,Medicaid,0,2.1,Persistent diarrhea and dehydration,Asthma,"Albuterol, Aspirin",112,92,85,14,34.1,92,Ambulance,Evening,None,Other,185,56,16.4,1
+63,Female,Hispanic,Medicare,3,9.8,Persistent diarrhea and dehydration,Heart Disease,"Albuterol, Lisinopril",50,138,84,21,36.8,92,Referral,Morning,NSAIDs,Spanish,178,55,17.4,1
+33,Female,Black,Uninsured,3,1.2,Chronic cough worsening over weeks,Chronic Kidney Disease,Warfarin,75,179,73,18,36.4,85,Walk-in,Night,Latex,Other,175,94,30.7,1
+80,Male,Other,Medicare,2,20.5,Nausea and lightheadedness,Hypertension,Metformin,51,103,89,28,37.1,97,Ambulance,Evening,Penicillin,English,163,75,28.2,1
+38,Male,Black,Medicaid,3,0.3,Mild rash on arms,Heart Disease,Warfarin,128,166,82,28,37.9,98,Ambulance,Afternoon,Latex,Spanish,197,51,13.1,1
+37,Male,Asian,Uninsured,10,16.8,"Multiple falls, leg pain",Hypertension,"Atorvastatin, Metformin",115,167,75,30,38.2,90,Referral,Night,None,English,162,113,43.1,1
+39,Male,Black,Medicare,1,2.4,Severe allergic reaction with hives,Heart Disease,"Atorvastatin, Aspirin",100,160,91,27,35.7,87,Referral,Afternoon,None,English,155,76,31.6,2
+70,Female,Black,Uninsured,10,0.5,Mild rash on arms,COPD,Insulin,60,104,62,16,37.3,99,Ambulance,Evening,None,English,152,119,51.5,0
+34,Female,Other,Uninsured,9,0.3,"Multiple falls, leg pain",Hypertension,Metformin,87,161,83,14,38.8,91,Walk-in,Afternoon,NSAIDs,English,163,63,23.7,1
+27,Female,Black,Medicaid,5,4.5,Nausea and lightheadedness,COPD,Atorvastatin,59,106,76,14,37.3,96,Ambulance,Afternoon,Latex,Spanish,188,53,15.0,1
+59,Male,White,Private,1,2.9,Confusion and slurred speech,COPD,"Warfarin, Atorvastatin",131,158,78,13,35.1,96,Referral,Night,Penicillin,Other,166,55,20.0,2
+25,Male,Black,Uninsured,2,4.0,Mild rash on arms,COPD,"Aspirin, Atorvastatin",122,91,67,22,37.4,89,Referral,Morning,None,Spanish,169,57,20.0,1
+53,Male,Other,Private,9,3.4,Sore throat and cough,Asthma,"Atorvastatin, Albuterol",134,175,80,23,36.3,86,Walk-in,Morning,NSAIDs,Spanish,179,88,27.5,0
+37,Male,Asian,Uninsured,7,2.9,Chronic cough worsening over weeks,COPD,"Warfarin, Insulin",87,127,81,23,37.1,90,Referral,Morning,Latex,English,173,100,33.4,1
+27,Female,Asian,Medicare,7,21.6,Severe headache with vision changes,Diabetes,Atorvastatin,106,128,83,12,36.5,95,Referral,Night,Peanuts,English,167,105,37.6,2
+74,Male,White,Private,3,10.9,Intermittent palpitations,None,None,76,163,91,21,36.0,86,Walk-in,Afternoon,Peanuts,Spanish,189,80,22.4,1
+81,Female,White,Medicare,6,3.5,Back pain after lifting heavy object,Heart Disease,"Atorvastatin, Lisinopril",96,122,96,13,37.2,88,Walk-in,Night,NSAIDs,Spanish,184,100,29.5,1
+35,Female,Asian,Medicare,7,5.8,Back pain after lifting heavy object,COPD,Warfarin,59,176,70,13,38.6,88,Referral,Night,Penicillin,Spanish,191,68,18.6,1
+36,Female,Hispanic,Medicaid,9,8.5,"Twisted ankle, slight swelling",Diabetes,Warfarin,61,113,93,19,37.8,86,Referral,Night,Penicillin,Other,197,54,13.9,0
+43,Male,Black,Uninsured,5,1.7,Repeated episodes of chest tightness,None,None,139,147,71,13,38.4,86,Ambulance,Night,Peanuts,Other,186,56,16.2,2
+43,Male,Black,Uninsured,9,5.1,Sore throat and cough,None,None,89,149,68,26,35.4,89,Ambulance,Afternoon,Latex,Other,162,54,20.6,0
+69,Female,White,Private,8,0.8,Sharp abdominal cramps,Hypertension,"Lisinopril, Aspirin",56,129,87,14,36.1,89,Referral,Morning,Latex,Spanish,155,114,47.5,1
+21,Female,Other,Private,10,7.1,Repeated episodes of chest tightness,Heart Disease,Albuterol,134,180,98,19,36.4,97,Walk-in,Morning,Penicillin,Other,172,65,22.0,2
+78,Female,Black,Private,3,10.9,Mild rash on arms,COPD,"Atorvastatin, Insulin",74,133,71,16,34.4,88,Ambulance,Afternoon,None,Spanish,177,105,33.5,0
+86,Male,White,Medicare,1,16.4,Severe headache with vision changes,Diabetes,"Warfarin, Albuterol",107,167,70,21,37.1,90,Walk-in,Night,Latex,Other,153,102,43.6,2
+50,Male,Other,Private,6,7.2,Severe headache with vision changes,None,None,100,163,74,17,36.1,90,Referral,Evening,NSAIDs,Other,200,59,14.8,2
+29,Female,Hispanic,Medicaid,5,24.4,Abdominal pain and vomiting,COPD,"Metformin, Albuterol",85,114,82,23,35.4,86,Walk-in,Morning,Peanuts,English,185,116,33.9,1
+26,Female,Other,Private,4,1.2,Cut on hand with mild bleeding,None,None,112,167,63,20,36.6,96,Referral,Evening,Peanuts,English,191,118,32.3,0
+18,Female,Other,Medicaid,6,6.5,Nausea and lightheadedness,Asthma,Atorvastatin,137,124,98,28,36.5,98,Walk-in,Afternoon,Peanuts,Spanish,187,72,20.6,1
+39,Female,Other,Private,3,7.2,"Multiple falls, leg pain",None,None,120,176,61,28,38.1,99,Walk-in,Morning,Latex,Other,196,80,20.8,1
+57,Male,Black,Medicaid,2,4.3,Back pain after lifting heavy object,Diabetes,Atorvastatin,139,169,72,26,38.3,95,Referral,Morning,Peanuts,English,153,113,48.3,1
+47,Female,White,Uninsured,3,8.5,Moderate shortness of breath when walking,None,None,98,165,80,15,36.8,91,Referral,Afternoon,Latex,Spanish,169,72,25.2,1
+45,Female,Black,Medicaid,4,3.1,Repeated episodes of chest tightness,Heart Disease,Insulin,126,108,89,24,37.3,86,Ambulance,Night,Penicillin,English,163,111,41.8,2
+53,Male,Hispanic,Medicare,3,7.5,Abdominal pain and vomiting,Hypertension,"Warfarin, Metformin",56,133,63,13,35.0,91,Referral,Evening,Penicillin,English,154,59,24.9,0
+27,Male,White,Uninsured,5,2.6,Mild rash on arms,None,None,70,97,60,28,36.5,91,Referral,Morning,Latex,Spanish,163,79,29.7,0
+66,Female,Asian,Medicaid,8,0.3,"Multiple falls, leg pain",Hypertension,"Warfarin, Atorvastatin",101,150,99,17,35.2,86,Walk-in,Night,Penicillin,Other,182,62,18.7,2
+79,Male,White,Uninsured,10,4.6,"Multiple falls, leg pain",COPD,"Aspirin, Atorvastatin",55,146,60,18,36.6,94,Walk-in,Night,Penicillin,Spanish,176,70,22.6,1
+73,Male,Other,Uninsured,6,0.3,Moderate shortness of breath when walking,Heart Disease,Aspirin,77,94,80,29,37.3,87,Ambulance,Afternoon,Latex,Other,182,114,34.4,1
+20,Male,Hispanic,Medicaid,9,5.2,Mild rash on arms,Chronic Kidney Disease,Lisinopril,74,144,79,23,36.9,97,Ambulance,Evening,Penicillin,Spanish,183,105,31.4,0
+72,Female,Other,Medicaid,6,3.0,Chronic cough worsening over weeks,Hypertension,Albuterol,136,162,76,13,37.2,90,Walk-in,Afternoon,Latex,Other,191,91,24.9,1
+76,Female,Hispanic,Uninsured,3,9.3,Sharp abdominal cramps,Asthma,"Metformin, Atorvastatin",112,151,95,30,37.4,85,Ambulance,Afternoon,None,Other,154,88,37.1,2
+88,Female,Black,Uninsured,0,12.9,Persistent diarrhea and dehydration,Hypertension,"Metformin, Insulin",74,158,89,23,36.5,89,Ambulance,Night,None,English,167,91,32.6,1
+74,Female,Asian,Medicare,2,5.7,Sore throat and cough,COPD,"Atorvastatin, Insulin",124,112,76,12,36.7,99,Walk-in,Night,Peanuts,Spanish,181,58,17.7,0
+32,Male,Asian,Private,7,2.5,Repeated episodes of chest tightness,None,None,76,172,71,12,37.6,94,Ambulance,Evening,Latex,Other,196,108,28.1,2
+79,Male,Asian,Medicaid,6,4.3,Sharp abdominal cramps,Diabetes,"Lisinopril, Atorvastatin",81,116,87,29,36.3,95,Referral,Evening,Peanuts,English,188,98,27.7,1
+61,Female,White,Medicaid,7,5.2,Mild rash on arms,Hypertension,Atorvastatin,85,107,97,20,36.6,99,Referral,Afternoon,Peanuts,Spanish,200,84,21.0,0
+22,Female,Other,Uninsured,3,10.9,Nausea and lightheadedness,None,None,77,165,61,22,37.5,98,Walk-in,Evening,Latex,Other,171,80,27.4,1
+40,Male,Black,Medicaid,3,1.6,Back pain after lifting heavy object,Heart Disease,Atorvastatin,137,178,60,18,36.9,89,Referral,Night,None,English,193,99,26.6,1
+59,Male,Hispanic,Medicare,5,8.7,Moderate shortness of breath when walking,Diabetes,"Insulin, Lisinopril",123,168,89,23,35.0,94,Referral,Evening,NSAIDs,Other,166,117,42.5,1
+88,Female,Hispanic,Uninsured,8,7.6,Chronic cough worsening over weeks,Heart Disease,Atorvastatin,83,159,97,24,36.2,96,Referral,Night,Latex,English,164,119,44.2,1
+67,Male,White,Medicare,4,3.7,Abdominal pain and vomiting,Heart Disease,"Lisinopril, Insulin",135,163,62,23,37.7,97,Referral,Morning,Penicillin,English,197,66,17.0,1
+24,Female,White,Private,7,12.6,Severe headache with vision changes,Asthma,"Atorvastatin, Aspirin",66,141,65,30,38.6,95,Ambulance,Night,NSAIDs,English,162,70,26.7,2
+41,Male,Hispanic,Medicare,5,22.5,Severe headache with vision changes,Heart Disease,Albuterol,117,129,94,23,36.3,93,Walk-in,Afternoon,Penicillin,Other,189,117,32.8,1
+63,Female,Asian,Medicare,10,6.2,Severe allergic reaction with hives,COPD,Warfarin,130,91,72,13,38.2,94,Ambulance,Morning,None,Other,171,104,35.6,2
+84,Female,Hispanic,Uninsured,2,10.2,Nausea and lightheadedness,Chronic Kidney Disease,Atorvastatin,133,128,72,20,35.9,93,Walk-in,Night,Penicillin,Other,194,61,16.2,0
+30,Male,Other,Uninsured,7,3.7,Sore throat and cough,Heart Disease,"Insulin, Atorvastatin",129,134,94,14,37.1,98,Walk-in,Evening,Peanuts,Spanish,156,105,43.1,0
+27,Male,White,Uninsured,9,7.5,High fever and body aches,Diabetes,Albuterol,124,160,61,17,35.3,93,Walk-in,Afternoon,Peanuts,English,181,69,21.1,1
+74,Male,Other,Medicare,1,1.8,Chronic cough worsening over weeks,Diabetes,Albuterol,88,106,70,17,36.4,90,Referral,Morning,Latex,Spanish,187,51,14.6,1
+89,Female,White,Uninsured,4,8.7,High fever and body aches,COPD,"Metformin, Aspirin",54,107,97,16,37.3,98,Referral,Evening,Penicillin,Spanish,200,113,28.2,1
+27,Female,Asian,Medicare,9,3.4,Repeated episodes of chest tightness,Heart Disease,Insulin,65,143,97,14,40.1,97,Referral,Night,Latex,English,190,108,29.9,1
+86,Female,White,Uninsured,6,3.4,Sore throat and cough,Hypertension,"Atorvastatin, Warfarin",73,150,86,24,35.5,95,Referral,Evening,Peanuts,Other,175,56,18.3,0
+59,Female,Asian,Medicare,4,0.9,Severe headache with vision changes,Hypertension,"Metformin, Lisinopril",102,104,91,27,37.3,97,Ambulance,Night,NSAIDs,Spanish,200,88,22.0,2
+21,Female,Other,Uninsured,2,9.3,Confusion and slurred speech,Diabetes,Aspirin,107,164,86,12,36.5,89,Ambulance,Morning,NSAIDs,English,188,95,26.9,2
+83,Male,White,Medicaid,10,0.6,Sharp abdominal cramps,Hypertension,Insulin,114,152,94,14,36.9,87,Walk-in,Morning,Penicillin,English,200,51,12.8,1
+81,Male,White,Uninsured,9,0.3,Confusion and slurred speech,Diabetes,"Albuterol, Lisinopril",110,120,69,29,37.8,96,Walk-in,Evening,Latex,Other,185,98,28.6,2
+87,Male,Hispanic,Private,0,23.8,Severe allergic reaction with hives,None,None,139,150,80,24,35.9,94,Walk-in,Night,None,Other,157,54,21.9,2
+32,Female,Black,Medicare,10,0.6,Sharp abdominal cramps,Chronic Kidney Disease,Albuterol,101,136,90,24,38.1,92,Ambulance,Morning,Penicillin,Spanish,165,104,38.2,2
+38,Female,Black,Private,1,6.7,Confusion and slurred speech,Asthma,"Insulin, Aspirin",111,135,84,22,36.3,91,Referral,Afternoon,Latex,Spanish,187,70,20.0,2
+89,Female,Hispanic,Medicare,2,6.0,Sore throat and cough,Heart Disease,"Aspirin, Insulin",69,97,90,29,35.0,93,Referral,Morning,Peanuts,Spanish,178,58,18.3,1
+32,Female,Black,Medicaid,9,8.4,Sudden weakness on one side of body,Chronic Kidney Disease,"Insulin, Metformin",133,126,81,18,38.1,100,Ambulance,Afternoon,Latex,Spanish,187,77,22.0,2
+65,Male,Black,Medicaid,5,1.4,"Twisted ankle, slight swelling",None,None,122,180,83,24,37.3,94,Walk-in,Afternoon,None,English,178,100,31.6,0
+66,Female,Other,Medicare,10,10.9,Chronic cough worsening over weeks,Chronic Kidney Disease,Aspirin,54,131,66,21,36.1,98,Ambulance,Afternoon,Latex,English,151,74,32.5,1
+44,Female,White,Private,0,0.5,Chronic cough worsening over weeks,Heart Disease,Metformin,103,156,65,17,36.7,89,Referral,Morning,Penicillin,Spanish,151,107,46.9,1
+19,Male,Hispanic,Medicaid,5,8.3,Nausea and lightheadedness,Heart Disease,"Metformin, Aspirin",133,154,60,28,36.5,97,Referral,Night,Peanuts,Other,179,52,16.2,1
+63,Male,Hispanic,Private,6,1.2,"Multiple falls, leg pain",Heart Disease,"Albuterol, Atorvastatin",94,115,72,12,36.9,92,Walk-in,Night,Penicillin,Other,159,84,33.2,1
+41,Male,Other,Medicaid,3,14.6,Moderate shortness of breath when walking,Heart Disease,Albuterol,103,168,75,26,37.9,99,Walk-in,Afternoon,None,Other,175,117,38.2,1
+60,Male,Asian,Medicaid,4,3.1,Sharp abdominal cramps,COPD,"Lisinopril, Albuterol",90,139,82,18,38.7,95,Ambulance,Night,Penicillin,English,188,52,14.7,0
+24,Female,Other,Medicare,0,13.6,Moderate shortness of breath when walking,Heart Disease,Aspirin,51,160,91,15,38.9,100,Referral,Night,Penicillin,Other,177,50,16.0,1
+77,Female,Other,Medicare,7,0.4,Mild rash on arms,Diabetes,"Lisinopril, Albuterol",104,178,75,30,37.5,85,Referral,Evening,None,English,154,100,42.2,0
+39,Male,White,Medicare,7,6.2,Repeated episodes of chest tightness,Chronic Kidney Disease,Aspirin,85,157,95,29,38.3,90,Ambulance,Morning,Latex,English,151,70,30.7,2
+61,Male,White,Uninsured,6,0.1,"Multiple falls, leg pain",COPD,"Atorvastatin, Insulin",134,106,75,30,35.7,93,Referral,Evening,None,Spanish,180,98,30.2,1
+19,Male,Other,Private,3,0.0,Chest pain and trouble breathing,Hypertension,Insulin,107,147,79,13,37.2,89,Walk-in,Morning,Latex,Other,167,65,23.3,2
+21,Male,Hispanic,Uninsured,6,1.5,Chronic cough worsening over weeks,Chronic Kidney Disease,Insulin,130,121,69,22,36.7,85,Ambulance,Evening,NSAIDs,English,154,94,39.6,1
+26,Male,Hispanic,Private,0,1.7,Confusion and slurred speech,COPD,Aspirin,111,146,88,29,36.0,92,Ambulance,Afternoon,NSAIDs,Spanish,191,78,21.4,2
+21,Male,Black,Medicare,1,3.7,"Twisted ankle, slight swelling",Heart Disease,Metformin,129,164,73,14,37.9,87,Referral,Night,None,Other,199,111,28.0,0
+81,Female,Asian,Uninsured,5,0.1,Pounding headache with neck stiffness,Hypertension,Warfarin,69,147,84,17,36.8,85,Ambulance,Night,NSAIDs,Spanish,177,101,32.2,2
+54,Male,Other,Uninsured,7,4.2,Chronic cough worsening over weeks,Diabetes,"Atorvastatin, Lisinopril",118,120,68,21,36.3,100,Walk-in,Night,Latex,Other,182,116,35.0,1
+47,Female,Other,Medicare,1,1.9,"Twisted ankle, slight swelling",COPD,Metformin,79,98,85,13,37.0,93,Walk-in,Evening,Peanuts,Spanish,200,62,15.5,0
+61,Female,Asian,Private,2,10.3,Sudden weakness on one side of body,Diabetes,Atorvastatin,90,133,90,23,37.1,99,Ambulance,Afternoon,Peanuts,English,151,118,51.8,2
+75,Female,Black,Medicare,9,7.4,Moderate shortness of breath when walking,None,None,92,178,93,16,35.9,90,Referral,Evening,NSAIDs,Other,152,62,26.8,1
+20,Male,White,Private,9,6.0,Nausea and lightheadedness,Diabetes,"Metformin, Warfarin",92,149,71,28,37.0,88,Walk-in,Evening,NSAIDs,English,151,60,26.3,1
+35,Male,Hispanic,Medicaid,4,5.9,Severe headache with vision changes,COPD,"Albuterol, Atorvastatin",71,142,89,29,36.0,98,Ambulance,Morning,Peanuts,Spanish,157,106,43.0,2
+37,Male,Asian,Private,7,12.0,Mild rash on arms,Heart Disease,Lisinopril,121,172,82,19,36.5,100,Ambulance,Night,None,English,175,76,24.8,0
+79,Female,Hispanic,Uninsured,2,4.4,Back pain after lifting heavy object,Chronic Kidney Disease,Aspirin,109,130,92,30,36.6,100,Ambulance,Morning,Latex,English,172,56,18.9,2
+43,Female,Other,Private,7,1.6,Moderate shortness of breath when walking,COPD,Atorvastatin,98,115,64,26,37.6,97,Ambulance,Evening,NSAIDs,Other,177,82,26.2,1
+40,Male,Black,Private,0,4.0,Persistent diarrhea and dehydration,Asthma,"Warfarin, Atorvastatin",75,105,72,18,34.1,85,Referral,Morning,Penicillin,Spanish,187,51,14.6,1
+23,Female,Asian,Medicare,1,3.6,Severe allergic reaction with hives,Diabetes,Aspirin,90,161,87,21,37.4,85,Walk-in,Morning,NSAIDs,Spanish,178,107,33.8,2
+87,Female,White,Uninsured,5,3.7,Intermittent palpitations,Asthma,"Warfarin, Insulin",63,111,82,27,36.2,97,Ambulance,Afternoon,Latex,Other,170,59,20.4,1
+72,Male,Asian,Uninsured,10,0.3,Sore throat and cough,COPD,Metformin,62,140,93,14,36.8,90,Referral,Afternoon,Penicillin,English,152,108,46.7,0
+87,Female,Asian,Medicaid,6,2.0,"Twisted ankle, slight swelling",None,None,116,171,98,20,37.5,95,Ambulance,Night,Latex,Spanish,179,117,36.5,0
+86,Female,Black,Medicaid,0,6.7,Chronic cough worsening over weeks,COPD,"Insulin, Aspirin",61,166,100,13,35.9,89,Walk-in,Afternoon,Peanuts,Other,194,97,25.8,1
+41,Female,Other,Medicare,2,4.6,Nausea and lightheadedness,None,None,107,135,88,14,36.6,99,Ambulance,Afternoon,Peanuts,English,191,92,25.2,0
+66,Male,White,Private,2,2.5,Abdominal pain and vomiting,COPD,"Metformin, Lisinopril",80,115,88,14,37.1,94,Ambulance,Evening,None,Spanish,163,74,27.9,2
+65,Female,Asian,Private,0,0.8,Moderate shortness of breath when walking,Hypertension,"Insulin, Atorvastatin",58,127,82,12,37.6,90,Ambulance,Afternoon,NSAIDs,Other,193,77,20.7,1
+62,Female,Other,Uninsured,0,14.3,Mild rash on arms,Heart Disease,"Metformin, Insulin",52,165,98,23,36.9,86,Referral,Morning,Latex,Other,195,79,20.8,0
+86,Male,Hispanic,Medicare,8,17.0,Sudden weakness on one side of body,Diabetes,Metformin,115,177,90,12,36.3,87,Referral,Evening,None,Spanish,177,109,34.8,2
+48,Male,White,Uninsured,10,0.9,Sharp abdominal cramps,Heart Disease,Warfarin,76,91,98,16,35.5,89,Referral,Evening,None,English,154,101,42.6,2
+62,Female,Asian,Medicare,4,3.7,Persistent diarrhea and dehydration,COPD,"Insulin, Aspirin",69,114,61,17,38.0,85,Walk-in,Night,NSAIDs,Other,200,54,13.5,1
+30,Male,Black,Medicare,2,5.7,Intermittent palpitations,Asthma,Atorvastatin,84,165,89,16,36.5,86,Referral,Morning,None,English,171,106,36.3,1
+64,Female,Hispanic,Uninsured,5,10.2,Persistent diarrhea and dehydration,Heart Disease,Metformin,118,177,99,12,37.1,96,Ambulance,Evening,Peanuts,Spanish,165,88,32.3,0
+63,Female,Black,Medicaid,7,0.5,Sudden weakness on one side of body,Heart Disease,"Lisinopril, Albuterol",136,139,72,29,35.9,99,Ambulance,Evening,Penicillin,English,185,112,32.7,2
+86,Female,Asian,Medicare,5,2.3,Severe headache with vision changes,Heart Disease,"Albuterol, Atorvastatin",98,107,66,15,36.0,100,Referral,Afternoon,Latex,English,184,78,23.0,2
+40,Male,Asian,Medicaid,4,0.7,Mild rash on arms,Diabetes,Albuterol,70,106,82,22,37.2,85,Referral,Afternoon,Penicillin,Other,163,69,26.0,0
+47,Male,Other,Medicare,2,9.6,Severe allergic reaction with hives,Diabetes,"Insulin, Warfarin",72,151,92,18,39.1,100,Referral,Afternoon,Latex,English,166,68,24.7,2
+87,Male,Hispanic,Private,2,5.6,Cut on hand with mild bleeding,COPD,Insulin,117,163,69,22,38.3,95,Ambulance,Afternoon,Peanuts,English,165,110,40.4,0
+24,Male,Hispanic,Uninsured,2,4.7,Back pain after lifting heavy object,Diabetes,"Albuterol, Insulin",84,110,95,27,36.1,92,Referral,Evening,Penicillin,English,176,69,22.3,1
+42,Male,Black,Medicare,1,0.5,Chest pain and trouble breathing,Chronic Kidney Disease,"Atorvastatin, Warfarin",52,173,65,18,36.2,85,Walk-in,Afternoon,NSAIDs,English,150,119,52.9,2
+62,Male,White,Medicaid,1,5.3,Severe headache with vision changes,Heart Disease,Warfarin,63,143,66,25,36.7,95,Walk-in,Afternoon,NSAIDs,Other,180,78,24.1,2
+34,Female,Hispanic,Medicare,7,1.6,Persistent diarrhea and dehydration,Asthma,"Albuterol, Metformin",112,180,84,29,38.3,98,Ambulance,Afternoon,Penicillin,English,167,86,30.8,1
+43,Female,White,Medicaid,8,6.5,Back pain after lifting heavy object,Hypertension,"Insulin, Warfarin",103,175,78,14,38.1,85,Ambulance,Afternoon,None,English,197,68,17.5,0
+29,Female,Other,Uninsured,10,2.8,Moderate shortness of breath when walking,Chronic Kidney Disease,"Albuterol, Metformin",75,91,79,26,36.6,88,Walk-in,Night,None,Other,153,99,42.3,1
+55,Female,Hispanic,Uninsured,6,11.4,Mild rash on arms,Heart Disease,"Atorvastatin, Warfarin",115,97,88,22,36.4,86,Referral,Morning,NSAIDs,English,163,58,21.8,0
+28,Female,Asian,Private,2,0.3,Abdominal pain and vomiting,COPD,"Atorvastatin, Albuterol",124,128,84,21,37.5,95,Referral,Morning,NSAIDs,Spanish,164,97,36.1,1
+38,Male,Black,Medicaid,3,2.2,Nausea and lightheadedness,Asthma,Lisinopril,118,93,87,25,35.6,87,Walk-in,Night,Penicillin,Spanish,186,70,20.2,1
+75,Female,Other,Private,1,0.3,Intermittent palpitations,Hypertension,"Albuterol, Insulin",130,132,90,13,36.8,90,Walk-in,Morning,NSAIDs,English,171,116,39.7,1
+29,Male,Other,Medicare,3,5.1,Persistent diarrhea and dehydration,Asthma,Lisinopril,72,118,76,18,36.7,98,Walk-in,Morning,Penicillin,Spanish,166,81,29.4,1
+87,Male,Asian,Private,2,0.6,Sharp abdominal cramps,Diabetes,"Insulin, Warfarin",73,123,99,26,36.1,99,Referral,Afternoon,None,English,160,73,28.5,1
+82,Male,Asian,Medicaid,1,11.1,Severe headache with vision changes,COPD,"Insulin, Albuterol",120,112,80,13,35.3,88,Referral,Afternoon,Latex,Other,178,91,28.7,2
+45,Female,White,Medicare,10,2.5,Moderate shortness of breath when walking,COPD,"Warfarin, Insulin",57,142,67,15,37.2,95,Ambulance,Afternoon,Penicillin,English,185,54,15.8,1
+66,Male,Asian,Medicaid,1,1.0,High fever and body aches,Heart Disease,Warfarin,75,146,96,13,35.8,91,Walk-in,Evening,Penicillin,English,188,102,28.9,1
+21,Male,Black,Private,9,9.1,Mild rash on arms,Chronic Kidney Disease,Lisinopril,77,158,62,23,35.3,99,Ambulance,Night,Latex,Spanish,196,69,18.0,0
+28,Male,Other,Uninsured,7,12.1,Abdominal pain and vomiting,Hypertension,Atorvastatin,120,123,78,20,37.6,100,Referral,Night,Latex,Spanish,194,74,19.7,1
+42,Female,White,Private,2,13.3,Abdominal pain and vomiting,COPD,Lisinopril,123,152,63,30,38.4,87,Referral,Afternoon,None,English,177,82,26.2,1
+27,Male,White,Medicaid,2,11.4,Sudden weakness on one side of body,Hypertension,Warfarin,131,164,61,23,38.0,98,Ambulance,Evening,Peanuts,English,151,51,22.4,2
+72,Male,White,Uninsured,7,1.8,Repeated episodes of chest tightness,Hypertension,Insulin,55,108,91,12,35.6,95,Walk-in,Afternoon,Latex,Other,182,89,26.9,2
+49,Female,White,Private,4,0.6,High fever and body aches,Diabetes,"Lisinopril, Albuterol",58,176,94,29,36.9,88,Ambulance,Night,NSAIDs,English,199,74,18.7,1
+84,Female,Asian,Medicare,6,7.3,Pounding headache with neck stiffness,Heart Disease,"Warfarin, Lisinopril",60,137,67,18,37.3,95,Walk-in,Night,NSAIDs,English,184,98,28.9,2
+63,Male,Other,Private,5,5.0,Pounding headache with neck stiffness,COPD,"Insulin, Warfarin",89,123,91,26,36.5,99,Referral,Morning,Latex,Other,195,101,26.6,2
+26,Female,Asian,Medicaid,0,16.3,Sharp abdominal cramps,COPD,Atorvastatin,107,174,64,21,38.1,90,Referral,Evening,Penicillin,Other,200,62,15.5,1
+82,Female,Other,Uninsured,3,2.7,"Multiple falls, leg pain",Chronic Kidney Disease,"Metformin, Atorvastatin",122,156,70,23,36.6,93,Ambulance,Evening,Penicillin,English,160,111,43.4,1
+53,Male,White,Uninsured,6,3.3,Sore throat and cough,Chronic Kidney Disease,"Aspirin, Insulin",50,145,63,23,37.5,92,Ambulance,Night,Latex,English,184,101,29.8,0
+48,Female,Hispanic,Medicare,5,10.4,Chest pain and trouble breathing,Heart Disease,"Metformin, Insulin",56,111,88,22,35.9,100,Walk-in,Evening,None,Spanish,188,61,17.3,2
+24,Female,Other,Medicaid,10,5.1,Chest pain and trouble breathing,None,None,139,162,100,13,37.9,97,Referral,Evening,Peanuts,Spanish,162,104,39.6,2
+53,Male,Black,Medicare,8,3.8,Moderate shortness of breath when walking,Chronic Kidney Disease,Lisinopril,80,117,86,26,37.0,88,Referral,Night,Latex,English,191,61,16.7,1
+40,Male,Asian,Medicare,7,5.6,Sore throat and cough,Asthma,Warfarin,126,174,90,16,35.7,100,Referral,Evening,Latex,Spanish,192,103,27.9,0
+22,Male,Other,Medicaid,10,0.2,"Twisted ankle, slight swelling",Heart Disease,Insulin,120,127,91,14,36.7,92,Walk-in,Morning,Penicillin,Other,166,101,36.7,0
+50,Female,Hispanic,Private,0,28.0,Severe allergic reaction with hives,Diabetes,"Warfarin, Aspirin",76,97,82,21,38.2,97,Walk-in,Night,NSAIDs,English,198,113,28.8,2
+37,Female,Black,Private,0,6.5,High fever and body aches,Heart Disease,"Warfarin, Lisinopril",87,127,88,20,36.2,96,Referral,Morning,Peanuts,Spanish,161,66,25.5,1
+56,Male,Asian,Medicare,9,13.0,Chronic cough worsening over weeks,Asthma,Warfarin,67,168,91,17,37.7,94,Walk-in,Afternoon,NSAIDs,Spanish,193,92,24.7,1
+52,Male,White,Medicaid,1,1.8,Sudden weakness on one side of body,Chronic Kidney Disease,"Metformin, Aspirin",118,171,75,19,37.0,88,Walk-in,Morning,Latex,Other,171,80,27.4,2
+27,Male,Black,Medicaid,7,4.0,"Multiple falls, leg pain",Heart Disease,"Warfarin, Atorvastatin",69,94,82,20,38.5,94,Walk-in,Evening,Penicillin,English,178,103,32.5,1
+63,Male,Black,Private,5,0.1,Nausea and lightheadedness,Asthma,Insulin,127,128,96,29,35.3,96,Referral,Morning,None,Spanish,183,120,35.8,1
+79,Male,Other,Private,6,14.2,Moderate shortness of breath when walking,Asthma,Aspirin,110,92,97,13,36.4,85,Ambulance,Evening,None,Other,193,79,21.2,1
+34,Female,Black,Medicaid,10,1.9,Confusion and slurred speech,Hypertension,"Lisinopril, Warfarin",94,180,95,21,38.4,93,Referral,Evening,Latex,Other,196,83,21.6,2
+34,Male,Hispanic,Medicare,7,4.7,Repeated episodes of chest tightness,Diabetes,"Aspirin, Warfarin",68,156,77,30,36.8,100,Referral,Morning,Penicillin,Other,168,96,34.0,2
+23,Female,Other,Medicaid,7,1.9,Sharp abdominal cramps,Hypertension,Insulin,88,138,71,24,36.3,85,Walk-in,Afternoon,Penicillin,English,198,85,21.7,1
+38,Female,Other,Medicaid,4,13.3,Cut on hand with mild bleeding,Asthma,Aspirin,130,160,92,18,35.3,94,Ambulance,Morning,Latex,Other,173,60,20.0,0
+29,Male,White,Uninsured,2,9.9,Sudden weakness on one side of body,None,None,106,102,82,30,36.7,100,Walk-in,Night,Penicillin,Other,182,61,18.4,2
+51,Female,Other,Medicaid,6,0.6,High fever and body aches,Diabetes,"Warfarin, Metformin",62,120,61,18,37.1,99,Referral,Morning,Latex,Other,160,83,32.4,1
+85,Male,White,Uninsured,10,3.8,Pounding headache with neck stiffness,Asthma,Lisinopril,126,126,76,23,36.7,92,Referral,Night,Latex,English,162,115,43.8,1
+58,Male,Black,Medicaid,10,15.6,Chronic cough worsening over weeks,Asthma,Metformin,132,159,88,22,37.2,91,Referral,Evening,Peanuts,Spanish,151,68,29.8,2
+85,Female,White,Private,9,21.2,"Multiple falls, leg pain",None,None,110,119,66,20,37.1,87,Walk-in,Night,Latex,English,155,67,27.9,1
+27,Female,Hispanic,Medicare,10,2.4,Intermittent palpitations,None,None,133,154,62,29,36.2,93,Walk-in,Morning,Peanuts,Other,163,80,30.1,1
+34,Male,Hispanic,Uninsured,6,0.0,Persistent diarrhea and dehydration,COPD,"Albuterol, Metformin",102,106,81,13,35.9,88,Referral,Afternoon,NSAIDs,English,155,70,29.1,1
+43,Female,Asian,Private,6,4.8,Moderate shortness of breath when walking,Hypertension,"Warfarin, Insulin",130,110,75,25,37.3,100,Referral,Night,Latex,Other,169,78,27.3,1
+25,Female,Other,Medicare,7,4.2,Repeated episodes of chest tightness,Heart Disease,"Insulin, Aspirin",128,175,69,29,35.1,97,Referral,Night,None,Other,182,54,16.3,2
+44,Female,Hispanic,Private,8,3.6,Nausea and lightheadedness,Hypertension,Lisinopril,112,137,73,23,36.3,96,Walk-in,Morning,NSAIDs,English,193,92,24.7,1
+34,Female,Hispanic,Uninsured,7,4.6,Sore throat and cough,Heart Disease,"Aspirin, Warfarin",113,164,93,21,37.8,88,Ambulance,Afternoon,NSAIDs,Other,173,92,30.7,0
+40,Male,Black,Medicare,10,8.7,Nausea and lightheadedness,COPD,"Lisinopril, Albuterol",114,95,81,20,36.4,92,Referral,Night,Penicillin,English,174,100,33.0,1
+65,Female,Hispanic,Medicaid,5,3.1,Back pain after lifting heavy object,Heart Disease,"Lisinopril, Aspirin",114,149,95,23,36.8,86,Referral,Morning,NSAIDs,Other,188,120,34.0,1
+28,Female,Black,Medicaid,3,0.9,Sudden weakness on one side of body,Diabetes,"Atorvastatin, Aspirin",90,147,83,20,36.4,100,Ambulance,Evening,None,Spanish,180,104,32.1,2
+27,Male,Black,Uninsured,1,8.5,"Twisted ankle, slight swelling",Asthma,Insulin,119,156,70,26,37.9,90,Walk-in,Night,Latex,Spanish,196,106,27.6,0
+67,Female,Other,Medicare,1,0.6,Repeated episodes of chest tightness,Asthma,"Metformin, Warfarin",137,91,99,13,36.1,95,Referral,Night,Peanuts,Spanish,175,120,39.2,2
+55,Male,Hispanic,Medicare,9,7.8,Severe allergic reaction with hives,None,None,50,172,61,15,38.2,86,Ambulance,Morning,Penicillin,Other,150,79,35.1,2
+41,Female,Asian,Medicare,3,1.7,Severe headache with vision changes,Hypertension,Insulin,104,166,75,24,36.2,92,Walk-in,Night,NSAIDs,Spanish,175,115,37.6,2
+55,Male,Asian,Uninsured,0,1.6,Cut on hand with mild bleeding,Chronic Kidney Disease,Albuterol,78,126,76,18,38.0,87,Walk-in,Evening,Penicillin,English,159,108,42.7,0
+31,Female,Other,Private,9,9.8,"Twisted ankle, slight swelling",Asthma,"Warfarin, Insulin",75,90,61,28,35.8,98,Ambulance,Evening,Latex,Other,188,120,34.0,0
+69,Female,White,Private,10,2.2,"Twisted ankle, slight swelling",Asthma,Insulin,50,162,79,30,37.7,88,Walk-in,Morning,NSAIDs,Spanish,158,71,28.4,0
+35,Male,Black,Medicaid,9,11.7,Nausea and lightheadedness,COPD,Aspirin,97,96,75,16,37.3,100,Referral,Morning,Penicillin,Spanish,150,86,38.2,1
+54,Male,Other,Medicaid,0,5.1,Mild rash on arms,None,None,121,150,92,13,36.8,86,Walk-in,Morning,Latex,Spanish,192,73,19.8,0
+21,Female,Other,Medicaid,4,5.0,Back pain after lifting heavy object,Diabetes,"Warfarin, Lisinopril",137,155,92,30,38.4,93,Walk-in,Afternoon,None,Other,177,84,26.8,1
+27,Female,Other,Medicaid,0,12.8,Sudden weakness on one side of body,Heart Disease,Albuterol,64,146,64,20,37.0,91,Referral,Afternoon,NSAIDs,English,156,105,43.1,2
+40,Female,Other,Private,8,1.2,High fever and body aches,Asthma,"Aspirin, Metformin",112,98,92,30,36.0,96,Referral,Morning,Peanuts,Spanish,155,86,35.8,1
+48,Male,Other,Medicaid,1,9.4,Sharp abdominal cramps,Chronic Kidney Disease,"Lisinopril, Aspirin",85,125,74,19,36.3,96,Referral,Morning,NSAIDs,English,153,111,47.4,1
+68,Male,Asian,Medicaid,7,1.0,Repeated episodes of chest tightness,Diabetes,Warfarin,131,99,98,29,36.7,85,Referral,Afternoon,Latex,English,188,70,19.8,2
+82,Male,Hispanic,Private,3,1.9,Severe allergic reaction with hives,COPD,Warfarin,83,137,92,13,35.3,88,Ambulance,Night,Latex,Spanish,150,50,22.2,2
+22,Male,Asian,Medicare,0,1.8,Confusion and slurred speech,COPD,Insulin,66,102,73,22,36.1,96,Walk-in,Morning,Peanuts,English,191,110,30.2,1
+81,Male,Black,Uninsured,0,8.1,Persistent diarrhea and dehydration,Asthma,Lisinopril,126,148,64,17,36.9,89,Walk-in,Afternoon,Latex,Other,150,53,23.6,1
+71,Female,Asian,Medicaid,9,11.8,Severe allergic reaction with hives,COPD,Warfarin,125,163,93,22,38.4,94,Walk-in,Morning,Peanuts,Spanish,179,71,22.2,2
+87,Female,Hispanic,Private,1,10.0,Pounding headache with neck stiffness,COPD,"Insulin, Lisinopril",65,165,60,19,37.8,98,Walk-in,Evening,Peanuts,Spanish,154,68,28.7,2
+55,Female,White,Medicaid,10,6.7,Sore throat and cough,COPD,"Albuterol, Warfarin",70,171,69,13,37.0,94,Referral,Afternoon,NSAIDs,English,179,80,25.0,0
+59,Female,Black,Medicaid,6,3.6,Cut on hand with mild bleeding,None,None,127,157,85,26,38.1,98,Referral,Morning,None,English,174,120,39.6,0
+43,Female,White,Private,7,14.4,Nausea and lightheadedness,Diabetes,"Metformin, Insulin",91,130,95,26,35.5,97,Walk-in,Evening,Penicillin,English,174,115,38.0,0
+83,Male,Other,Private,8,19.0,Sudden weakness on one side of body,COPD,Insulin,80,174,91,13,36.8,86,Ambulance,Morning,None,English,187,103,29.5,2
+57,Male,Asian,Medicare,9,1.9,Pounding headache with neck stiffness,Heart Disease,Metformin,123,144,63,14,38.1,98,Walk-in,Evening,Latex,Other,159,96,38.0,2
+31,Male,Asian,Medicaid,5,0.7,Back pain after lifting heavy object,Heart Disease,Insulin,115,164,100,14,38.3,98,Walk-in,Evening,Penicillin,English,183,98,29.3,1
+71,Female,White,Uninsured,9,0.7,Persistent diarrhea and dehydration,Diabetes,"Aspirin, Lisinopril",79,114,78,19,36.9,96,Walk-in,Afternoon,Latex,English,157,52,21.1,1
+84,Female,Black,Uninsured,5,1.6,Repeated episodes of chest tightness,Heart Disease,Albuterol,58,151,89,23,36.3,95,Ambulance,Afternoon,NSAIDs,Spanish,157,53,21.5,2
+44,Male,Other,Private,7,0.6,Nausea and lightheadedness,Heart Disease,"Lisinopril, Aspirin",134,141,79,15,36.0,95,Ambulance,Morning,None,Other,162,53,20.2,1
+65,Female,Asian,Private,9,2.3,"Multiple falls, leg pain",Hypertension,"Insulin, Warfarin",107,108,83,30,36.4,96,Ambulance,Morning,Latex,Spanish,151,59,25.9,1
+75,Male,Hispanic,Uninsured,8,12.1,"Twisted ankle, slight swelling",None,None,133,104,91,12,36.9,85,Referral,Night,Latex,Spanish,173,79,26.4,0
+79,Female,White,Medicare,10,21.8,Chest pain and trouble breathing,Asthma,Insulin,92,97,62,23,37.3,95,Walk-in,Morning,NSAIDs,Other,198,112,28.6,2
+79,Female,Hispanic,Medicaid,10,4.3,Persistent diarrhea and dehydration,None,None,79,148,71,26,37.8,86,Referral,Morning,Peanuts,Other,177,72,23.0,1
+62,Female,White,Uninsured,6,0.7,High fever and body aches,Heart Disease,"Metformin, Warfarin",95,145,70,30,37.2,92,Referral,Morning,Latex,Other,174,95,31.4,1
+74,Male,Hispanic,Uninsured,6,12.6,Pounding headache with neck stiffness,Heart Disease,"Insulin, Lisinopril",65,137,74,12,35.6,90,Walk-in,Morning,Latex,Other,152,103,44.6,2
+31,Male,Black,Private,3,5.2,Confusion and slurred speech,None,None,116,99,98,26,37.7,95,Referral,Afternoon,Latex,Spanish,198,54,13.8,2
+88,Male,Other,Medicaid,2,2.6,"Multiple falls, leg pain",COPD,Warfarin,125,119,79,16,35.8,87,Walk-in,Morning,None,Spanish,158,90,36.1,1
+56,Male,Hispanic,Private,9,1.3,Persistent diarrhea and dehydration,None,None,134,105,68,24,36.8,88,Ambulance,Night,NSAIDs,English,166,87,31.6,1
+82,Male,White,Private,1,19.3,Severe allergic reaction with hives,Asthma,"Insulin, Aspirin",104,168,63,12,36.4,92,Walk-in,Morning,Penicillin,Other,185,59,17.2,2
+37,Male,White,Medicare,8,3.6,Sore throat and cough,None,None,111,107,89,23,37.6,95,Walk-in,Morning,Latex,Other,158,99,39.7,0
+79,Male,Other,Private,8,7.0,Pounding headache with neck stiffness,None,None,63,90,76,19,35.5,89,Walk-in,Afternoon,None,English,154,68,28.7,2
+40,Female,Hispanic,Uninsured,8,4.0,Moderate shortness of breath when walking,None,None,82,91,73,25,37.0,96,Referral,Afternoon,Peanuts,English,165,63,23.1,1
+41,Male,Other,Medicare,6,2.5,Moderate shortness of breath when walking,None,None,51,116,69,14,37.7,91,Ambulance,Evening,Penicillin,Spanish,198,72,18.4,1
+85,Male,Hispanic,Medicare,4,4.2,Nausea and lightheadedness,Hypertension,"Atorvastatin, Aspirin",112,179,76,18,38.2,99,Ambulance,Morning,NSAIDs,Spanish,162,115,43.8,1
+36,Male,White,Uninsured,7,5.4,Severe headache with vision changes,None,None,135,104,69,20,36.3,95,Ambulance,Afternoon,None,Other,158,101,40.5,2
+45,Female,Asian,Uninsured,0,0.8,Severe allergic reaction with hives,Hypertension,Metformin,131,136,97,18,35.6,99,Referral,Evening,NSAIDs,Spanish,156,107,44.0,2
+27,Female,Black,Medicare,9,12.8,Mild rash on arms,Heart Disease,"Aspirin, Atorvastatin",86,156,74,16,37.7,92,Ambulance,Night,NSAIDs,English,161,117,45.1,0
+26,Female,Hispanic,Uninsured,6,7.1,Chest pain and trouble breathing,COPD,Metformin,110,129,81,30,36.5,100,Ambulance,Morning,NSAIDs,English,171,106,36.3,2
+79,Female,Other,Medicare,1,17.4,Nausea and lightheadedness,Chronic Kidney Disease,"Insulin, Warfarin",121,159,89,18,34.4,91,Ambulance,Evening,None,English,181,106,32.4,1
+26,Male,Black,Uninsured,6,8.0,"Multiple falls, leg pain",Hypertension,Metformin,70,153,90,13,37.2,92,Referral,Morning,None,Other,181,55,16.8,1
+49,Female,Hispanic,Medicare,3,6.4,Back pain after lifting heavy object,Diabetes,Lisinopril,113,168,73,30,37.3,95,Referral,Night,None,English,164,55,20.4,1
+55,Male,Other,Medicare,9,12.0,Repeated episodes of chest tightness,Chronic Kidney Disease,Aspirin,122,142,65,25,36.1,97,Walk-in,Morning,None,English,192,100,27.1,2
+36,Female,Other,Medicaid,4,8.3,Back pain after lifting heavy object,Hypertension,"Insulin, Warfarin",94,117,77,23,36.2,88,Walk-in,Afternoon,None,Spanish,191,78,21.4,1
+34,Male,White,Medicare,3,3.2,Back pain after lifting heavy object,Chronic Kidney Disease,Metformin,117,163,84,14,35.3,85,Walk-in,Afternoon,None,Spanish,155,75,31.2,1
+89,Female,White,Uninsured,2,0.7,Severe allergic reaction with hives,Hypertension,Atorvastatin,110,92,63,20,38.3,89,Walk-in,Afternoon,Latex,Spanish,200,64,16.0,2
+25,Male,Asian,Medicare,5,17.7,Sore throat and cough,Diabetes,"Lisinopril, Metformin",59,167,100,30,36.4,91,Walk-in,Afternoon,None,Other,168,80,28.3,0
+69,Male,Hispanic,Medicare,9,17.2,Pounding headache with neck stiffness,Chronic Kidney Disease,Albuterol,97,129,65,17,36.3,93,Walk-in,Night,Penicillin,Spanish,185,76,22.2,2
+86,Male,Hispanic,Medicare,8,0.6,Sore throat and cough,COPD,Metformin,128,102,70,24,37.1,85,Referral,Afternoon,None,Spanish,195,67,17.6,1
+60,Female,Black,Uninsured,0,3.5,Nausea and lightheadedness,Diabetes,Aspirin,108,120,87,14,38.1,90,Referral,Night,Penicillin,English,163,107,40.3,2
+32,Female,Asian,Medicare,1,10.3,"Twisted ankle, slight swelling",Hypertension,Atorvastatin,73,116,96,17,37.0,99,Ambulance,Night,None,English,175,114,37.2,0
+21,Female,Other,Private,8,14.7,Back pain after lifting heavy object,COPD,"Albuterol, Warfarin",60,163,76,15,36.3,92,Referral,Morning,Latex,Spanish,196,70,18.2,1
+30,Male,White,Private,8,1.8,Back pain after lifting heavy object,Hypertension,"Metformin, Lisinopril",119,166,81,16,36.6,98,Walk-in,Afternoon,None,English,196,118,30.7,1
+75,Female,Hispanic,Medicare,3,0.8,Nausea and lightheadedness,Chronic Kidney Disease,"Atorvastatin, Insulin",97,163,76,24,35.8,85,Referral,Morning,Latex,Spanish,150,82,36.4,1
+55,Male,Asian,Medicare,8,0.3,Chronic cough worsening over weeks,Heart Disease,Albuterol,90,119,67,28,36.6,93,Referral,Morning,None,Spanish,150,74,32.9,1
+18,Female,Other,Private,9,23.0,High fever and body aches,Asthma,"Warfarin, Lisinopril",78,139,61,20,37.2,92,Referral,Afternoon,None,Other,166,109,39.6,1
+53,Female,White,Medicaid,0,6.7,Sudden weakness on one side of body,None,None,99,92,63,28,35.1,91,Walk-in,Evening,Latex,Other,169,73,25.6,2
+81,Male,Hispanic,Medicaid,5,5.6,Repeated episodes of chest tightness,Heart Disease,"Atorvastatin, Insulin",137,162,81,23,37.3,85,Ambulance,Afternoon,Penicillin,Spanish,174,110,36.3,2
+32,Male,Other,Private,2,1.3,Sore throat and cough,Asthma,"Insulin, Atorvastatin",80,180,71,25,38.5,95,Referral,Afternoon,Penicillin,Spanish,194,102,27.1,0
+78,Female,Hispanic,Uninsured,4,1.6,Sharp abdominal cramps,None,None,101,178,90,22,39.1,100,Ambulance,Evening,Peanuts,Spanish,169,85,29.8,2
+71,Female,Other,Private,5,2.6,"Multiple falls, leg pain",Heart Disease,Atorvastatin,79,111,86,16,37.2,85,Referral,Evening,Latex,Other,194,75,19.9,1
+39,Female,White,Medicare,6,12.5,Nausea and lightheadedness,None,None,114,133,95,22,36.5,89,Ambulance,Night,Penicillin,Spanish,151,66,28.9,1
+57,Male,White,Medicare,5,1.0,Sharp abdominal cramps,None,None,124,150,75,27,37.2,92,Referral,Afternoon,Latex,English,192,91,24.7,1
+74,Male,Other,Private,0,0.5,High fever and body aches,Asthma,"Insulin, Atorvastatin",62,108,66,20,38.9,87,Ambulance,Night,Peanuts,Spanish,194,103,27.4,1
+78,Female,White,Medicaid,6,5.2,Confusion and slurred speech,None,None,80,122,73,27,37.0,91,Ambulance,Afternoon,NSAIDs,Other,180,97,29.9,2
+64,Female,Asian,Medicaid,4,0.4,Sore throat and cough,Heart Disease,Warfarin,139,95,68,29,36.9,85,Walk-in,Night,NSAIDs,Other,180,61,18.8,0
+40,Female,Asian,Medicaid,5,3.1,"Twisted ankle, slight swelling",Hypertension,"Warfarin, Lisinopril",108,125,62,28,36.9,97,Ambulance,Evening,Penicillin,Spanish,161,50,19.3,0
+38,Female,Hispanic,Private,2,4.0,Severe allergic reaction with hives,Diabetes,"Lisinopril, Albuterol",116,133,91,21,36.2,100,Ambulance,Afternoon,NSAIDs,Spanish,189,118,33.0,2
+85,Male,Black,Medicare,9,6.4,Repeated episodes of chest tightness,Hypertension,Aspirin,53,168,76,23,38.1,92,Ambulance,Evening,NSAIDs,English,172,67,22.6,2
+18,Female,Hispanic,Medicaid,2,1.2,Repeated episodes of chest tightness,Hypertension,Atorvastatin,50,92,62,16,35.7,87,Referral,Morning,Peanuts,Spanish,178,82,25.9,2
+78,Male,Hispanic,Uninsured,9,9.0,Cut on hand with mild bleeding,Hypertension,"Atorvastatin, Lisinopril",82,111,62,20,37.8,95,Ambulance,Morning,Latex,Spanish,180,75,23.1,0
+58,Male,Asian,Medicaid,9,1.9,Severe allergic reaction with hives,None,None,78,149,62,12,35.7,88,Referral,Evening,Peanuts,Spanish,168,95,33.7,2
+66,Female,Other,Medicare,5,2.7,"Twisted ankle, slight swelling",Heart Disease,"Albuterol, Lisinopril",93,105,92,24,37.1,87,Referral,Morning,Latex,English,187,88,25.2,0
+50,Male,Other,Private,0,10.2,High fever and body aches,None,None,129,120,84,27,37.1,98,Walk-in,Afternoon,Latex,Spanish,182,101,30.5,2
+27,Male,Hispanic,Private,7,0.1,Mild rash on arms,Heart Disease,Metformin,108,141,93,28,36.8,100,Referral,Afternoon,Peanuts,English,162,118,45.0,0
+84,Male,White,Uninsured,6,0.7,Severe headache with vision changes,COPD,Albuterol,72,119,77,18,34.1,85,Ambulance,Night,Peanuts,Other,154,101,42.6,2
+21,Male,Hispanic,Uninsured,1,21.4,Severe allergic reaction with hives,Heart Disease,"Warfarin, Albuterol",75,90,63,18,38.0,85,Walk-in,Night,Peanuts,English,157,69,28.0,2
+33,Female,Hispanic,Medicaid,4,4.1,High fever and body aches,Asthma,"Warfarin, Atorvastatin",136,171,90,21,35.4,96,Ambulance,Afternoon,Latex,Other,150,52,23.1,0
+26,Female,Asian,Medicaid,9,4.9,Repeated episodes of chest tightness,Chronic Kidney Disease,"Insulin, Albuterol",52,113,68,24,35.4,89,Referral,Night,Penicillin,Other,168,96,34.0,2
+39,Male,Black,Medicare,10,3.7,High fever and body aches,Asthma,Warfarin,88,173,67,21,36.5,89,Referral,Evening,None,Other,158,74,29.6,1
+19,Female,White,Private,2,5.4,Back pain after lifting heavy object,Heart Disease,"Lisinopril, Albuterol",119,106,84,17,37.1,91,Ambulance,Night,NSAIDs,English,200,75,18.8,0
+73,Male,Black,Uninsured,3,11.6,High fever and body aches,COPD,Albuterol,76,134,63,25,37.6,87,Ambulance,Evening,NSAIDs,Spanish,186,120,34.7,1
+50,Female,Other,Uninsured,6,3.0,Abdominal pain and vomiting,None,None,121,121,97,13,37.7,98,Ambulance,Afternoon,Peanuts,Spanish,182,59,17.8,1
+81,Female,White,Medicaid,3,5.2,Back pain after lifting heavy object,Hypertension,"Albuterol, Insulin",108,141,92,27,34.8,87,Referral,Afternoon,None,English,170,71,24.6,1
+26,Female,Asian,Private,8,0.8,Mild rash on arms,Heart Disease,Lisinopril,94,97,75,29,37.4,96,Referral,Night,NSAIDs,Spanish,155,90,37.5,0
+72,Female,Asian,Private,4,7.7,Chronic cough worsening over weeks,COPD,"Insulin, Atorvastatin",114,172,67,14,38.2,94,Ambulance,Evening,Penicillin,Other,174,118,39.0,1
+72,Male,Black,Medicaid,7,1.2,Nausea and lightheadedness,Heart Disease,Metformin,82,107,98,27,37.4,93,Walk-in,Afternoon,None,Spanish,156,102,41.9,1
+80,Female,Asian,Medicaid,8,11.0,Sudden weakness on one side of body,Diabetes,"Lisinopril, Atorvastatin",101,118,75,23,37.3,85,Referral,Morning,NSAIDs,English,186,113,32.7,2
+30,Male,White,Medicare,7,6.8,Cut on hand with mild bleeding,Diabetes,Warfarin,82,175,68,20,36.1,95,Walk-in,Evening,Peanuts,Other,185,94,27.5,0
+34,Female,White,Medicaid,7,2.4,Severe allergic reaction with hives,None,None,63,156,82,18,36.8,98,Ambulance,Evening,Peanuts,Spanish,199,110,27.8,1
+40,Female,Hispanic,Medicare,10,0.1,Pounding headache with neck stiffness,Hypertension,"Metformin, Atorvastatin",90,144,96,28,35.6,93,Ambulance,Afternoon,NSAIDs,Other,151,99,43.4,2
+60,Male,Asian,Uninsured,7,8.4,Severe headache with vision changes,None,None,53,166,90,20,37.1,95,Ambulance,Morning,Latex,Spanish,156,118,48.5,2
+86,Female,Hispanic,Medicare,0,2.3,Nausea and lightheadedness,COPD,Atorvastatin,129,174,61,21,36.6,97,Walk-in,Afternoon,Peanuts,English,181,96,29.3,1
+89,Male,Black,Medicare,10,25.8,Severe allergic reaction with hives,Heart Disease,"Metformin, Lisinopril",80,118,64,24,37.9,85,Ambulance,Afternoon,Penicillin,English,172,52,17.6,2
+84,Female,White,Private,6,5.2,Chest pain and trouble breathing,Chronic Kidney Disease,Albuterol,79,171,70,22,35.9,85,Walk-in,Morning,Penicillin,English,178,68,21.5,2
+20,Male,Other,Private,3,5.2,"Multiple falls, leg pain",None,None,139,169,95,12,35.9,88,Walk-in,Morning,None,Spanish,162,82,31.2,1
+22,Male,White,Private,4,0.2,Mild rash on arms,Hypertension,"Atorvastatin, Metformin",117,172,63,30,36.3,98,Ambulance,Evening,None,English,159,86,34.0,0
+40,Male,Hispanic,Medicaid,10,7.1,Chronic cough worsening over weeks,Hypertension,Warfarin,126,140,78,12,35.1,92,Referral,Afternoon,NSAIDs,Other,181,71,21.7,1
+83,Male,White,Private,7,0.3,Intermittent palpitations,Hypertension,Insulin,104,140,67,15,36.9,86,Ambulance,Evening,Penicillin,Other,165,119,43.7,1
+76,Male,White,Medicare,2,6.6,Intermittent palpitations,Chronic Kidney Disease,"Insulin, Albuterol",93,145,85,30,37.5,100,Walk-in,Afternoon,Latex,Other,199,90,22.7,1
+83,Male,Black,Medicaid,8,0.3,Persistent diarrhea and dehydration,Asthma,"Metformin, Atorvastatin",114,125,71,20,39.7,98,Ambulance,Night,None,Spanish,171,110,37.6,2
+35,Male,Asian,Private,5,4.9,Intermittent palpitations,Hypertension,"Albuterol, Lisinopril",121,102,66,28,37.8,86,Referral,Evening,NSAIDs,Other,181,71,21.7,2
+72,Male,White,Medicaid,2,0.7,"Multiple falls, leg pain",None,None,111,143,88,12,37.5,87,Walk-in,Evening,Latex,Other,159,120,47.5,1
+63,Female,Asian,Medicare,2,3.5,Cut on hand with mild bleeding,Asthma,"Lisinopril, Albuterol",121,114,99,18,36.8,98,Ambulance,Morning,Latex,Other,172,95,32.1,0
+30,Female,Black,Private,4,5.2,"Multiple falls, leg pain",Heart Disease,"Aspirin, Albuterol",82,93,62,20,36.5,98,Walk-in,Morning,None,English,182,65,19.6,1
+41,Female,Asian,Private,4,25.8,Repeated episodes of chest tightness,None,None,125,158,96,29,36.4,96,Walk-in,Afternoon,Peanuts,English,176,75,24.2,2
+77,Female,White,Medicare,1,3.4,Back pain after lifting heavy object,Heart Disease,Albuterol,108,91,92,18,37.1,100,Walk-in,Evening,Latex,Spanish,167,66,23.7,1
+56,Female,Other,Uninsured,6,7.8,"Multiple falls, leg pain",COPD,"Lisinopril, Metformin",125,124,70,23,37.9,93,Walk-in,Morning,None,Spanish,153,74,31.6,1
+65,Female,Asian,Medicare,3,3.2,Sore throat and cough,Hypertension,"Aspirin, Warfarin",112,136,60,14,38.6,85,Referral,Morning,None,Spanish,163,111,41.8,0
+52,Male,Black,Uninsured,9,7.9,Mild rash on arms,Heart Disease,"Lisinopril, Metformin",126,140,75,29,37.9,91,Walk-in,Morning,None,Other,194,85,22.6,0
+58,Female,Asian,Medicare,9,7.2,High fever and body aches,Heart Disease,"Albuterol, Warfarin",132,126,61,21,35.6,93,Referral,Evening,NSAIDs,Spanish,192,105,28.5,1
+61,Male,White,Uninsured,8,2.3,Pounding headache with neck stiffness,Asthma,"Albuterol, Lisinopril",67,157,68,18,36.5,86,Walk-in,Night,Latex,English,157,113,45.8,1
+24,Male,Black,Medicaid,8,2.4,Repeated episodes of chest tightness,Asthma,Albuterol,101,111,63,17,36.9,85,Ambulance,Evening,Latex,Spanish,173,80,26.7,2
+52,Male,Other,Uninsured,10,17.4,Cut on hand with mild bleeding,Heart Disease,"Atorvastatin, Warfarin",76,124,94,18,36.3,97,Walk-in,Night,NSAIDs,English,187,58,16.6,0
+32,Male,Asian,Medicaid,4,13.0,"Multiple falls, leg pain",COPD,Albuterol,132,144,82,24,36.4,97,Referral,Evening,Peanuts,Spanish,173,74,24.7,1
+64,Male,White,Private,10,6.6,Severe allergic reaction with hives,Chronic Kidney Disease,Lisinopril,50,96,60,28,37.0,100,Walk-in,Morning,Peanuts,Spanish,158,78,31.2,2
+43,Male,Asian,Medicaid,6,3.8,Chronic cough worsening over weeks,Asthma,"Lisinopril, Aspirin",120,101,90,30,38.0,86,Referral,Afternoon,Penicillin,English,176,89,28.7,1
+31,Female,Other,Private,3,8.8,Severe headache with vision changes,Chronic Kidney Disease,"Lisinopril, Aspirin",128,95,92,30,35.6,99,Walk-in,Afternoon,None,Other,162,78,29.7,2
+78,Female,White,Uninsured,5,13.2,Back pain after lifting heavy object,COPD,"Atorvastatin, Albuterol",59,143,100,20,36.6,96,Walk-in,Morning,Latex,Other,194,79,21.0,2
+61,Male,Hispanic,Uninsured,9,16.1,"Twisted ankle, slight swelling",Asthma,"Lisinopril, Atorvastatin",68,96,85,26,35.9,99,Ambulance,Night,None,Other,187,52,14.9,0
+83,Male,Hispanic,Uninsured,6,1.0,Intermittent palpitations,Chronic Kidney Disease,Warfarin,73,128,63,23,36.9,94,Referral,Evening,Penicillin,Other,186,102,29.5,2
+47,Female,Hispanic,Uninsured,2,14.2,Confusion and slurred speech,Asthma,Insulin,98,162,100,21,36.5,97,Ambulance,Afternoon,Peanuts,Spanish,164,103,38.3,2
+86,Male,Hispanic,Uninsured,2,7.0,Abdominal pain and vomiting,COPD,"Insulin, Aspirin",113,99,72,14,38.0,99,Referral,Morning,NSAIDs,Spanish,190,79,21.9,1
+38,Female,White,Uninsured,10,2.3,Back pain after lifting heavy object,Hypertension,"Lisinopril, Aspirin",52,169,63,29,35.7,88,Referral,Evening,NSAIDs,Spanish,174,79,26.1,1
+28,Female,Other,Medicaid,0,15.4,Confusion and slurred speech,Asthma,"Albuterol, Lisinopril",101,137,79,24,37.3,86,Referral,Night,NSAIDs,English,163,53,19.9,2
+30,Male,Other,Medicare,3,1.5,"Twisted ankle, slight swelling",Asthma,Metformin,121,155,65,21,36.4,96,Referral,Night,Peanuts,Other,170,72,24.9,0
+20,Female,Other,Private,3,5.3,Intermittent palpitations,Hypertension,Lisinopril,95,123,96,19,35.4,93,Walk-in,Afternoon,Penicillin,English,178,112,35.3,1
+38,Female,Asian,Uninsured,2,1.9,Moderate shortness of breath when walking,Chronic Kidney Disease,"Warfarin, Aspirin",76,101,66,28,38.4,85,Referral,Afternoon,Latex,Spanish,199,75,18.9,1
+32,Female,Black,Medicaid,2,3.6,Mild rash on arms,Hypertension,Albuterol,84,154,67,23,38.0,85,Ambulance,Morning,Penicillin,English,200,119,29.8,0
+25,Male,Black,Medicaid,3,6.2,Nausea and lightheadedness,Asthma,Atorvastatin,72,157,63,26,37.6,95,Walk-in,Night,None,English,170,105,36.3,1
+83,Male,Hispanic,Medicare,10,1.6,Chest pain and trouble breathing,Diabetes,"Warfarin, Lisinopril",136,164,93,12,37.9,91,Referral,Afternoon,None,Other,190,107,29.6,2
+27,Female,White,Private,9,4.0,Severe headache with vision changes,Diabetes,Atorvastatin,109,98,95,20,38.1,100,Walk-in,Morning,Latex,Spanish,185,97,28.3,2
+68,Male,Asian,Medicare,0,3.2,Abdominal pain and vomiting,None,None,129,157,81,24,39.1,90,Referral,Morning,NSAIDs,Other,175,52,17.0,1
+69,Female,Asian,Private,9,1.3,Abdominal pain and vomiting,COPD,Aspirin,101,179,71,25,35.6,93,Walk-in,Evening,NSAIDs,Other,157,117,47.5,1
+45,Female,Black,Uninsured,6,19.7,Confusion and slurred speech,Hypertension,"Aspirin, Metformin",115,179,73,27,34.9,86,Ambulance,Evening,Latex,Spanish,188,68,19.2,2
+33,Female,Other,Private,5,4.5,"Multiple falls, leg pain",COPD,Lisinopril,134,100,98,20,36.8,88,Referral,Morning,Peanuts,Other,174,112,37.0,1
+47,Female,Asian,Medicare,10,16.3,Sharp abdominal cramps,Chronic Kidney Disease,Metformin,58,165,61,17,36.9,100,Walk-in,Night,Peanuts,Spanish,171,54,18.5,1
+76,Male,Other,Private,3,5.7,Sudden weakness on one side of body,Heart Disease,Warfarin,59,169,69,17,37.3,98,Referral,Afternoon,Peanuts,Other,198,54,13.8,2
+87,Female,Hispanic,Medicaid,10,15.2,Pounding headache with neck stiffness,COPD,Warfarin,108,140,63,19,37.0,86,Ambulance,Night,Latex,English,185,119,34.8,2
+60,Female,Hispanic,Medicaid,10,19.7,Severe headache with vision changes,Chronic Kidney Disease,Warfarin,90,170,89,18,38.9,90,Ambulance,Evening,Penicillin,English,180,68,21.0,2
+79,Female,Hispanic,Uninsured,2,25.9,Sudden weakness on one side of body,Diabetes,"Warfarin, Aspirin",67,115,99,30,38.0,90,Walk-in,Night,Latex,Spanish,150,57,25.3,2
+68,Female,White,Medicare,10,0.2,Sharp abdominal cramps,COPD,Aspirin,113,172,88,21,35.6,92,Walk-in,Night,NSAIDs,Other,161,82,31.6,1
+88,Female,Asian,Private,0,16.5,Sudden weakness on one side of body,Heart Disease,"Insulin, Metformin",80,149,65,28,36.3,94,Referral,Night,Penicillin,English,198,78,19.9,2
+49,Female,Black,Medicaid,7,5.0,Moderate shortness of breath when walking,COPD,Aspirin,84,122,77,16,37.4,97,Ambulance,Afternoon,Penicillin,Other,159,113,44.7,1
+18,Male,Other,Uninsured,8,2.2,Moderate shortness of breath when walking,Asthma,"Albuterol, Insulin",56,145,75,16,37.3,100,Ambulance,Evening,Penicillin,Other,169,75,26.3,1
+29,Female,Hispanic,Medicare,4,7.9,Severe headache with vision changes,Asthma,"Lisinopril, Metformin",83,96,94,26,37.5,85,Walk-in,Night,NSAIDs,English,175,74,24.2,2
+76,Male,White,Medicare,10,8.6,Severe headache with vision changes,Asthma,"Metformin, Lisinopril",128,177,80,18,37.4,98,Referral,Afternoon,None,Spanish,181,81,24.7,2
+70,Female,Other,Medicaid,10,14.4,Severe allergic reaction with hives,None,None,135,107,94,28,38.3,86,Walk-in,Afternoon,NSAIDs,English,199,105,26.5,2
+41,Male,Other,Uninsured,1,3.2,Nausea and lightheadedness,Chronic Kidney Disease,Insulin,52,126,96,16,36.9,91,Walk-in,Morning,Penicillin,Other,177,67,21.4,1
+53,Male,Black,Medicaid,0,33.3,High fever and body aches,Heart Disease,Albuterol,89,96,67,23,36.5,100,Walk-in,Afternoon,Latex,English,180,112,34.6,1
+56,Male,Hispanic,Medicare,3,3.9,Back pain after lifting heavy object,Hypertension,"Albuterol, Metformin",103,167,70,18,36.0,92,Ambulance,Evening,Peanuts,English,180,66,20.4,1
+26,Female,Black,Medicaid,0,1.2,"Twisted ankle, slight swelling",Heart Disease,Insulin,65,108,98,17,37.4,86,Walk-in,Morning,None,Spanish,200,60,15.0,0
+78,Male,Hispanic,Uninsured,9,6.7,Confusion and slurred speech,Heart Disease,Albuterol,123,109,95,16,38.3,94,Referral,Night,NSAIDs,Spanish,184,89,26.3,2
+71,Male,White,Private,1,1.4,Sudden weakness on one side of body,Diabetes,"Metformin, Albuterol",58,151,81,26,37.1,89,Walk-in,Morning,None,Spanish,161,50,19.3,2
+61,Female,Hispanic,Uninsured,5,1.2,Chronic cough worsening over weeks,Hypertension,Atorvastatin,116,176,77,24,36.8,93,Ambulance,Afternoon,Peanuts,English,176,107,34.5,1
+80,Female,Hispanic,Uninsured,10,0.7,Severe allergic reaction with hives,None,None,73,161,68,25,37.7,89,Walk-in,Night,Penicillin,Spanish,179,102,31.8,2
+41,Male,Hispanic,Private,4,12.0,Severe allergic reaction with hives,Asthma,"Warfarin, Lisinopril",119,158,73,24,35.0,88,Referral,Evening,Latex,Spanish,157,66,26.8,2
+74,Female,Other,Medicaid,9,10.3,Intermittent palpitations,Diabetes,Albuterol,129,179,92,27,38.3,99,Ambulance,Evening,Latex,English,155,120,49.9,1
+51,Female,White,Medicare,4,10.6,Severe allergic reaction with hives,None,None,122,163,76,23,36.5,93,Ambulance,Afternoon,None,Spanish,178,119,37.6,2
+76,Female,Black,Uninsured,8,48.8,Back pain after lifting heavy object,None,None,65,141,75,17,38.0,89,Walk-in,Morning,Latex,Spanish,170,53,18.3,1
+55,Female,Asian,Uninsured,8,9.4,Pounding headache with neck stiffness,Chronic Kidney Disease,"Insulin, Metformin",100,154,88,26,35.1,86,Ambulance,Evening,None,English,191,60,16.4,2
+44,Female,Black,Medicare,7,5.1,Intermittent palpitations,Chronic Kidney Disease,"Lisinopril, Atorvastatin",126,134,83,30,39.4,91,Referral,Afternoon,NSAIDs,English,161,98,37.8,1
+48,Male,Asian,Private,5,22.3,Abdominal pain and vomiting,Chronic Kidney Disease,Albuterol,100,96,65,30,36.3,100,Referral,Morning,Peanuts,English,185,89,26.0,1
+41,Female,White,Uninsured,4,4.1,Chronic cough worsening over weeks,COPD,Aspirin,139,103,98,17,37.5,91,Walk-in,Afternoon,None,English,186,102,29.5,1
+35,Female,Asian,Uninsured,6,0.0,Sore throat and cough,Diabetes,"Atorvastatin, Insulin",93,136,94,19,38.5,87,Ambulance,Evening,None,Other,181,118,36.0,0
+31,Female,Hispanic,Medicare,9,0.1,Confusion and slurred speech,Chronic Kidney Disease,"Aspirin, Insulin",89,140,64,24,37.4,100,Walk-in,Evening,None,Other,165,50,18.4,2
+71,Male,Other,Uninsured,10,0.3,Severe headache with vision changes,Asthma,"Lisinopril, Metformin",137,117,73,24,36.6,95,Ambulance,Night,None,English,169,111,38.9,2
+44,Male,Black,Uninsured,4,0.3,Persistent diarrhea and dehydration,Diabetes,"Insulin, Warfarin",110,133,92,25,37.0,98,Ambulance,Morning,Peanuts,Spanish,157,97,39.4,1
+31,Female,Hispanic,Medicare,0,9.2,Chronic cough worsening over weeks,Heart Disease,"Aspirin, Lisinopril",98,144,72,20,37.2,94,Referral,Afternoon,Latex,Spanish,184,65,19.2,1
+25,Female,Asian,Medicaid,6,6.9,"Twisted ankle, slight swelling",COPD,"Albuterol, Aspirin",63,148,89,18,37.4,99,Walk-in,Evening,NSAIDs,English,176,96,31.0,0
+23,Female,Asian,Private,6,1.5,Sudden weakness on one side of body,COPD,"Lisinopril, Albuterol",69,134,99,12,36.5,97,Referral,Afternoon,Penicillin,Spanish,171,94,32.1,2
+26,Male,Hispanic,Uninsured,7,16.1,Back pain after lifting heavy object,None,None,93,160,67,16,37.4,93,Walk-in,Evening,Penicillin,English,163,85,32.0,1
+78,Female,Black,Uninsured,7,13.7,High fever and body aches,COPD,"Aspirin, Atorvastatin",76,90,93,15,35.9,85,Ambulance,Morning,NSAIDs,English,190,52,14.4,1
+68,Female,Asian,Private,5,15.7,Nausea and lightheadedness,Heart Disease,Insulin,108,95,88,28,36.8,89,Referral,Evening,Peanuts,Spanish,171,73,25.0,1
+68,Male,Other,Private,1,3.6,Pounding headache with neck stiffness,Heart Disease,Insulin,118,137,80,29,36.2,97,Walk-in,Afternoon,Penicillin,Spanish,200,111,27.8,2
+54,Male,White,Uninsured,5,0.7,High fever and body aches,Diabetes,"Atorvastatin, Insulin",122,180,63,19,35.7,93,Walk-in,Night,NSAIDs,Spanish,188,64,18.1,1
+52,Female,Black,Medicare,0,3.1,Repeated episodes of chest tightness,None,None,91,136,87,25,36.9,96,Referral,Evening,None,Spanish,182,73,22.0,2
+37,Male,White,Uninsured,4,0.8,Pounding headache with neck stiffness,None,None,56,125,97,27,38.0,88,Ambulance,Night,Latex,Other,164,95,35.3,2
+40,Female,Other,Uninsured,10,6.3,High fever and body aches,COPD,"Warfarin, Atorvastatin",91,169,74,21,38.4,97,Walk-in,Night,Peanuts,English,190,102,28.3,1
+69,Male,Black,Private,8,6.4,Confusion and slurred speech,None,None,92,96,63,16,37.5,89,Ambulance,Afternoon,None,English,160,90,35.2,2
+21,Female,Black,Medicare,1,2.0,Back pain after lifting heavy object,Chronic Kidney Disease,"Insulin, Atorvastatin",92,171,64,20,36.9,87,Ambulance,Morning,Peanuts,Spanish,152,98,42.4,0
+34,Male,Asian,Uninsured,6,12.4,Chest pain and trouble breathing,None,None,118,104,62,30,36.8,96,Ambulance,Afternoon,Latex,Spanish,152,53,22.9,2
+48,Female,White,Uninsured,10,0.1,"Twisted ankle, slight swelling",Hypertension,Metformin,58,106,60,14,37.0,94,Walk-in,Night,None,Spanish,172,79,26.7,0
+27,Male,White,Uninsured,7,3.6,Back pain after lifting heavy object,Chronic Kidney Disease,Albuterol,105,163,79,20,36.9,99,Referral,Evening,None,Spanish,172,102,34.5,1
+70,Female,Asian,Uninsured,0,5.1,Abdominal pain and vomiting,Heart Disease,"Aspirin, Atorvastatin",121,101,85,26,36.2,96,Ambulance,Night,NSAIDs,Spanish,192,106,28.8,1
+20,Male,Hispanic,Uninsured,2,6.1,"Multiple falls, leg pain",None,None,138,149,85,18,37.3,92,Walk-in,Evening,Latex,Other,168,71,25.2,1
+50,Female,White,Medicare,5,3.2,High fever and body aches,Heart Disease,Metformin,116,172,69,26,36.7,92,Walk-in,Evening,Latex,English,162,53,20.2,1
+30,Male,Other,Medicaid,8,4.6,Mild rash on arms,Chronic Kidney Disease,Warfarin,97,160,60,23,37.8,89,Referral,Night,Penicillin,Spanish,160,93,36.3,0
+75,Female,Asian,Medicaid,1,2.8,"Multiple falls, leg pain",Chronic Kidney Disease,"Warfarin, Metformin",139,105,69,24,37.5,87,Referral,Afternoon,Peanuts,Other,200,57,14.2,1
+27,Male,Asian,Medicare,2,7.4,Repeated episodes of chest tightness,Hypertension,Metformin,131,135,78,21,37.0,99,Referral,Night,None,Spanish,153,104,44.4,2
+83,Female,Hispanic,Medicare,2,0.4,Confusion and slurred speech,COPD,"Aspirin, Warfarin",68,117,76,30,36.5,99,Walk-in,Evening,Peanuts,Other,166,103,37.4,2
+67,Male,Black,Private,2,2.3,Severe headache with vision changes,Diabetes,Albuterol,88,123,92,23,37.5,94,Ambulance,Afternoon,None,Other,189,61,17.1,2
+19,Male,Asian,Medicaid,10,2.1,Moderate shortness of breath when walking,Chronic Kidney Disease,"Lisinopril, Aspirin",116,160,67,23,37.7,94,Referral,Evening,Penicillin,Other,171,106,36.3,2
+54,Male,White,Uninsured,10,12.0,Nausea and lightheadedness,Chronic Kidney Disease,Warfarin,89,149,93,27,37.1,89,Ambulance,Morning,NSAIDs,Other,184,68,20.1,1
+89,Male,Other,Private,6,4.5,Intermittent palpitations,None,None,86,178,95,28,38.2,96,Ambulance,Morning,Penicillin,Spanish,182,79,23.8,1
+61,Male,Hispanic,Uninsured,2,3.1,Intermittent palpitations,Asthma,"Insulin, Aspirin",109,100,72,19,38.1,94,Ambulance,Evening,Peanuts,English,157,113,45.8,1
+37,Male,Black,Uninsured,7,2.0,Back pain after lifting heavy object,Chronic Kidney Disease,"Warfarin, Aspirin",92,97,72,26,35.5,98,Ambulance,Night,Peanuts,Spanish,164,51,19.0,1
+78,Male,White,Medicaid,2,0.2,Chronic cough worsening over weeks,Heart Disease,"Warfarin, Albuterol",116,158,62,26,38.8,87,Walk-in,Afternoon,Penicillin,Other,151,93,40.8,1
+81,Female,Black,Medicare,5,9.0,Back pain after lifting heavy object,Asthma,"Albuterol, Warfarin",123,156,95,17,35.9,100,Referral,Evening,None,Spanish,188,96,27.2,1
+38,Male,White,Private,8,1.7,Severe headache with vision changes,Diabetes,Lisinopril,50,126,72,25,36.4,93,Walk-in,Afternoon,Latex,English,166,96,34.8,2
+76,Female,White,Medicare,5,0.2,"Twisted ankle, slight swelling",None,None,55,142,75,16,37.7,96,Referral,Evening,Latex,Spanish,191,101,27.7,0
+43,Female,Hispanic,Medicaid,4,6.5,Chest pain and trouble breathing,Chronic Kidney Disease,"Lisinopril, Atorvastatin",72,124,90,14,36.3,100,Referral,Afternoon,Latex,Spanish,154,65,27.4,2
+34,Male,Other,Uninsured,5,5.9,Chronic cough worsening over weeks,Chronic Kidney Disease,"Warfarin, Insulin",115,173,77,12,37.5,96,Walk-in,Afternoon,Peanuts,English,189,55,15.4,1
+67,Male,Other,Medicaid,5,7.0,Persistent diarrhea and dehydration,Heart Disease,"Insulin, Warfarin",63,94,100,19,36.4,86,Ambulance,Evening,Penicillin,English,165,94,34.5,1
+88,Female,Other,Medicaid,6,11.2,Sore throat and cough,Hypertension,Aspirin,82,133,79,26,38.0,87,Ambulance,Evening,Penicillin,Spanish,188,73,20.7,0
+87,Female,Other,Private,7,0.5,Sudden weakness on one side of body,Chronic Kidney Disease,"Lisinopril, Warfarin",129,164,91,24,35.1,97,Referral,Evening,None,English,155,102,42.5,2
+68,Male,Asian,Medicaid,7,7.6,"Twisted ankle, slight swelling",Heart Disease,Aspirin,113,166,99,28,35.7,88,Walk-in,Evening,Penicillin,Other,179,74,23.1,0
+83,Male,Hispanic,Medicaid,3,7.9,High fever and body aches,Heart Disease,"Warfarin, Insulin",81,110,69,16,36.0,85,Referral,Afternoon,Latex,Other,171,62,21.2,1
+72,Male,White,Medicaid,0,7.0,Intermittent palpitations,COPD,"Metformin, Lisinopril",57,126,78,25,37.1,94,Walk-in,Morning,Penicillin,Other,175,95,31.0,1
+63,Female,Asian,Private,10,7.1,Severe headache with vision changes,None,None,52,117,88,29,39.4,87,Walk-in,Afternoon,Latex,English,162,96,36.6,2
+22,Female,White,Medicaid,6,15.5,Intermittent palpitations,Asthma,Atorvastatin,96,102,73,28,37.1,96,Referral,Night,Peanuts,Other,187,55,15.7,1
+32,Female,Asian,Uninsured,3,0.6,"Multiple falls, leg pain",Heart Disease,"Albuterol, Metformin",105,121,98,20,37.8,99,Ambulance,Afternoon,Latex,Other,190,82,22.7,1
+38,Female,Black,Private,6,2.4,Confusion and slurred speech,Asthma,"Albuterol, Aspirin",53,173,73,19,35.7,92,Referral,Afternoon,NSAIDs,Spanish,163,55,20.7,2
+78,Male,Other,Uninsured,0,8.0,Pounding headache with neck stiffness,None,None,138,148,96,27,36.7,93,Walk-in,Evening,None,Other,187,92,26.3,2
+31,Male,White,Medicaid,5,11.3,High fever and body aches,Diabetes,Lisinopril,61,102,95,18,37.5,100,Walk-in,Night,None,English,199,101,25.5,1
+57,Male,Other,Uninsured,7,13.4,Sudden weakness on one side of body,Diabetes,"Lisinopril, Metformin",128,149,94,25,36.0,90,Ambulance,Night,None,English,172,89,30.1,2
+62,Female,White,Private,6,1.5,Back pain after lifting heavy object,Asthma,Atorvastatin,77,173,92,27,35.8,86,Walk-in,Night,Peanuts,Spanish,156,87,35.7,1
+54,Female,Other,Medicare,3,0.2,Severe allergic reaction with hives,COPD,"Insulin, Albuterol",99,176,74,20,36.6,95,Walk-in,Night,Penicillin,Other,174,58,19.2,2
+55,Female,White,Uninsured,5,0.4,Persistent diarrhea and dehydration,Hypertension,Albuterol,64,154,89,12,35.1,90,Walk-in,Morning,Latex,Other,162,56,21.3,1
+25,Female,White,Medicare,10,8.6,Chest pain and trouble breathing,COPD,"Insulin, Warfarin",60,120,71,25,37.6,87,Walk-in,Morning,NSAIDs,English,193,99,26.6,2
+34,Male,Other,Private,2,1.7,"Twisted ankle, slight swelling",COPD,Metformin,53,176,87,27,36.5,88,Walk-in,Morning,None,Other,181,86,26.3,0
+78,Male,White,Medicaid,0,3.4,Confusion and slurred speech,Hypertension,Warfarin,69,162,64,12,38.2,90,Referral,Night,None,Other,163,66,24.8,2
+74,Female,Asian,Private,2,0.3,"Multiple falls, leg pain",Chronic Kidney Disease,Aspirin,119,148,65,12,35.4,94,Walk-in,Night,Penicillin,Spanish,200,68,17.0,1
+68,Male,Other,Medicaid,6,4.6,Persistent diarrhea and dehydration,Diabetes,Aspirin,106,157,97,18,37.8,100,Ambulance,Morning,NSAIDs,English,156,99,40.7,1
+69,Female,Black,Medicare,9,1.7,Sharp abdominal cramps,Chronic Kidney Disease,Aspirin,69,139,75,28,37.9,85,Ambulance,Evening,Latex,Other,181,79,24.1,1
+25,Male,White,Medicaid,4,22.4,Repeated episodes of chest tightness,None,None,93,98,62,15,38.4,94,Referral,Morning,Peanuts,Spanish,183,57,17.0,2
+27,Male,Hispanic,Medicare,6,0.7,Back pain after lifting heavy object,Diabetes,"Lisinopril, Albuterol",64,170,77,17,36.0,87,Ambulance,Morning,Penicillin,English,188,64,18.1,1
+70,Male,Asian,Uninsured,7,8.9,Pounding headache with neck stiffness,Diabetes,"Aspirin, Lisinopril",119,155,72,23,38.0,99,Walk-in,Night,None,Spanish,158,112,44.9,2
+51,Male,Asian,Medicare,0,8.4,Chest pain and trouble breathing,Diabetes,"Atorvastatin, Warfarin",113,113,66,13,37.7,99,Referral,Morning,Penicillin,Other,182,62,18.7,2
+62,Male,Hispanic,Uninsured,1,8.3,Nausea and lightheadedness,None,None,54,166,64,30,37.7,89,Referral,Afternoon,Penicillin,Spanish,173,67,22.4,1
+38,Male,Black,Uninsured,5,5.5,Cut on hand with mild bleeding,Asthma,Aspirin,138,149,82,15,37.1,99,Ambulance,Night,NSAIDs,Spanish,184,88,26.0,0
+59,Male,White,Private,6,0.9,"Multiple falls, leg pain",Diabetes,Atorvastatin,114,159,64,24,38.6,96,Walk-in,Night,Peanuts,Other,199,61,15.4,1
+64,Male,Other,Medicaid,2,0.3,Sudden weakness on one side of body,Hypertension,"Insulin, Atorvastatin",111,133,78,19,35.4,97,Referral,Morning,Peanuts,English,179,88,27.5,2
+62,Female,White,Medicare,0,13.4,Cut on hand with mild bleeding,Diabetes,"Albuterol, Metformin",108,179,79,28,37.3,85,Referral,Evening,Peanuts,Other,153,54,23.1,0
+77,Female,Asian,Medicaid,6,6.8,Abdominal pain and vomiting,Heart Disease,"Lisinopril, Warfarin",92,115,88,29,37.1,94,Ambulance,Night,NSAIDs,Spanish,154,70,29.5,1
+41,Male,Black,Private,5,3.2,Mild rash on arms,Asthma,Aspirin,51,155,98,28,37.7,94,Ambulance,Afternoon,Latex,Other,193,83,22.3,0
+59,Female,Asian,Private,3,4.1,Sore throat and cough,Heart Disease,Aspirin,91,136,64,28,37.3,90,Referral,Morning,Latex,Other,167,68,24.4,0
+57,Male,Hispanic,Uninsured,0,19.3,Mild rash on arms,Diabetes,Albuterol,121,154,95,18,35.4,98,Ambulance,Morning,None,Spanish,154,73,30.8,0
+45,Female,Black,Uninsured,10,5.8,Chest pain and trouble breathing,Hypertension,Insulin,139,104,67,24,37.0,99,Ambulance,Evening,Peanuts,English,190,75,20.8,2
+73,Male,Other,Medicaid,1,3.7,Abdominal pain and vomiting,Hypertension,Albuterol,118,130,72,12,36.9,93,Walk-in,Morning,Peanuts,Spanish,196,53,13.8,0
+80,Male,White,Medicare,3,11.1,Sore throat and cough,Asthma,"Aspirin, Lisinopril",76,101,62,25,37.6,91,Referral,Night,Penicillin,Other,185,63,18.4,0
+20,Male,Other,Medicare,0,0.5,Severe headache with vision changes,COPD,"Metformin, Insulin",135,108,94,23,37.1,90,Ambulance,Afternoon,Peanuts,Other,154,59,24.9,2
+50,Male,Other,Medicaid,2,6.0,Confusion and slurred speech,Chronic Kidney Disease,"Insulin, Aspirin",73,124,78,17,37.2,85,Referral,Evening,NSAIDs,Spanish,162,105,40.0,2
+53,Male,Asian,Private,5,3.6,Moderate shortness of breath when walking,Asthma,Warfarin,119,101,86,20,36.2,93,Walk-in,Evening,None,Other,191,52,14.3,1
+20,Female,Asian,Medicaid,3,15.8,Intermittent palpitations,Chronic Kidney Disease,"Aspirin, Insulin",137,129,65,22,36.2,96,Ambulance,Morning,Peanuts,Spanish,197,62,16.0,1
+52,Female,Hispanic,Private,5,0.9,Persistent diarrhea and dehydration,Hypertension,Lisinopril,109,126,80,25,36.6,93,Ambulance,Morning,Penicillin,Other,176,109,35.2,1
+40,Female,White,Medicare,2,8.5,Confusion and slurred speech,Hypertension,Lisinopril,138,176,88,26,35.1,92,Walk-in,Morning,None,English,165,66,24.2,2
+28,Female,Asian,Private,4,18.9,"Twisted ankle, slight swelling",Chronic Kidney Disease,"Insulin, Lisinopril",75,161,64,18,36.3,99,Walk-in,Afternoon,None,Spanish,165,104,38.2,0
+73,Male,Hispanic,Private,8,22.5,Moderate shortness of breath when walking,COPD,Warfarin,85,159,75,15,37.1,93,Ambulance,Morning,NSAIDs,Other,197,59,15.2,1
+53,Female,White,Uninsured,3,10.3,"Twisted ankle, slight swelling",None,None,62,135,77,12,37.2,89,Ambulance,Morning,None,Spanish,165,106,38.9,0
+86,Female,White,Medicare,5,9.7,Sudden weakness on one side of body,Chronic Kidney Disease,"Albuterol, Aspirin",82,125,92,19,37.0,90,Walk-in,Night,None,English,166,56,20.3,2
+85,Male,Other,Private,4,2.6,High fever and body aches,Chronic Kidney Disease,Albuterol,91,141,83,22,38.6,92,Walk-in,Morning,NSAIDs,Spanish,166,57,20.7,1
+76,Male,Other,Private,10,1.7,Nausea and lightheadedness,Asthma,"Albuterol, Warfarin",115,94,77,14,36.2,98,Referral,Morning,Peanuts,Other,187,96,27.5,1
+50,Male,Asian,Medicaid,10,4.5,"Twisted ankle, slight swelling",Hypertension,Aspirin,54,149,65,13,37.7,90,Ambulance,Morning,NSAIDs,Other,195,92,24.2,0
+21,Male,Other,Medicare,7,4.7,"Twisted ankle, slight swelling",Hypertension,"Insulin, Atorvastatin",52,179,86,15,36.6,90,Walk-in,Evening,Latex,Spanish,165,100,36.7,0
+72,Female,Black,Medicare,0,2.1,Severe allergic reaction with hives,Chronic Kidney Disease,Aspirin,109,148,81,19,37.8,94,Ambulance,Afternoon,Peanuts,Other,198,91,23.2,2
+44,Female,Other,Medicaid,6,10.6,High fever and body aches,COPD,"Atorvastatin, Metformin",73,149,78,29,38.4,100,Ambulance,Night,Peanuts,Other,191,97,26.6,1
+56,Female,Hispanic,Medicaid,7,11.9,Chest pain and trouble breathing,COPD,"Atorvastatin, Insulin",57,168,85,23,37.1,95,Referral,Afternoon,None,English,200,112,28.0,2
+66,Male,Asian,Medicaid,2,2.1,Confusion and slurred speech,Hypertension,Insulin,120,179,66,18,36.8,94,Ambulance,Morning,Peanuts,English,199,120,30.3,2
+70,Female,Asian,Medicaid,4,7.6,"Twisted ankle, slight swelling",COPD,"Lisinopril, Atorvastatin",135,116,63,27,37.4,87,Walk-in,Night,Peanuts,English,191,52,14.3,0
+20,Male,Asian,Private,0,2.2,"Multiple falls, leg pain",Hypertension,"Aspirin, Insulin",70,142,82,17,37.3,88,Ambulance,Afternoon,Latex,Other,198,98,25.0,2
+24,Male,Black,Uninsured,2,8.8,Moderate shortness of breath when walking,Chronic Kidney Disease,"Insulin, Albuterol",94,160,64,18,36.5,86,Ambulance,Night,Penicillin,English,181,98,29.9,1
+30,Female,White,Private,8,9.0,Chronic cough worsening over weeks,None,None,77,147,79,13,37.3,95,Referral,Morning,Penicillin,Spanish,160,103,40.2,1
+62,Female,Black,Medicaid,5,7.8,Sudden weakness on one side of body,None,None,103,137,65,13,36.8,99,Ambulance,Afternoon,Peanuts,English,163,97,36.5,2
+40,Male,Hispanic,Medicare,3,0.1,Moderate shortness of breath when walking,Chronic Kidney Disease,"Atorvastatin, Metformin",75,142,73,15,36.7,100,Ambulance,Afternoon,None,English,176,109,35.2,1
+77,Female,White,Private,9,2.9,Severe allergic reaction with hives,Asthma,Insulin,82,120,85,15,37.6,85,Ambulance,Evening,Penicillin,Spanish,153,117,50.0,2
+21,Female,Black,Medicaid,0,18.6,Chronic cough worsening over weeks,Heart Disease,"Metformin, Atorvastatin",118,112,75,16,37.7,91,Referral,Night,None,English,187,54,15.4,1
+24,Male,Black,Medicare,2,0.5,Confusion and slurred speech,COPD,"Albuterol, Insulin",96,156,83,21,37.3,93,Walk-in,Evening,NSAIDs,Spanish,162,97,37.0,2
+52,Male,White,Medicare,5,5.9,Cut on hand with mild bleeding,Diabetes,Warfarin,65,142,99,15,36.4,89,Ambulance,Evening,Penicillin,English,194,55,14.6,1
+86,Female,Black,Uninsured,0,4.1,Confusion and slurred speech,Heart Disease,Aspirin,70,129,96,29,37.0,90,Walk-in,Morning,Penicillin,Other,197,61,15.7,2
+54,Female,Other,Medicaid,5,1.2,"Multiple falls, leg pain",COPD,Albuterol,116,133,90,22,36.2,99,Ambulance,Evening,Peanuts,Other,166,110,39.9,2
+27,Female,Asian,Uninsured,1,4.5,Sharp abdominal cramps,COPD,"Albuterol, Insulin",62,133,98,24,37.1,96,Referral,Morning,Penicillin,English,193,77,20.7,1
+19,Male,Asian,Medicare,4,2.7,Persistent diarrhea and dehydration,Hypertension,"Lisinopril, Albuterol",101,118,94,22,35.5,93,Walk-in,Afternoon,Peanuts,Spanish,163,58,21.8,1
+65,Male,Black,Private,2,0.4,High fever and body aches,Asthma,Atorvastatin,93,171,64,21,35.0,96,Walk-in,Afternoon,NSAIDs,English,189,68,19.0,1
+64,Female,Other,Medicaid,0,17.5,Back pain after lifting heavy object,Asthma,"Albuterol, Warfarin",115,94,88,12,37.0,89,Walk-in,Evening,Latex,Spanish,199,107,27.0,1
+25,Female,Asian,Private,0,7.0,Repeated episodes of chest tightness,Asthma,"Metformin, Lisinopril",139,122,85,15,36.0,92,Referral,Morning,Peanuts,English,150,108,48.0,2
+32,Female,Other,Private,1,12.3,Sharp abdominal cramps,Hypertension,Aspirin,93,105,81,21,38.0,94,Ambulance,Morning,Peanuts,English,184,107,31.6,1
+79,Male,Hispanic,Medicare,4,3.1,Moderate shortness of breath when walking,Diabetes,Lisinopril,134,166,77,15,37.9,90,Referral,Evening,Penicillin,Other,173,89,29.7,1
+83,Male,Other,Medicaid,7,1.5,Chest pain and trouble breathing,Chronic Kidney Disease,"Lisinopril, Warfarin",136,119,80,21,36.4,93,Walk-in,Night,Latex,Other,153,88,37.6,2
+41,Male,Asian,Medicare,5,0.3,Persistent diarrhea and dehydration,Hypertension,Metformin,128,139,63,30,35.6,88,Referral,Afternoon,Latex,English,188,57,16.1,1
+62,Female,Asian,Medicaid,7,3.1,Severe headache with vision changes,Diabetes,Warfarin,114,123,76,16,37.4,93,Ambulance,Night,Latex,English,173,88,29.4,2
+38,Female,Asian,Private,2,3.0,Chronic cough worsening over weeks,Hypertension,Atorvastatin,81,124,78,25,37.2,100,Ambulance,Evening,None,Spanish,171,117,40.0,1
+62,Female,Hispanic,Medicare,7,1.0,Back pain after lifting heavy object,Asthma,Insulin,115,164,82,21,37.0,86,Walk-in,Evening,Peanuts,Other,184,73,21.6,1
+34,Male,Other,Private,7,2.3,Severe allergic reaction with hives,Hypertension,"Lisinopril, Atorvastatin",115,110,94,28,36.7,97,Referral,Night,Latex,English,156,102,41.9,2
+54,Female,White,Uninsured,6,4.3,Confusion and slurred speech,Asthma,"Aspirin, Lisinopril",59,168,83,26,38.1,89,Referral,Night,Peanuts,English,158,85,34.0,1
+20,Male,White,Medicare,8,5.5,Sudden weakness on one side of body,Chronic Kidney Disease,"Insulin, Atorvastatin",94,133,86,12,37.5,96,Walk-in,Morning,Penicillin,English,171,119,40.7,2
+43,Male,Asian,Medicaid,5,3.0,Confusion and slurred speech,Hypertension,Lisinopril,79,116,66,29,38.2,88,Referral,Morning,Latex,English,163,69,26.0,2
+30,Female,Other,Private,2,3.6,Repeated episodes of chest tightness,Diabetes,"Warfarin, Albuterol",96,92,60,28,36.1,87,Walk-in,Afternoon,None,English,163,116,43.7,2
+30,Female,Asian,Private,1,8.7,Persistent diarrhea and dehydration,Chronic Kidney Disease,Metformin,89,157,95,30,38.4,85,Ambulance,Afternoon,Peanuts,Spanish,156,101,41.5,1
+28,Female,Black,Medicaid,10,2.5,"Twisted ankle, slight swelling",Hypertension,"Atorvastatin, Insulin",125,99,83,25,37.1,86,Referral,Night,Peanuts,English,171,58,19.8,0
+34,Male,Black,Uninsured,5,3.3,Severe headache with vision changes,Chronic Kidney Disease,"Albuterol, Atorvastatin",55,174,95,18,37.5,98,Ambulance,Evening,NSAIDs,Spanish,194,78,20.7,2
+67,Female,Asian,Private,4,1.8,Severe headache with vision changes,Diabetes,"Insulin, Albuterol",137,146,85,17,36.2,100,Walk-in,Evening,Latex,Other,185,61,17.8,2
+20,Male,Asian,Medicare,4,8.2,Repeated episodes of chest tightness,COPD,Insulin,92,162,62,19,35.7,99,Walk-in,Night,Latex,Other,174,112,37.0,2
+59,Male,Other,Private,5,6.7,Persistent diarrhea and dehydration,Heart Disease,Aspirin,120,165,96,29,34.7,88,Ambulance,Afternoon,Peanuts,Other,151,93,40.8,1
+84,Female,White,Medicare,3,25.3,"Multiple falls, leg pain",Asthma,"Warfarin, Atorvastatin",50,106,75,20,37.8,91,Ambulance,Evening,None,English,158,61,24.4,1
+58,Female,Asian,Uninsured,1,2.6,Repeated episodes of chest tightness,Diabetes,"Metformin, Atorvastatin",55,142,79,18,37.1,87,Ambulance,Night,None,English,157,83,33.7,2
+74,Female,Asian,Medicaid,4,3.3,Persistent diarrhea and dehydration,Chronic Kidney Disease,Metformin,131,129,73,18,36.9,88,Walk-in,Morning,None,Spanish,166,86,31.2,1
+61,Male,Black,Medicaid,8,7.1,Nausea and lightheadedness,Asthma,"Albuterol, Aspirin",99,109,100,15,36.5,89,Ambulance,Afternoon,Latex,English,176,81,26.1,1
+18,Female,Hispanic,Medicare,0,0.5,Repeated episodes of chest tightness,Chronic Kidney Disease,"Aspirin, Atorvastatin",115,121,68,17,36.2,85,Ambulance,Afternoon,Peanuts,English,163,73,27.5,2
+21,Female,Black,Private,1,6.8,Chest pain and trouble breathing,Heart Disease,"Lisinopril, Metformin",56,102,63,29,36.6,95,Walk-in,Evening,Penicillin,English,185,63,18.4,2
+89,Male,Other,Medicare,10,2.1,Nausea and lightheadedness,Heart Disease,Aspirin,125,114,62,15,37.9,97,Referral,Morning,Latex,Other,159,65,25.7,1
+36,Female,Asian,Private,3,12.8,Mild rash on arms,None,None,65,154,61,26,35.7,91,Ambulance,Night,Penicillin,English,177,114,36.4,0
+22,Female,Black,Medicare,9,14.9,Severe headache with vision changes,None,None,62,154,75,20,37.8,87,Walk-in,Morning,None,Spanish,164,107,39.8,2
+63,Male,White,Medicare,3,10.4,Pounding headache with neck stiffness,Chronic Kidney Disease,"Warfarin, Insulin",114,170,100,30,37.6,93,Ambulance,Afternoon,None,Spanish,199,120,30.3,2
+43,Male,Hispanic,Medicaid,4,8.0,Cut on hand with mild bleeding,Heart Disease,Metformin,87,110,73,13,35.1,90,Referral,Afternoon,NSAIDs,Spanish,186,82,23.7,0
+23,Female,White,Medicare,3,23.0,Confusion and slurred speech,None,None,86,103,96,19,37.7,91,Walk-in,Evening,Penicillin,English,162,62,23.6,2
+57,Female,Hispanic,Private,10,2.0,Persistent diarrhea and dehydration,Hypertension,Albuterol,87,121,81,13,37.0,96,Ambulance,Morning,Peanuts,Other,160,82,32.0,1
+83,Female,White,Private,0,10.4,Confusion and slurred speech,Asthma,"Lisinopril, Atorvastatin",118,137,99,30,35.3,100,Walk-in,Morning,NSAIDs,Other,162,80,30.5,2
+56,Male,Hispanic,Private,6,1.5,Mild rash on arms,Diabetes,"Insulin, Warfarin",67,116,87,29,36.5,94,Walk-in,Afternoon,Peanuts,English,178,58,18.3,0
+43,Female,Asian,Private,8,0.3,Moderate shortness of breath when walking,None,None,96,167,71,17,37.3,87,Referral,Night,Latex,Other,165,111,40.8,2
+73,Male,Other,Private,6,14.3,Abdominal pain and vomiting,None,None,132,119,93,25,36.7,95,Referral,Morning,Peanuts,English,164,97,36.1,1
+49,Female,Black,Private,4,0.1,Sudden weakness on one side of body,Hypertension,Lisinopril,107,180,94,27,36.6,96,Walk-in,Evening,Penicillin,English,183,50,14.9,2
+58,Female,Black,Private,3,10.4,Abdominal pain and vomiting,Heart Disease,"Atorvastatin, Albuterol",131,112,82,26,37.5,100,Referral,Evening,Penicillin,Spanish,188,94,26.6,1
+29,Female,White,Uninsured,7,10.9,Sore throat and cough,Chronic Kidney Disease,"Lisinopril, Aspirin",128,145,63,13,38.3,96,Ambulance,Evening,Peanuts,English,199,51,12.9,0
+43,Male,Other,Private,2,2.9,Abdominal pain and vomiting,Chronic Kidney Disease,"Insulin, Warfarin",133,164,69,16,37.7,94,Referral,Afternoon,NSAIDs,Spanish,151,73,32.0,1
+55,Female,Black,Uninsured,4,7.5,Sore throat and cough,None,None,110,135,64,29,37.7,95,Ambulance,Night,None,English,159,92,36.4,0
+76,Male,Black,Medicare,1,16.2,Severe allergic reaction with hives,None,None,120,109,93,14,35.5,99,Ambulance,Afternoon,Penicillin,Other,172,68,23.0,2
+85,Male,Asian,Uninsured,7,5.5,High fever and body aches,Hypertension,Insulin,66,108,94,26,35.4,98,Ambulance,Afternoon,Latex,English,196,113,29.4,1
+63,Male,Hispanic,Medicaid,6,3.6,"Twisted ankle, slight swelling",Asthma,"Insulin, Metformin",78,159,76,28,37.5,93,Walk-in,Night,None,Spanish,186,110,31.8,0
+56,Female,Asian,Medicare,6,8.1,"Multiple falls, leg pain",Asthma,"Albuterol, Atorvastatin",63,116,78,25,36.2,93,Referral,Night,Penicillin,Spanish,187,93,26.6,1
+85,Male,Asian,Uninsured,8,13.0,Severe headache with vision changes,Chronic Kidney Disease,"Lisinopril, Atorvastatin",95,148,93,22,35.8,92,Referral,Afternoon,NSAIDs,Other,187,70,20.0,2
+27,Male,Hispanic,Uninsured,9,8.3,Nausea and lightheadedness,Diabetes,"Albuterol, Lisinopril",121,123,75,20,38.8,97,Walk-in,Night,None,Spanish,172,71,24.0,1
+44,Male,Asian,Medicare,1,13.5,Severe allergic reaction with hives,Hypertension,"Aspirin, Warfarin",132,158,92,24,36.6,94,Referral,Evening,Latex,Spanish,180,92,28.4,2
+76,Female,Asian,Medicaid,7,2.8,Persistent diarrhea and dehydration,Asthma,Lisinopril,53,169,72,30,36.5,89,Referral,Morning,Latex,English,186,69,19.9,2
+41,Male,Asian,Medicare,3,3.9,Confusion and slurred speech,Chronic Kidney Disease,"Albuterol, Lisinopril",103,123,78,28,38.7,91,Referral,Evening,NSAIDs,Other,199,94,23.7,2
+30,Female,Hispanic,Private,5,12.6,Sore throat and cough,Asthma,Albuterol,96,108,96,17,37.3,98,Referral,Afternoon,Penicillin,Spanish,153,104,44.4,0
+51,Male,Hispanic,Private,10,5.2,Sore throat and cough,Hypertension,"Lisinopril, Atorvastatin",129,114,74,26,36.5,90,Walk-in,Afternoon,Peanuts,English,163,67,25.2,0
+37,Male,White,Private,2,0.7,Severe headache with vision changes,Heart Disease,Insulin,101,121,68,25,38.5,88,Walk-in,Night,NSAIDs,English,182,112,33.8,2
+80,Male,Asian,Medicare,0,2.2,Back pain after lifting heavy object,Diabetes,"Insulin, Lisinopril",72,161,72,26,37.1,87,Referral,Night,NSAIDs,Spanish,183,82,24.5,1
+63,Female,White,Private,0,4.9,Sore throat and cough,COPD,Warfarin,127,155,98,28,35.3,86,Walk-in,Afternoon,Peanuts,Other,155,108,45.0,0
+49,Male,Asian,Medicaid,4,8.4,Chest pain and trouble breathing,Hypertension,Warfarin,129,128,81,22,38.2,90,Walk-in,Morning,None,English,190,77,21.3,2
+81,Female,Other,Uninsured,6,1.3,Sore throat and cough,Diabetes,Insulin,90,93,89,25,37.0,92,Walk-in,Afternoon,Penicillin,Spanish,180,56,17.3,0
+71,Male,Black,Medicare,7,15.5,"Multiple falls, leg pain",Hypertension,Atorvastatin,69,167,91,29,38.2,88,Ambulance,Night,NSAIDs,English,170,67,23.2,1
+56,Male,Black,Private,4,2.0,Repeated episodes of chest tightness,Chronic Kidney Disease,"Warfarin, Metformin",77,174,75,27,37.1,87,Walk-in,Night,Latex,Other,166,101,36.7,2
+29,Male,Black,Private,2,3.0,High fever and body aches,None,None,98,141,74,12,38.0,93,Walk-in,Morning,Peanuts,English,151,119,52.2,1
+68,Female,White,Medicare,4,4.7,"Multiple falls, leg pain",Asthma,Insulin,87,129,61,30,36.8,100,Ambulance,Morning,None,Spanish,188,66,18.7,1
+24,Male,Other,Private,5,6.1,Pounding headache with neck stiffness,Hypertension,Atorvastatin,96,125,90,20,39.0,88,Ambulance,Night,NSAIDs,Other,197,92,23.7,2
+70,Female,Asian,Uninsured,4,8.6,Moderate shortness of breath when walking,COPD,Albuterol,99,140,94,19,37.2,88,Walk-in,Evening,Peanuts,Spanish,200,118,29.5,1
